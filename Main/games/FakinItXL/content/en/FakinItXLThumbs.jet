@@ -1,0 +1,2014 @@
+{
+ "content": [
+  {
+   "fakerHint": "",
+   "id": "121034",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "El terciopelo",
+    "La madera sin lijar",
+    "El cuero"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121035",
+   "starterContent": false,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "La piel de delfín",
+    "Una playa arenosa",
+    "El espiráculo de un delfín"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121037",
+   "starterContent": false,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "El látex",
+    "El aceite de oliva",
+    "La crema de manos"
+   ],
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121039",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Una pelea en un restaurante",
+    "Los perros blancos peludos",
+    "La ciudad de las margaritas"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121040",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Películas de acción",
+    "Películas musicales",
+    "Películas de Adam Sandler"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121041",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "La lluvia durante un casamiento",
+    "Una pelea entre las damas de honor",
+    "Un niño que vomita en una boda"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121125",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Perder el vuelo a casa para Navidad",
+    "Perder el tren al trabajo",
+    "Perderse el nacimiento de tu bebé"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121129",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Estar dormido",
+    "Estar despierto",
+    "A la siesta"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121130",
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Rezar",
+    "Hacer karaoke",
+    "Hablar de trenes"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121131",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Depilación estilo brasileño con cera",
+    "Romper un vidrio",
+    "Insultar"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121137",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Tu país natal",
+    "Tener casa propia",
+    "La pubertad"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121138",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Que te pongan retenedores",
+    "Hacerte el flequillo",
+    "Que te den un anillo de compromiso"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121139",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Las cosquillas",
+    "Estornudar fuerte",
+    "Alardear"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121140",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Chismosear",
+    "Usar hilo dental",
+    "Turbulencia"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121141",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Jarabe de maíz con alto contenido de fructosa",
+    "Masajes en los pies",
+    "Dar propina"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121142",
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Tocar chocolate derretido",
+    "Huevo crudo en la cara",
+    "Sentarse en una tarta"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121144",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Un actor distraído",
+    "Tu tío bailando en una boda",
+    "Que se te olvide la letra del himno nacional"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121145",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Una mancha en la ropa interior",
+    "Un pez feo",
+    "Mascar chicle mientras besas a alguien"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121146",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Usar hilo dental",
+    "Pintarse las uñas",
+    "Ponerse una tanga"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121147",
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Besos con lametazos",
+    "Abrazos superfuertes",
+    "Chocar los cinco bruscamente"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121148",
+   "starterContent": false,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Orinar",
+    "Cagar",
+    "Hacer cuentas"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121149",
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Monarquía",
+    "Capitalismo",
+    "Socialismo"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121150",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Bailar sin pareja",
+    "Comer a solas",
+    "Viajar sin compañía"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121151",
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Ser enfermizo",
+    "Ser saludable",
+    "Ser español"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121152",
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Colonia",
+    "Coquetear en el trabajo",
+    "Crucigramas"
+   ],
+   "x": true
+  },
+  {
+   "countrySpecific": false,
+   "fakerHint": "",
+   "id": "121153",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Cebollín",
+    "Ingreso básico universal",
+    "Sótano alfombrado"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121154",
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Queso rallado",
+    "Coach motivacional",
+    "Novelas de fantasía"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121155",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Educación en casa",
+    "Refresco dietético",
+    "Cruceros"
+   ],
+   "x": false
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121156",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Ir a un campamento de teatro",
+    "Ir a una fiesta del trabajo",
+    "Ir de acompañante a un baile"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121157",
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Un reality de TV",
+    "Pasantías",
+    "Una tarjeta de crédito sin intereses"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121158",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Armar muebles",
+    "Teorías conspirativas",
+    "Mascotas virtuales"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121159",
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Mercados de criptomonedas",
+    "Dulces sin azúcar",
+    "Equilibrio entre la vida personal y laboral"
+   ],
+   "x": false
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121160",
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Lamer estampillas",
+    "Una ensalada mojada",
+    "Un test de resistencia aérobica"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121161",
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Ponerse ropa formal",
+    "Ponerse ropa de playa",
+    "Ponerse ropa de los 2000"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121162",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Votar",
+    "Una hamburguesa con doble queso",
+    "Rascarse las picaduras de mosquitos"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121163",
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Medicamentos para la gripe",
+    "Un día ventoso",
+    "Coles"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121164",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "San Valentín",
+    "El terciopelo",
+    "Aspirar"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121172",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Reventarse un grano",
+    "Aplicarse aloe en una quemadura de sol",
+    "Chuparse una cortadura en un dedo"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121173",
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Tirarte un pedo",
+    "Vomitar",
+    "Que se te vaya un estornudo"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121174",
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Coquetear con un desconocido",
+    "Que te dejen esperando",
+    "Mentir para zafarte de un plan"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121184",
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Bidets",
+    "Beignets",
+    "Berets"
+   ],
+   "x": false
+  },
+  {
+   "fakerHint": "",
+   "id": "121609",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Making Balloon Animals",
+    "Making Progress in Life",
+    "Making Babies"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121628",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Oysters",
+    "Scallops",
+    "Imitation Crab"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121629",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "New England Clam Chowder",
+    "Gazpacho",
+    "Bouillabaisse"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121630",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Staying up Late",
+    "Waking up Early",
+    "Micro-naps"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121760",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Mud Masks",
+    "Cold Plunges",
+    "Pedicures"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121761",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Dungeons & Dragons",
+    "Renaissance Fairs",
+    "Having Friends"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121776",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Pooping at Home",
+    "Pooping in the Woods",
+    "Pooping on a Bus"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121777",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Valentine's Day",
+    "Average Monday Morning",
+    "Halloween"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121783",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "24-Hour Diners",
+    "Food a Dog Licked",
+    "All-You-Can-Eat Sushi"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121808",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Married for 40 Years",
+    "Married 40 Times",
+    "Married to 40 People"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121809",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Wallpaper",
+    "Beaded Curtains",
+    "Nude Living Room Art"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121810",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Chewing Popcorn Kernels",
+    "Left-Behind Pizza Crust",
+    "Rare, Bloody Steak"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121811",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "\"Cottagecore\" Aesthetic",
+    "Minimalist Aesthetic",
+    "Goth Aesthetic"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121813",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Peeing in the Ocean",
+    "Peeing Your Pants",
+    "Peeing in the Shower"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121814",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Receiving a Love Poem",
+    "Being Serenaded",
+    "A Tattoo of Your Name"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121815",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Jet Ski Accident",
+    "Bathroom Accident",
+    "Clown Car Accident"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121816",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Speed Dating",
+    "Speed Skating",
+    "Speeding"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121817",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Kissing Your Dog on Lips",
+    "Kissing Your Dad on Lips",
+    "Kissing Partner on Lips"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121818",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Being a Caricature Artist",
+    "Being a Sandwich Artist",
+    "Being a Balloon Artist"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121819",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Collecting Stamps",
+    "Collecting Pokémon",
+    "Collecting Blu-rays"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121820",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Instagram",
+    "Tumblr",
+    "Snapchat"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121822",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Failing at Karaoke",
+    "Failing Gym Class",
+    "A Failing Relationship"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121823",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Scuba Diving",
+    "Dumpster Diving",
+    "Skydiving"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121824",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Broken Promise",
+    "Broken Butt Bone",
+    "Broken Pie-Eating Record"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121825",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Missed the Flight",
+    "Missed the Toilet",
+    "Missed Axethrowing Target"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121827",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Calling Someone “Hubby”",
+    "Calling Someone “Bae”",
+    "Calling Someone “Lover”"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121828",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Leftover Pizza",
+    "3-Day Leftover Pizza",
+    "2-Week Leftover Pizza"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121829",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "World’s Best Juggler",
+    "World’s Best Scrabble-r",
+    "World’s Best Bank Teller"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121831",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Flashing Someone",
+    "Flash Mobs",
+    "The Flash"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121832",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "San Valentín",
+    "School Picture Day",
+    "Sunday"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121833",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Mustache",
+    "Big Bushy Beard",
+    "Goatee"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121834",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Fall Off Mechanical Bull",
+    "Fall Off Water Slide",
+    "Fall Off Horse"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121835",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Shoplifting",
+    "Dining & Dashing",
+    "Mail Fraud"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121836",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Vinyl Records",
+    "The iPod Nano",
+    "A Gramophone"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121837",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Boy Bands",
+    "The Boy Scouts",
+    "Your Friend’s Boyfriend"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121838",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Mixed Martial Arts",
+    "Bullet Journaling",
+    "Sudoku"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121839",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "The Solar System",
+    "The Feudal System",
+    "The Metric System"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121840",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Playing Air Guitar",
+    "Playing Electric Guitar",
+    "Playing Guitar Hero 2"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121841",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Savannah Bananas",
+    "Los Angeles Lakers",
+    "Harlem Globetrotters"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121842",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Chicken Tenders",
+    "Unbreaded Chicken Tenders",
+    "Carrots"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121844",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Adam Driver",
+    "Michael B. Jordan",
+    "Jason Momoa"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121845",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Ms. Rachel",
+    "Barney",
+    "Daniel Tiger"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121846",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Pigeon",
+    "Goose",
+    "Chicken"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121847",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Raw Egg",
+    "Clam Chowder",
+    "Strawberry Jelly"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121848",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Jury Duty",
+    "Paying Taxes",
+    "Local Elections"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121849",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "White Tuna in Olive Oil",
+    "SPAM",
+    "Uncooked Biscuit Dough"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121850",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Proposal at the Ren Faire",
+    "Proposal at a Restaurant",
+    "Proposal at Eiffel Tower"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121852",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Honeymoon in Dollywood",
+    "Honeymoon in Missouri",
+    "Honeymoon Five Years Late"
+   ],
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121853",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Light Blue Bedsheets",
+    "Lightning McQueen Bedsheets",
+    "No Top Bedsheet"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121856",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Jack White",
+    "Jack Black",
+    "Jack the Ripper"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121857",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Calling Your Best Friend",
+    "Calling Grandma",
+    "Calling Your Other Grandma"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121859",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Riding a Stallion",
+    "Riding a Tiger",
+    "Riding a Warthog"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121860",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Popcorn",
+    "Corn Chowder",
+    "Corn Dog"
+   ]
+  },
+  {
+   "countrySpecific": false,
+   "fakerHint": "",
+   "id": "121862",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "The Black Eyed Peas",
+    "The Cranberries",
+    "Meat Loaf"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121864",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Speeding in an Ambulance",
+    "Speeding in Weinermobile",
+    "Speeding in a Hearse"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121866",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Pinching Your Butt",
+    "Pinching Your Cheeks",
+    "Pinching Your Nip"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121870",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Tattoo on Forearm",
+    "Tattoo on Face",
+    "Tattoo on Eyelids"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121872",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Falling Out of a Canoe",
+    "Falling in Unrequited Love",
+    "Falling for a Scam"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121873",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Dog in People Clothes",
+    "Dog Eating People Food",
+    "Dog Sleeps in People Bed"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121874",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "A Surprise Birthday Party",
+    "A Surprise Poop",
+    "A Surprise Proposal"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121875",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "The \"Happy Birthday\" Song",
+    "\"The Piña Colada Song\"",
+    "\"The Song That Never Ends\""
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121876",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Bitter Beverages",
+    "Sweet Breakfast",
+    "Savory Dessert"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121877",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Posting Your Dinner",
+    "Posting Your Meltdown",
+    "Posting Your Ferrari"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121878",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Your Head, but 5x Larger",
+    "The Titanic, but 5x Larger",
+    "House Cat, but 5x Larger"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121879",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "TV in the Bedroom",
+    "Sofa in the Kitchen",
+    "12’ Skeleton in the Yard"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121880",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Prank Calls",
+    "Dry Sarcasm",
+    "Fart Jokes"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121881",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "The Paparazzi",
+    "Wildlife Photographer",
+    "Food Influencer"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121882",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "A Running Club",
+    "A Nightclub",
+    "A Book Club"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121883",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Rare Steak",
+    "Rare Broccoli",
+    "Rare Chicken"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121885",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Playing Marco Polo",
+    "Running on Pool Deck",
+    "Doing a Cannonball"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121886",
+   "starterContent": false,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Wearing Jeans to School",
+    "Wearing Dracula Costume to School",
+    "Wearing Dracula Costume at Dracula School"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121887",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Horse in a Parking Lot",
+    "Horse in a Stable",
+    "Horse in Your Dreams"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121888",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Plain Vodka Soda",
+    "Spicy Bloody Mary",
+    "Shot and a Pickleback"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121889",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Fans of “Star Wars”",
+    "Fans of \"Paw Patrol\"",
+    "Fans of “Lord of the Rings”"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121890",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Unexpected Rat Sighting",
+    "Unexpected Squirrel Sighting",
+    "Unexpected Mouse Sighting"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121892",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Win Lottery, Die Next Day",
+    "Rain on a Wedding Day",
+    "A Fly in Chardonnay"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121893",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Science Fiction",
+    "High Fantasy",
+    "Romance"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121895",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "69",
+    "420",
+    "67"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121896",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Dying on a Waterbed",
+    "Dying on a Futon",
+    "Dying on Mt. Everest"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121907",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "A Labubu",
+    "A Ventriloquist Dummy",
+    "A Funko Pop"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121908",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Canning Your Vegetables",
+    "Keeping an Ex’s Shirt",
+    "Having Your Cat Taxidermied"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121909",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "True Crime Podcasts",
+    "Game Speedrun Videos",
+    "TikTok Dances"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121910",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Last words: “Watch this!”",
+    "Last words: “I'm gonna fart.\"",
+    "Last words: “Kill me!”"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121911",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Spray Painting Stop Signs",
+    "Drawing on the Colosseum",
+    "Doodling on Your Jeans"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121912",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "A Gift Card",
+    "The Gift of Life",
+    "A Successful Re-Gift"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121913",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Cruises",
+    "Private Jets",
+    "Segways"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121914",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "First to Leave the Party",
+    "First up When Plane Lands",
+    "First to Live to 200"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121915",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "TV Shows About Showbiz",
+    "Movies About Superheroes",
+    "Songs About Exes"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121916",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "\"No pain, no gain.\"",
+    "\"Money can't buy happiness.\"",
+    "\"Clear your cookies.\""
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121917",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "A Petting Zoo",
+    "An Aquarium Touch Tank",
+    "A Butterfly Pavilion"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121918",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "3 Hours Early for Flight",
+    "Window Seat on Plane",
+    "Red-eye Flight"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121919",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Claps After a Movie Ends",
+    "Claps for a Dropped Glass",
+    "Claps for Smooth Landing"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121920",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Stephen Hawking",
+    "Marie Curie",
+    "Charles Darwin"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121921",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Banned From Disney World",
+    "Banned From Europe",
+    "Banned From Trains"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121922",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Smell of Gasoline",
+    "Smell of Burning Plastic",
+    "Smell of Wet Dog"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121923",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Interval Running",
+    "Crab Walking",
+    "Bar Crawling"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "121924",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Bed Time",
+    "Christmas Time",
+    "\"Me\" Time"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121925",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "A Neon Beer Sign",
+    "A Taxidermied Wolf",
+    "An Original Monet"
+   ],
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121926",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Quoting “Lord of the Rings”",
+    "Quoting the Constitution",
+    "Quoting Yourself"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "121927",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "“Have a blessed day.”",
+    "“Deuces!”",
+    "“Hit the ol dusty trail!”"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122247",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "“It smells like pee.”",
+    "“It smells like spaghetti.”",
+    "“Smells Like Teen Spirit”"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122249",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Ham on a Sandwich",
+    "Ham in Pasta",
+    "Ham in Jelly"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122250",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Jumping on a Trampoline",
+    "Jumping on a LEGO",
+    "Jumping off a Cliff"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122254",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Houseguests for one Night",
+    "College Roommates",
+    "Houseguests for a Week"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122315",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Rides That Drop You",
+    "Waiting in Line Before Rides",
+    "Rides That Go Fast"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122343",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Shoes on in the Kitchen",
+    "Shoes on in Bed",
+    "Shoes on in the Shower"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122370",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "The Real Housewives",
+    "Tiny Houses",
+    "House of Wax"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122371",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Charli XCX",
+    "Charlie Brown",
+    "Charizard"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122373",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Shel Silverstein",
+    "Puka Shell Necklaces",
+    "Young Sheldon"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122374",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "RVs",
+    "The YMCA",
+    "CBD Gummies"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "122375",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Sweating From Yoga",
+    "Sweat From Woodchopping",
+    "Sweat From Playing Yu-Gi-Oh"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122376",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "A Dog Named “Justin”",
+    "A Dog Named “Dog”",
+    "A Man Named “Bentley”"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122377",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "“Coexist” Car Decal",
+    "“Notorious RBG” Car Decal",
+    "Punisher Logo Car Decal"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122378",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Scream While Meeting a Celeb",
+    "Scream From the Trunk",
+    "Scream Right in Your Ear"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122379",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Baby Shoes, Never Worn",
+    "Cat-Ear Headphones, Never Worn",
+    "Wedding Dress, Never Worn"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122380",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Drone Light Shows",
+    "Laugh Track TV Shows",
+    "Dog Shows"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122383",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Bed Time",
+    "Medieval Times",
+    "\"...Baby One More Time\""
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122399",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Wet Dreams",
+    "Wet Sandwiches",
+    "Wet Makeouts"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "122400",
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Motorcycles",
+    "Warehouse Raves",
+    "Fireworks"
+   ],
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122401",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Ultimate Frisbee",
+    "Speedwalking",
+    "American Ninja Warrior"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122402",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Body Hair",
+    "Hairless Cats",
+    "Men With Ponytails"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122414",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Turning Guy Into Snake",
+    "Turning Snakes Into Guy",
+    "Turning Guy on, With Snakes"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "122415",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Saying “Aye Aye”",
+    "Saying “Okey-Dokey”",
+    "Saying “Bet”"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122416",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Sharing a Straw",
+    "Sharing a Toothbrush",
+    "Sharing an Insta Account"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122417",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Living in Oz",
+    "Living in Middle Earth",
+    "Living in Halloweentown"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122418",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Tattoo of a Celebrity",
+    "Fanfic About a Celebrity",
+    "Celebrity-Lookalike Surgery"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122453",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Dream About Falling",
+    "Dream About Public Nudity",
+    "Dream About Teeth"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "122455",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Coffee First Date",
+    "Rodeo First Date",
+    "First Date at a Wedding"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "122457",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "ChatGPT",
+    "Wall-E",
+    "The T-1000"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122458",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Expensive Fedora",
+    "Big Foam Piece of Cheese",
+    "Ball Cap (for Bad Team)"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122460",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Relay Races",
+    "Tandem Bicycles",
+    "A Capella Singing"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122461",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Burnt Marshmallows",
+    "The Color “Burnt Orange”",
+    "A Clever Burn (About Mom)"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122462",
+   "starterContent": true,
+   "subcategory": "YUM-YUCK",
+   "tasks": [
+    "Toasting With Champagne",
+    "Toasting With Olive Oil",
+    "Toasting With Water"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "122463",
+   "starterContent": true,
+   "subcategory": "COMEDY-TRAGEDY",
+   "tasks": [
+    "Falling on Gravel",
+    "Falling Into Pig Sty",
+    "Falling Into Steve Martin"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122464",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "Drinking at a Bar",
+    "Drinking at a Funeral",
+    "Drinking at a Wedding"
+   ],
+   "x": true
+  },
+  {
+   "fakerHint": "",
+   "id": "122465",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "A Bedroom Humidifier",
+    "Porcelain Doll on Bed",
+    "Five Decorative Pillows"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122466",
+   "starterContent": true,
+   "subcategory": "COOL-UNCOOL",
+   "tasks": [
+    "A Neon Sign",
+    "Subway Train Lights",
+    "A Clown-Shaped Lightbulb"
+   ]
+  },
+  {
+   "fakerHint": "",
+   "id": "122498",
+   "starterContent": true,
+   "subcategory": "LOVE-HATE",
+   "tasks": [
+    "Skinny-Dipping",
+    "Hotel Jacuzzis",
+    "Ice Plunges"
+   ],
+   "x": true
+  }
+ ]
+}

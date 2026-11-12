@@ -1,0 +1,1416 @@
+{
+ "content": [
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120534",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente viva más de todos ustedes.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120536",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que sería el/la mejor vampiro."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120537",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con el mejor sentido de la moda."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120540",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona a la que apuntaste la última vez."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120544",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es más adicta a su teléfono."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120545",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que conoces desde hace más tiempo."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120550",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente diga más la palabra “bro”."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120558",
+   "isInRoomOnly": false,
+   "task": "Apunta con el dedo a la persona más joven en la habitación."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120560",
+   "isInRoomOnly": false,
+   "task": "Apunta con el dedo a la persona que probablemente tenga pantalones de cuero."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120565",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que sería el mejor político."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120566",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona a la que le has contado más secretos."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120567",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es el peor bailarín."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120681",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que crees más capaz de cometer un asesinato.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120684",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con la que crees que tienes más probabilidades de vencer en una pelea.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120685",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que te comerías si todos se estrellaran en los Alpes.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120687",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que crees que te daría los mejores abrazos."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120688",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona que mejor huele."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120689",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que sospechas que ha viajado por más lugares."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120690",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con la que te gustaría estar atrapado en una isla desierta."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120691",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que sospechas que es la peor en este juego."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120693",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que creas que es la más feliz en general."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120694",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona a la que es más probable que le des un choque de manos."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120695",
+   "isInRoomOnly": false,
+   "task": "Apunta a alguien que quieras conocer mejor."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120696",
+   "isInRoomOnly": false,
+   "task": "¡Apunta a la persona que más te gustaría ver bailar bailar bailar!"
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120697",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona cuyo nombre sea más cercano al tuyo en orden alfabético."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120698",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona con el mejor pelo."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120699",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona que se ve MÁS parecida a ti."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120700",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que sospechas que tiene la edad más cercana a la tuya."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120702",
+   "isInRoomOnly": true,
+   "task": "Apunta a alguien que tenga los ojos del mismo color que tú."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120703",
+   "isInRoomOnly": true,
+   "task": "Apunta a una persona que esté vestida de rojo o verde."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120704",
+   "isInRoomOnly": true,
+   "task": "Apunta a alguien más bajo que tú, o a tí mismo."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120705",
+   "isInRoomOnly": false,
+   "task": "Apunta a alguien a quien aún no has Apuntado."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120706",
+   "isInRoomOnly": false,
+   "task": "Apunta a alguien quien estás seguro que NO es el impostor."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120707",
+   "isInRoomOnly": false,
+   "task": "Apunta a la última persona a la que escuchaste hablar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120708",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con el nombre más difícil de deletrear."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120709",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que vive más lejos."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120710",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con el peor gusto en música."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120711",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente tenga los pedos con mejor olor.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120712",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con más probabilidades de ganar un programa de juegos."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120713",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona con los pies más pequeños."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120714",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona con la camiseta con más estilo."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120715",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente diga más insultos.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120716",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona más boba."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120717",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente tenga los secretos más oscuros y escondidos.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120718",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es más probable que “sienta algo” por sirenas.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120720",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es más probable que sea donante de órganos.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120721",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que moriría primero en una película de terror."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120722",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente se levanta más temprano."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120723",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente tenga más correos electrónicos sin leer."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120724",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona con menos botones en su vestimenta."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120725",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que tiene más mascotas."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120727",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona nacida más cercana de 1989."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120728",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es más probable que vaya a una Comic-Con."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120729",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona más inmadura."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120730",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que, si mágicamente cambiara cuerpos contigo, realmente te arruinaría tu vida."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120731",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que debería tener su propio reality show."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120733",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que tiene la mejor risa."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120734",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona más capaz de hacer una volcada con una pelota de básquet."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120735",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona con la voz más grave."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120737",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente tenga más multas por exceso de velocidad.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120739",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con más probabilidades de ganar un concurso de deletreo."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120740",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que más te gustaría escuchar leer un libro entero."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120741",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es más probable que el gobierno esté espiando.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120742",
+   "isInRoomOnly": false,
+   "task": "Apunta al mayor fanático de los deportes."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120767",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con menos memoria."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120772",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que crees que tiene la vejiga más pequeña.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120774",
+   "isInRoomOnly": false,
+   "task": "Apunta a alguien que contratarías como guardaespaldas."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120776",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con la que más querrías compartir un traje de caballo para dos personas."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120777",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona más lejos de ti."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120778",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que sospechas que es más difícil de hacerla enojar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120779",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es más probable que grite si ve una rata."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120780",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona con las manos más bonitas."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120781",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente lee más."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120782",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que nunca escuchaste tirarse un pedo."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120783",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que querrías en tu equipo al jugar un juego de trivia."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120784",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente le gustan las peores películas."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120785",
+   "isInRoomOnly": true,
+   "task": "Apunta a la persona que es más probable que se refiera a sí misma como un “conocedor gourmet”."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120786",
+   "isInRoomOnly": true,
+   "task": "Apunta a alguien que NO tenga ojos marrones."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120787",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es más probable que tenga una discusión prolongada en el internet."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120788",
+   "isInRoomOnly": true,
+   "task": "Apunta a alguien que lleve algo en la muñeca."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120793",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien sabe qué decir para conseguir lo que quiere."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120794",
+   "isInRoomOnly": false,
+   "task": "Apunta a alguien que probablemente sea un amante de los perros."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120795",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que te gustaría ver con un gran disfraz de oso de peluche."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120796",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona cuyos pensamientos te gustaría escuchar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120797",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que tendría más dificultades si tuviera que ser vegana."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120799",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona de este grupo que más recientemente le hayas enviado un mensaje de texto."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Apunta a un objeto.",
+   "id": "120886",
+   "isInRoomOnly": true,
+   "task": "Apunta a algo en la habitación del color de tu última meada.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a un objeto en la habitación.",
+   "id": "120912",
+   "isInRoomOnly": true,
+   "task": "Apunta al objeto más lejano en la habitación al que podrías escupirle sin moverte de donde estás."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120913",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que definitivamente NO necesita ir a terapia.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120914",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien parecería más ser un Papa si se sentara en el Papamóvil.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120915",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que no sea muy buena para jugar a Fakin' It."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120917",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien todavía creería en las criptomonedas por algún motivo."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "Apunta a una parte de la habitación.",
+   "id": "120918",
+   "isInRoomOnly": true,
+   "task": "Apunta al mejor lugar de la habitación para mear.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a una parte de la habitación.",
+   "id": "120919",
+   "isInRoomOnly": true,
+   "task": "Apunta al lugar de la habitación que necesite una limpieza con mayor urgencia."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a una parte de tu cuerpo.",
+   "id": "120924",
+   "isInRoomOnly": true,
+   "task": "Apunta a la parte del cuerpo que MÁS te gustaría comerte en una situación de supervivencia.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a un objeto.",
+   "id": "120925",
+   "isInRoomOnly": true,
+   "task": "Apunta a un objeto en la habitación sobre el que podrías saltar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a una persona.",
+   "id": "120928",
+   "isInRoomOnly": true,
+   "task": "Apunta al objeto más roto de la habitación."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120929",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que, si secuestraran al grupo, sufriría primero el síndrome de Estocolmo.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120930",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que desconfía más de la llegada a la luna.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120931",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien derrocha dinero y da las propinas más generosas en los restaurantes.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Apunta a un objeto.",
+   "id": "120932",
+   "isInRoomOnly": true,
+   "task": "Apunta al objeto no comestible en la habitación que más te gustaría comer."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a una parte de tu cuerpo.",
+   "id": "120933",
+   "isInRoomOnly": true,
+   "task": "Apunta al lugar de tu cuerpo donde te pondrías una calcomanía de “Ya voté”."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a un lugar de tu cuerpo por debajo de tu pecho.",
+   "id": "120934",
+   "isInRoomOnly": true,
+   "task": "Apunta a la parte de tu pierna donde los shorts se vuelven pantalones."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "Apunta a una parte de tu cuerpo.",
+   "id": "120935",
+   "isInRoomOnly": true,
+   "task": "Apunta a una parte de tu cuerpo de la que alguien haría una estatua.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a una parte de tu cuerpo.",
+   "id": "120936",
+   "isInRoomOnly": true,
+   "task": "Apunta a un lugar de tu cuerpo donde dejarías que un extraño te pusiera un piercing en un estacionamiento.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120937",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien vería un graffiti en la calle y diría “Tiene sentido”."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Apunta a una parte de tu cuerpo.",
+   "id": "120938",
+   "isInRoomOnly": true,
+   "task": "Apunta a la parte de tu cuerpo donde sientes más cosquillas."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Apunta a un objeto.",
+   "id": "120939",
+   "isInRoomOnly": true,
+   "task": "Apunta a algo en la habitación que podrías robarte y que nadie notaría durante semanas."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a un objeto en la habitación.",
+   "id": "120940",
+   "isInRoomOnly": true,
+   "task": "Apunta a un lugar de la habitación donde lanzarías una granada activa.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120982",
+   "isInRoomOnly": false,
+   "task": "¡Apunta a quien tendría una amistad con SATANÁS!",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120983",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien comería, o HA comido, carne de caballo.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120984",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que está lista para una crisis de la mediana edad.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a una parte de tu cuerpo.",
+   "id": "120989",
+   "isInRoomOnly": true,
+   "task": "Apunta a un lugar de tu cuerpo donde tu pelo sea tan largo como para trenzarlo."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120991",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien se comería la mayor cantidad de comida de perro enlatada por 5 dólares."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120996",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien le molesta el error gramaticales en esta oración."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120998",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que sería más molesta si fuera invisible.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121001",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien adoptarías y criarías como si fuera un retoño tuyo."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a un objeto en la habitación.",
+   "id": "121004",
+   "isInRoomOnly": true,
+   "task": "Apunta a algo que pondrías en tu lengua EN ESTE MOMENTO.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121005",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien tiene los órganos más prístinos y de mayor valor.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121006",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien crees que derrotarías más fácilmente en una pelea en una jaula."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121007",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien más le mientes, en este juego O en la vida real."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121008",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien tendría la mayor energía de Karen en una experiencia de restaurante."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121009",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien es más probable que fisgonee en un mueble con medicamentos.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121010",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien es más probable que esté sin ropa interior en este momento.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121012",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es un \"niño por dentro\", encerrado en un cuerpo adulto."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Apunta a un objeto.",
+   "id": "121013",
+   "isInRoomOnly": true,
+   "task": "Apunta al objeto en la habitación que tenga la mayor probabilidad de ser poseído."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a alguien enérgicamente.",
+   "id": "121014",
+   "isInRoomOnly": true,
+   "task": "Apunta a alguien de manera muy dramática."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121016",
+   "isInRoomOnly": false,
+   "task": "Point at the person most likely to get roped into a “Multi-Level Marketing” scheme.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121017",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien elegirías a futuro para cargar tu ataúd.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121018",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien sabe más sobre evoluciones de Pokémon que sobre finanzas personales.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121019",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta a quien probablemente se roba cosas del trabajo.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121021",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien está más tiempo en línea.",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121030",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien tiene una mascota que NO puedes creer que todavía sigue con vida.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121031",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien le gusta el capitalismo actual.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121032",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien probablemente le haya enviado un mensaje privado a una celebridad por Insta."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121036",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien tiene la mayor probabilidad de organizar dos citas a la vez, con gente de distinto género.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": false,
+   "fakerHint": "",
+   "id": "121038",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien vendería a su primogénito por una oportunidad de alcanzar la fama en Instagram."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a más de una persona.",
+   "id": "121044",
+   "isInRoomOnly": true,
+   "task": "Apunta a quien caería en una red de clarividencia guiada por una araña.",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a una prenda.",
+   "id": "121046",
+   "isInRoomOnly": true,
+   "task": "¡Todos van a intercambiar prendas! Apunta a una prenda que quisieras recibir.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121047",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien menos le incomodaría excavar la tumba de José de San Martín.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121049",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien quizá es demasiado fan de la IA.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121051",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien pediría una bebida extremadamente molesta en un bar.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121053",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien muy probablemente dejaría toda su vida de lado para participar en “The Bachelor”.",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121177",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que se vería más sexy y tendría el mayor carisma si liderara una secta.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121178",
+   "isInRoomOnly": false,
+   "task": "Apunta a quien muy probablemente intentaría hacer locuras en una montaña rusa.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121276",
+   "isInRoomOnly": false,
+   "task": "Point at the person most likely to make a name for themselves in community theater."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122056",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es más probable que se resbale con una cáscara de banana."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122057",
+   "isInRoomOnly": false,
+   "task": "Point at the person most likely to be a big ol’ chess whiz."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122058",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que adoptaría un animal \"callejero\" sin nunca llamar al dueño en la chapita del collar."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122059",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es el mejor objetivo para una estafa en línea."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122060",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona con suficiente confianza para llevar una cara tatuada.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122061",
+   "isInRoomOnly": false,
+   "task": "Apunta al jugador que sería un horrible negociador de rehenes.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122062",
+   "isInRoomOnly": false,
+   "task": "Point at the player who would squeal to the cops after you pulled off a heist."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122063",
+   "isInRoomOnly": false,
+   "task": "Apunta a alguien extrovertido."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122064",
+   "isInRoomOnly": false,
+   "task": "Point to the person most likely to have attended a séance."
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122065",
+   "isInRoomOnly": false,
+   "task": "Point to the person most likely to spend $2,000+ on concert tickets."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122066",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente le pedía MÁS tarea a su profe."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122067",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que llora desconsoladamente con las películas animadas."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122068",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que bebe DEMASIADA agua."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122069",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que tiene un trabajo que nadie entiende realmente."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122070",
+   "isInRoomOnly": false,
+   "task": "Point to the person you can tell was a line leader in elementary school."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122071",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que crees que es más parecida a ti."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122072",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que te sorprendería menos descubrir que forma parte de la realeza en secreto."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122073",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que llamarías para resolver un pequeño problema de carpintería."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122074",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que conoces desde hace más tiempo."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122075",
+   "isInRoomOnly": false,
+   "task": "Apunta al jugador que es más probable que se deje convertir en vampiro."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122176",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta a la persona que, irritantemente, todavía recuerda su promedio de la secundaria.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a un objeto.",
+   "id": "122180",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Apunta a un objeto de la habitación que usarías como arma si surgiera una batalla campal.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Apunta a una parte de tu cuerpo.",
+   "id": "122181",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Apunta a un lugar de tu cuerpo donde derramas cosas con frecuencia."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Apunta a una área de la habitación.",
+   "id": "122209",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Apunta al lugar más dramático de la habitación para que aparezca un fantasma."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122210",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta al jugador que crees que moriría primero en un ataque de Godzilla."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122211",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Point to the person who most yearns for the sea."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122212",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta al jugador que puede resolver este problema más rápido mentalmente: (34 x 5)/2 = ???"
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122213",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta al jugador que podrías imaginarte comenzando una nueva vida como granjero.",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122214",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta a la persona que es más probable que considere congelarse criogénicamente.",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122216",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta a la persona que sería un cónyuge presidencial ideal.",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122217",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta a la persona con la que estarías más cómodo como dictador.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122220",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta al jugador que piensa que los protagonistas de la película Parásitos eran los ricos."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122228",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta al jugador que haría trampa en este juego si pudiera."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122229",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que probablemente tiene un tatuaje oculto.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122235",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta al “alfa” de este grupo."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122450",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta a la persona que probablemente tiene un cojín de pedos."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122451",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta a la persona que es más probable que le recuerde a la profe que tiene que recoger la tarea."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122452",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta a la persona que probablemente siempre se iba de la piyamada temprano."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122509",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Apunta al jugador que es más probable que pague dinero por un sombrero en un videojuego."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122510",
+   "isInRoomOnly": false,
+   "starterContent": false,
+   "task": "Apunta al jugador que probablemente tiene un millón de pestañas abiertas en su computadora."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122511",
+   "isInRoomOnly": false,
+   "task": "Apunta al jugador cuya pantalla de teléfono probablemente se vea peor."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122513",
+   "isInRoomOnly": false,
+   "task": "Point at the person most likely to still listen to terrestrial radio."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122514",
+   "isInRoomOnly": false,
+   "task": "Apunta al jugador que probablemente se enloquece más en un avión."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122516",
+   "isInRoomOnly": false,
+   "task": "Apunta a la persona que es más probable que arme un berrinche tras perder en un juego de mesa."
+  }
+ ]
+}

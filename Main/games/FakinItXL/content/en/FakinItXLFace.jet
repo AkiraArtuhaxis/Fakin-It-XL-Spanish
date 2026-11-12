@@ -1,0 +1,1017 @@
+{
+ "content": [
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121639",
+   "task": "Pon la cara que tendrías mientras ayudas a tus padres a instalar su PC."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121642",
+   "task": "Pon la cara que tendrías si descubrieras que Dios es una mujer.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121644",
+   "task": "Pon la cara que pondrías si ganaras la lotería."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121645",
+   "task": "Pon la cara que harías si te tiraras un pedo durante una entrevista de trabajo.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121646",
+   "task": "Pon la cara que pondrías mientras tocas un épico solo de guitarra."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121647",
+   "task": "Pon la cara que pondrías mientras tocas el ukelele."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121648",
+   "task": "Pon la cara que tendrías en el medio del carnaval de Brasil.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121649",
+   "task": "Pon la cara que pondrías si fueras el impostor."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121651",
+   "task": "Pon la cara que pondrías si tu enemigo de la infancia se disculpara contigo."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121654",
+   "task": "Pon la cara que pondrías si de repente escucharas smooth jazz."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121655",
+   "task": "Pon la cara que pondrías si tu trabajo te hiciera mudarte a Cuba."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121656",
+   "task": "Pon la cara que tendrías si hubieras resuelto un caso de asesinato.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121657",
+   "task": "Pon la cara que tendrías en tu reunión de secundaria.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": false,
+   "fakerHint": "",
+   "id": "121658",
+   "task": "Pon la cara que pondrías si vieras a Olaf el Muñeco De Nieve derretirse.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121659",
+   "task": "Pon la cara que pondrías si tu tarjeta de crédito fuera rechazada en una cita.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121661",
+   "task": "Pon la cara que pondrías si ganaras un año de suministros de atún."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121662",
+   "task": "Pon la cara que pondrías si estuvieras en un baño de burbujas."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121663",
+   "task": "Pon la cara que pondrías durante un tráfico muy concurrido."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121665",
+   "task": "Pon la cara que pondrías si fueras un perro perezoso."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121667",
+   "task": "Pon la cara que tienes típicamente en una noche de viernes."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121668",
+   "task": "Pon la cara que tienes típicamente cuando estás enfermo."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121669",
+   "task": "Pon la cara que pones cuando tu celular no tiene señal."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121670",
+   "task": "Pon la cara que pondrías si despertaras en un hospital vacío."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121671",
+   "task": "Pon la cara que pones cuando descubren que mentiste."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121672",
+   "task": "Pon la cara que haces cuando tu grupo de raros le gana a los bravucones en un partido de béisbol y así salvan el vecindario."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121673",
+   "task": "Pon la cara que haces cuando te aguantas tus pedos."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121674",
+   "task": "Pon la cara que tendrías en primera fila de un show de improvisaciones."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121675",
+   "task": "Pon la cara de “tomando la mano del bebé de un amigo”."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121677",
+   "task": "Pon la cara que tendrías en una carrera de NASCAR."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121679",
+   "task": "Pon la cara que pondrías cuando ves a alguien con el que no quieres hablar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121680",
+   "task": "Pon la cara que haces cuando estás relajado en la playa."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121681",
+   "task": "Pon la cara que tienes cuando un camarero dice que solo tienen productos de Pepsi."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121682",
+   "task": "Pon la cara que tienes cuando alguien sugiere jugar al Monopoly."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121683",
+   "task": "Pon tu cara de superhéroe."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121684",
+   "task": "Pon la cara que tendrías al montar un toro mecánico."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121685",
+   "task": "Pon tu cara de “listo para la fiesta”."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121686",
+   "task": "Pon tu cara cuando estás en la pista de baile."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121688",
+   "task": "Pon la cara que harías en una bañera."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121689",
+   "task": "Pon la cara que tendrías después de comer demasiado."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121690",
+   "task": "Pon una cara de patinador/a artístico/a."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121691",
+   "task": "Pon la cara que tendrías al pasar a escondidas al lado de un oso dormido."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121692",
+   "task": "Pon la cara que tendrías al observar el nacimiento de un bebé.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121694",
+   "task": "Pon una cara de entrenamiento."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121695",
+   "task": "Pon la cara que tendrías si todos en esta sala estuvieran desnudos.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121696",
+   "task": "Pon la cara que tendrías al resolver un problema matemático difícil."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121697",
+   "task": "Pon una cara de seducción.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121698",
+   "task": "Pon la cara que tendrías si tu ropa interior fuera demasiado ajustada.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121699",
+   "task": "Pon la cara que tienes cuando estás HARTO DE TODO."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121701",
+   "task": "Pon la cara que tienes cuando alguien cuenta un chiste terrible."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121703",
+   "task": "Pon la cara que tienes cuando has bebido demasiado café."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121704",
+   "task": "Pon la cara que tendrías si alguien te dijera un secreto impactante, pero tú ya lo sabías en secreto."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121705",
+   "task": "Pon tu cara de póker."
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121706",
+   "task": "Pon la cara que tienes cuando sales con un clima de 30 grados."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121707",
+   "task": "Pon la cara que tendrías si estuvieras cubierto de cachorros."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121708",
+   "task": "Pon la cara que tendrías si fueras sujeto a una auditoría fiscal."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121710",
+   "task": "Pon la cara de hipnotizador."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121711",
+   "task": "Pon la cara de estar tocando la tuba."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121712",
+   "task": "Pon la cara que haces para llamar la atención del barman.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121713",
+   "task": "Pon la cara que harías en una galería de arte para presumidos."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121716",
+   "task": "Pon la cara que tienes cuando rompes con alguien.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121717",
+   "task": "Pon tu cara de mago profesional."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121718",
+   "task": "Pon la cara de “yendo por un beso”.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121719",
+   "task": "Pon la cara que harías si tu mejor amigo te acabara de traicionar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121720",
+   "task": "Pon la cara cuando estás bajo el agua."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121721",
+   "task": "Pon la cara de intoxicación alimenticia."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121722",
+   "task": "Pon la cara de Frankenstein."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121723",
+   "task": "Pon la cara de adolescente malhumorado/a."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121724",
+   "task": "Pon la cara que harías estando acurrucado junto al fuego."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121726",
+   "task": "Pon la cara que harías si pasaras por la pubertad en tres segundos.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121727",
+   "task": "Pon la cara que harías si intentaras hacer levitar un lápiz con tu mente."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121728",
+   "task": "Pon la cara que harías si estuvieses a punto de despedir a alguien."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121730",
+   "task": "Pon la cara que harías si sospecharas que alguien en esta habitación es un asesino.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121731",
+   "task": "Pon la cara de dolor de cabeza por comer helado."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121732",
+   "task": "Pon la cara que harías mientras apuestas un millón de dólares en un giro de la mesa de ruleta.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121734",
+   "task": "Pon la cara que tienes mientras desenvuelves un regalo de tu abuela."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121735",
+   "task": "Pon la cara que tenías al tomarte la foto escolar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121737",
+   "task": "Pon la cara que quieras, pero hazlo con los ojos cerrados."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121738",
+   "task": "Pon la cara que tendrías si perdieras un premio Oscar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121739",
+   "task": "Pon la cara que tendrías si en secreto tuvieras muchas ganas de orinar."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121740",
+   "task": "Pon la cara que tendrías si vieras la cordillera de los Andes por primera vez."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121741",
+   "task": "Pon la cara que tendrías si vieras cómo se hacen las salchichas."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121742",
+   "task": "Pon la cara que tendrías en un resort nudista.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121744",
+   "task": "Pon la cara que tendrías viendo una película provocativa con tus padres.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121745",
+   "task": "Haz la cara que sueles tener los lunes por la mañana."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121746",
+   "task": "Haz la cara que tendrías en Francia."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121747",
+   "task": "Haz una cara súper sexy.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121748",
+   "task": "Haz la cara que tendrías al conocer a tu nuevo compañero de celda.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121749",
+   "task": "Haz tu cara de montaña rusa."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121750",
+   "task": "Haz la cara que tendrías mientras miras un partido de béisbol."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121752",
+   "task": "Haz la cara que tendrías mientras te hacen un masaje."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121753",
+   "task": "Haz la cara que tendrías en un cuarto de votación.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121754",
+   "task": "Haz la cara que haces mientras acaricias un gato."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121983",
+   "starterContent": true,
+   "task": "Pon la cara que tendrías tras años solo en el vasto y congelado espacio."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121984",
+   "starterContent": true,
+   "task": "Pon la cara que harías cuando tu niño te lleva el desayuno a la cama y está lleno de cáscaras de huevo.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121985",
+   "starterContent": true,
+   "task": "Pon la cara de un científico malvado que FINALMENTE logra reanimar un cadáver.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121986",
+   "starterContent": true,
+   "task": "Pon una cara como si fueras un ciervo a punto de ser atropellado."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121987",
+   "starterContent": true,
+   "task": "Pon la cara que tendrías tras haber empujado una piedra en el riñón.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121989",
+   "starterContent": true,
+   "task": "Pon la cara que harías si te toparas con una mujer de 15 metros de altura."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121991",
+   "starterContent": true,
+   "task": "Pon la cara que tendrías si alguien te diera un conejo bebé."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121992",
+   "starterContent": true,
+   "task": "Pon la cara que harías viendo al amor de tu vida casarse... desde la última fila.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121993",
+   "starterContent": true,
+   "task": "La cara que haces cuando la estás rompiendo en tu discurso de boda."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121995",
+   "starterContent": true,
+   "task": "La cara que tienes mientras estás dentro de un disfraz de mascota de fútbol extremadamente caluroso."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122096",
+   "task": "La cara que haces cuando la cuenta es mucho mayor de lo que esperabas."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122097",
+   "task": "La cara que haces cuando recuerdas que estabas hirviendo un huevo... hace una hora."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122098",
+   "task": "La cara que haces cuando definitivamente te quemaste el paladar."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122099",
+   "task": "La cara que haces cuando se muere tu teléfono y ahora solo puedes... existir."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122100",
+   "task": "Tu cara cuando un ex te manda una solicitud de amistad.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122101",
+   "task": "Tu cara cuando te enteras que alguien tiene un tremendo crush por ti.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122102",
+   "task": "Tu cara cuando pretendes que estás leyendo en el subte."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122103",
+   "task": "Tu cara cuando estás en los años 1800s y es hora de tomarse una foto."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122104",
+   "task": "Pon la cara que hace un gato cuando ve un pájaro fuera de la ventana."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122105",
+   "task": "Pon la cara que una celebridad hace cuando un fan se le acerca en la calle."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122106",
+   "task": "Pon la cara de un perro mirando cómo las demás mascotas del refugio son adoptadas."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122107",
+   "task": "Pon la cara que harías después de caerte en público."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122108",
+   "task": "Pon la cara que harías cuando alguien no levanta los desechos de su perro."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122109",
+   "task": "Pon la cara que harías si de repente hubiera un pájaro en tu casa."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122110",
+   "task": "La cara que harías si te despertaras y descubrieras que SIGUES atrapado en un bucle temporal."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122111",
+   "task": "Pon la cara que harías si tu dentista estuviera decepcionado con tu cuidado bucal."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122112",
+   "task": "Pon la cara que harías cuando te enteras que los viejos que están sentados al lado en realidad son Weezer."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122113",
+   "task": "Pon la cara que harías cuando la alarma de incendios de tu edificio comienza a sonar."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122114",
+   "task": "Pon la cara que harías mientras miras un atrapante documental de la naturaleza."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122115",
+   "task": "Pon tu cara de “Tengo cinco años y no encuentro a mi mami en el súpermercado”."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122124",
+   "starterContent": true,
+   "task": "Pon la cara que harías si alguien llegara y se robara el lugar de estacionamiento por el que estabas esperando."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122126",
+   "starterContent": true,
+   "task": "Pon la cara que harías si los votos de boda del novio son extrañamente sensuales.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122127",
+   "starterContent": true,
+   "task": "Pon la cara que harías si escuchas a tu peluquero decir sútilmente “Ups”."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122129",
+   "starterContent": true,
+   "task": "Pon la cara que harías antes de matar por piedad a tu amigo que se acaba de convertir en zombi.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122130",
+   "starterContent": true,
+   "task": "Pon la cara que harías cuando todos están hablando por encima de la película que acabas de poner."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122131",
+   "starterContent": true,
+   "task": "Pon la cara que harías cuando crees haber descubierto cómo funciona el truco de magia."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122132",
+   "starterContent": true,
+   "task": "Pon la cara que harías cuando llegas 16 minutos tarde y ya ocuparon tu reservación."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122133",
+   "starterContent": true,
+   "task": "Pon la cara que harías si tu hija te presenta a su novio marioneta.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122146",
+   "starterContent": true,
+   "task": "Pon la cara que tendrías mientras te pedorreas en un elevador lleno."
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122147",
+   "starterContent": true,
+   "task": "Pon la cara que tendrías si tu cita te lleva a un restaurante temático del Medioevo."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122148",
+   "starterContent": true,
+   "task": "Pon la cara que tendrías cuando no quieres que un promotor callejero te hable."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122149",
+   "starterContent": true,
+   "task": "Pon la cara que harías tras oler un táper con ensalada de atún de hace tres días."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122150",
+   "starterContent": true,
+   "task": "¡Pon la cara que tendrías mientras te le propones al amor de tu vida!",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122151",
+   "starterContent": true,
+   "task": "La cara que harías cuando ves que estás sentado entre dos bebés en el avión."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122152",
+   "starterContent": true,
+   "task": "Pon la cara que harías luego de hacer un split."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122153",
+   "starterContent": true,
+   "task": "Pon la cara que tendrías cuando consigues agarrar un juguete de la máquina de garra."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122156",
+   "starterContent": true,
+   "task": "Pon la cara que harías cuando intentas masticar un trozo demasiado grande."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122157",
+   "starterContent": true,
+   "task": "Pon la cara que harías si un burro te pateara con todas su fuerza en la cabeza."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122158",
+   "starterContent": true,
+   "task": "Pon la cara que harías mientras el camarero ralla queso en tus fideos."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122159",
+   "starterContent": true,
+   "task": "Pon la cara que harías mientras vez un comercial por vez número 804 hoy."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122241",
+   "starterContent": true,
+   "task": "Pon la cara que harías luego de que alguien escupiera en tu cara."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122242",
+   "starterContent": true,
+   "task": "La cara que hacer cuando está tomando una eternidaaaaaaad cortar el pastel de cumpleaños."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122243",
+   "starterContent": true,
+   "task": "Pon la cara que tendrías mientras asistes al mejor concierto de tu vida."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122244",
+   "starterContent": true,
+   "task": "Pon la cara que tendrías si alguien te propusiera casamiento.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122245",
+   "starterContent": true,
+   "task": "La cara que tendrías mientras caminas detras de alguien que camina... muy... muy... lento."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122276",
+   "starterContent": true,
+   "task": "La cara que tendrías en tu tercer pasada consecutiva en la atracción “It’s a Small World” de Disney World."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122278",
+   "starterContent": true,
+   "task": "La cara que tendrías cuando alguien se refiere a un deporte como “juego de balón”."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122279",
+   "starterContent": true,
+   "task": "La cara que harías para la cámara “Glambot” de una ceremonia de premios de Hollywood."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122280",
+   "starterContent": true,
+   "task": "La cara que pondrías si alguien aquí no supiera quién es Kermit/René la rana."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122287",
+   "starterContent": true,
+   "task": "La cara que harías después de embocarla de mitad de cancha para ganar un auto."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122293",
+   "starterContent": true,
+   "task": "La cara que harías cuando te das cuenta que estás en el Jumbotron."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122296",
+   "starterContent": true,
+   "task": "La cara que harías cuando el personal del restaurante te canta \"Qué los cumplas feliz\"."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122299",
+   "starterContent": true,
+   "task": "La cara que haces cuando tocas comida en el fondo del fregadero."
+  }
+ ]
+}

@@ -1,0 +1,1894 @@
+{
+ "content": [
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120471",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si crees en fantasmas."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120472",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si has seguido comiendo algo después de encontrar un pelo."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120473",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si todavía tienes las muelas del juicio."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120474",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te tomaste una selfie esta semana."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120475",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si has llorado en un cine recientemente. "
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120476",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes los brazos peludos."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120477",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te han hecho callar en un cine."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120479",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes una cama de dos plazas."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120480",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si ha cambiado una llanta pinchada."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120481",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes el pelo rubio."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120482",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te has bañado desnudo en una piscina o lago.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120483",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has llevado un cartel de protesta."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120484",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna pareja tuya te ha visto orinar.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120486",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si NO has lavado la ropa en más de una semana."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120487",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez escribiste una crítica enojada en Facebook."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120488",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si has visto Ciudadano Kane."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120489",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has mentido acerca de por quién votaste.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120490",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si hay un animal de peluche muerto en tu casa.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120491",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si eres alérgico/a a alguna comida."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120492",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes ojos marrones."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120493",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si NO tienes piercings.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120496",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes un par de Crocs."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120497",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te tuvieron que coser en algún lado."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120499",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes algo hecho por Nerf."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120500",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si hoy usaste perfume/colonia."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120502",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes producto en el cabello."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120503",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si has llorado durante una cita.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120504",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si estás disfrutando de una bebida alcohólica.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120506",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si practicaste algún deporte en la escuela secundaria.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120507",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si estás borracho en este momento.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120509",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes una vela cerca del inodoro."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120511",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te cortaste el pelo recientemente. "
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120512",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si puedes explicar la regla del offside."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120513",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez tocaste una serpiente."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120514",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si has estado en un combate de lucha libre profesional en vivo."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120515",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si has visto la película Mujer bonita."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120517",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has usado un atuendo de porrista."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120518",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes una olla de fondue."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120520",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si duermes con un animal de peluche."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120521",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has tenido un sombrero loco."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120522",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si NUNCA te han enviado a la dirección en la escuela secundaria.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120523",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si a veces duermes desnudo.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120524",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes un tatuaje oculto.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120525",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si eres millennial."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120527",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes hijos."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120528",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si has robado el almuerzo de otra persona, accidentalmente o intencionalmente."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120530",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si llevas alguna joya."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120532",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has estado en una patineta."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120533",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes el trasero peludo.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120539",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te han asaltado. ",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120541",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes hoyuelos."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120542",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si actuaste como un bravucón en la escuela."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120543",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te pararon por exceso de velocidad.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120546",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si llevas algún “amuleto de la suerte”."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120547",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si actúas de voluntario en algún lugar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120549",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si es posible que hayas visto un OVNI."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120551",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si puedes hablar un idioma que no sea español."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120552",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te gusta la música de Taylor Swift, aunque sea un poco."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120553",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez estuviste despierto durante más de 48 horas."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120554",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes una camiseta de hockey."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120555",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te han expulsado de un lugar, evento, restaurante, etc."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120556",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has vomitado en público."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120557",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes una “W” en alguna parte de tu nombre."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120561",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has trabajado como niñero/a."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120562",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te colaste en una película sin pagar."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120563",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has tenido una relación a larga distancia. ",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120564",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te llaman a menudo por un apodo."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120647",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te gusta cantar."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120649",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si has hecho caca hoy."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120651",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has robado en una tienda.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120652",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si actualmente tienes un sostén en tu casa.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120653",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te duchaste hoy."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120654",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te han golpeado.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120655",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te gusta beber whisky.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120657",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si miras tu propia caca.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120658",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te has hecho caca en los pantalones siendo adulto.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120659",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si bebiste alcohol antes de los 18 años.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120660",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te has quedado dormido en un cine."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120661",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has vomitado en un avión.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120662",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has tenido el vómito de otra persona en tu ropa.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120663",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si has escupido en la comida de otra persona."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120664",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te gustan los juegos."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120665",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si regularmente duermes 7 horas o más."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120666",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez usaste esposas por cualquier motivo.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120667",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si besaste a alguien en la primera cita.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120668",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez has tenido un accidente automovilístico."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120669",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si a veces no usas ropa interior.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120670",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez orinaste en la ducha.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120671",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez donaste sangre."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120672",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te has tirado un pedo desde que comenzó este juego."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120673",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si naciste antes de 1983."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120674",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si deseas tener más cabello."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120675",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si llevas puesto algo rojo… donde sea."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120676",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes una “A” en cualquier parte de tu nombre. El segundo nombre cuenta."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120677",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si necesitas anteojos o lentes de contacto."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120678",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tu apellido es más largo que tu nombre."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120679",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si no te gustan los perros."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120680",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si NO tienes hijos… que conozcas.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120871",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si tienes en tu casa una almohada que no quisieras que nadie más use.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120872",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si conoces el sabor que tiene el pis de las personas.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120875",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te atreverías a leernos tu último mensaje privado de Instagram.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120876",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you’re an American patriot! YEEHAW!!!! USA! USA! USA!",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120880",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si le estás ocultando algo a tus padres actualmente.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120881",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te da curiosidad el sabor de la carne humana.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120882",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si desearías que tu trasero se comportara de un modo diferente."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120883",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si crees que podrías matar a un mapache en una pelea limpia.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120884",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te atraparon haciéndole un gesto obsceno a una figura de autoridad.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120897",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si existe un asesinato que podrías hacer sin que te descubran.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120901",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si saldrías con alguien que huela igual que tu abuela.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120902",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si le donarías un órgano a alguien con quien saliste por solo dos meses.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120903",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez hiciste como que no viste a tu ex en público.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120920",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si crees que hiciste algo que ameritara que te pusieran en una trampa del estilo Saw.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120921",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si lo harías con un asesino de una película de terror.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120922",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si crees que te podrías meter en el recto de King Kong sigilosa y exitosamente.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120923",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te rechazaron románticamente frente a tus amigos.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120941",
+   "isInRoomOnly": false,
+   "task": "¡Levanta la mano si crees que deberían comerse más insectos en el mundo!"
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120942",
+   "isInRoomOnly": false,
+   "task": "¿No es que importe, pero levanta la mano si eres donante de órganos...?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120944",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te gustaría que te consideraran un “bombón en frasco chico”."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120945",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te engañaron... pero no te importó en absoluto.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120947",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si crees que serías un buen jefazo de la mafia.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Levanta la mano en un modo interesante.",
+   "id": "120948",
+   "isInRoomOnly": true,
+   "task": "Levanta la mano como si te diera miedo levantar la mano."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120951",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te dijeron “esto no es una cita” en un encuentro que para ti era totalmente una cita.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120952",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si lloraste hoy."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120956",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez te comiste las uñas... y un poquiiito carne humana también.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120957",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si te gustaría cambiar de piel periódicamente como una enorme serpiente tamaño humano.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120963",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si se te conoce por hacer acentos en estado de ebriedad.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120968",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez soñaste con cómo usarías una herencia si un familiar muriera.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120971",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si mereces ir al cielo.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120972",
+   "isInRoomOnly": false,
+   "task": "¡Están robando el banco en el que estás! Levanta la mano si quieres que te tomen de rehén.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120973",
+   "isInRoomOnly": true,
+   "task": "Levanta la mano si crees que podrías cargar a alguien de esta sala como un bombero.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120974",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si eres una diva adicta al dramaaaaa.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120980",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si, en una realidad en la que pudieras poner tus propios huevos, te los comerías.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121176",
+   "isInRoomOnly": false,
+   "task": "Levanta la mano si alguna vez quisiste lamerle la cabeza a alguien como un gatito.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121981",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’d unabashedly let everyone see your search history.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121999",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if it has been less than five years since you were in some type of school."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122000",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you HATE roller coasters."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122001",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve been to one other country, and that country is Canada."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122003",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’d eat a saucy chicken wing if it fell on your kitchen floor."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122004",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve changed your sheets in the last two weeks."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122005",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you know more than a few Yiddish words."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Raise your hand in a particular style.",
+   "id": "122008",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Raise your hand like you’re a cool kid in class answering a question."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122009",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you occasionally eat canned foods OUT of the can."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122010",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you own any type of red undergarments.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122011",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Raise your hand if you can currently identify which way is west, in relation to you."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122013",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever met a nun."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122014",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever touched a giraffe."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122024",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you were named after a specific someone."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122026",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever worn real fur."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122027",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you know everyone here’s birthday."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122029",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you know how to make a fire without matches or lighters."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Raise your hand in a funny way.",
+   "id": "122030",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Raise your hand like you’re trying to get a shirt from the T-shirt cannon."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122031",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever thrown trash into the ocean."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122032",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you kinda feel like you could be the leader of this group."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122033",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you stay home more Saturday nights than you go out.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122076",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if there's probably something rotting in your fridge right now."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122077",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you are envious of cats."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122078",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you can do 10 push-ups."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122079",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you care a lot about beans."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122080",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you completely trust your Human Resources department.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122081",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you know in your heart that you would be a good rapper."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122082",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you know, off the top of your head, how to convert grams to ounces."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122083",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you straight up HATE pranks."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122084",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you think a portobello mushroom burger can be satisfying and delicious."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122085",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you think you could quit all social media, cold turkey, for a year."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122086",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you think you have more cash on you right now than the other players."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122087",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you think you'd be pretty useless in an apocalyptic wasteland."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122088",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you were still in school in 2005.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122089",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you wouldn't hesitate to send back food at a restaurant."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122090",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you’d still flirt with someone who was at a party with their spouse.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122091",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you're the kind of nerd who has a favorite tree."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122092",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you’ve ever lied about how much you’ve spent on a present."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122093",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you've ever put a lie on your resume.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122094",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you've ever tried a little pet food just to see what it tastes like."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122095",
+   "isInRoomOnly": false,
+   "task": "Raise your hand... if you want!"
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122168",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you refuse to understand Shakespeare."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Hold your hand at a certain height.",
+   "id": "122173",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Raise your hand to the height you’d usually hold an umbrella."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122177",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’re currently a little constipated.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122185",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you voted in the last election.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122187",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you have NO idea where cool people hang out."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122188",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you would like to move to a retirement community right now."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122189",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you hate the sight of blood.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Raise your hand in an unusual way.",
+   "id": "122192",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Raise your hand as if you were “raising the roof.”"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122194",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever lied on your taxes.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122197",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you think you could change a tire without looking up instructions."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122206",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you are NOT planning to start a podcast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122208",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you would definitely lose a finger if you tried to use a lightsaber."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122219",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve made out with a bartender or member of the waitstaff.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122230",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever lied about voting.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122231",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’re avoiding scratching an embarrassing itch right now."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122232",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you find one of the “Fakin’ It” avatars attractive.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122260",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you think there’s life on Mars."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122266",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you never return your grocery cart."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122270",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you have a business idea you genuinely think you could sell on Shark Tank."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122274",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever called into a shopping show to buy something."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122275",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever received money from a class-action lawsuit."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122277",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you think you’d hold your own on Survivor."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122281",
+   "isInRoomOnly": false,
+   "starterContent": false,
+   "task": "Raise your hand if you think you could convince people your name was Scott."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122283",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever asked AI for advice."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122284",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you can quote a line from “Legally Blonde.” Any line!"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122285",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve seen the northern lights."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122286",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you had a formative crush on a cartoon character.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122290",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever complained on social media about an airline and tagged them."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122292",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Hold up as many fingers as hours you would have to be stuck in an elevator before starting a \"pee corner.\"",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122294",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you’ve ever sent fan mail to a famous person."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122295",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you keep a journal or diary."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122300",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you keep a photo of someone in your wallet."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122316",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve touched a painting at a museum."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122317",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you start decorating for Halloween in September."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122318",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve personally lit a firework."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122319",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if your photo is hanging on the wall of a restaurant."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122321",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if your nightly skincare routine takes over 30 minutes."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122322",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’d be way too afraid to spend the whole night in a cemetery."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122323",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you subscribe to National Geographic."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122324",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you love small talk."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122325",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if sports cars don’t impress you much."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122363",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you believe in reincarnation.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122364",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever seriously considered joining a clergy of some sort."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122366",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you think you do most of the household labor in your home.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122367",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if there’s a celebrity you’ve been told you look like."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122368",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever been greeted at the airport by someone holding a sign with your name on it."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122384",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever been on a “man-on-the-street” social media show."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122386",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you can name all the Teenage Mutant Ninja Turtles."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122395",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever ridden in a blimp or hot air balloon."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122396",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you think you have a fake laugh that could actually pass as real."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122398",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you own an article of clothing that’s designer."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122419",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you hate going back to your hometown."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122424",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve touched a live cow."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122425",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you know at least one card trick."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122427",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever dissected something.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122429",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you consider yourself “a bit of a baller.”",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122430",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever appeared in a talent show."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122431",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever climbed to the very top of a rock wall."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122468",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever ridden in a Waymo."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122469",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever worked in a kitchen. (YES CHEF!)"
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122472",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if your hair is your natural color right now."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122474",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever wanted to steal the fancy parmesan grater from a restaurant."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122475",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve ever been pickpocketed."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122476",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you think you could eat two tuna sandwiches right now."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122477",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you're fine with wearing shoes in the house."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122478",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve been on a boat anytime in the last year."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122479",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you’ve touched a hammer in the last month."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122481",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you flippin’ love Thai food!"
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122482",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Raise your hand if you think you could stay on a buckin’ bronco for more than 10 seconds."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122515",
+   "isInRoomOnly": false,
+   "task": "Raise your hand if you think you’re currently in the best shape of your life."
+  }
+ ]
+}
