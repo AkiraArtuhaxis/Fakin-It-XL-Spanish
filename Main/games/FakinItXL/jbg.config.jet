@@ -14,7 +14,7 @@
 	"repeatFakerWeightDivisor":"2.0",
 	"video-extension":".mkv",
 	"audio-extension":".ogg",
-	"joinUrl":"jackbox.tv",
+	"joinUrl":"jackbox.lol",
 	"supportsKeyboard":"true",
 	"gameId":"16ba5861-622a-45f0-a321-6dcfca95f527",
 	"loadSaveOnLaunch":"true",
