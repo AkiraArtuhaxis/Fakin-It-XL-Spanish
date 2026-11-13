@@ -926,7 +926,7 @@
    "fakerHint": "",
    "id": "121016",
    "isInRoomOnly": false,
-   "task": "Point at the person most likely to get roped into a “Multi-Level Marketing” scheme.",
+   "task": "Apunta a la persona que es más probable que se meta en un esquema de “márketing multi-nivel”.",
    "x": true
   },
   {
@@ -1071,7 +1071,7 @@
    "fakerHint": "",
    "id": "121276",
    "isInRoomOnly": false,
-   "task": "Point at the person most likely to make a name for themselves in community theater."
+   "task": "Apunta a la persona que es más probable que adquiera renombre en el teatro comunitario."
   },
   {
    "appearance": "EARLY",
@@ -1085,7 +1085,7 @@
    "fakerHint": "",
    "id": "122057",
    "isInRoomOnly": false,
-   "task": "Point at the person most likely to be a big ol’ chess whiz."
+   "task": "Apunta a la persona que es más probable que sea todo un prodigio del ajedrez."
   },
   {
    "appearance": "LATE",
@@ -1122,7 +1122,7 @@
    "fakerHint": "",
    "id": "122062",
    "isInRoomOnly": false,
-   "task": "Point at the player who would squeal to the cops after you pulled off a heist."
+   "task": "Apunta a la persona que te delataría a los policías tras cometer un asalto."
   },
   {
    "appearance": "EARLY",
@@ -1136,7 +1136,7 @@
    "fakerHint": "",
    "id": "122064",
    "isInRoomOnly": false,
-   "task": "Point to the person most likely to have attended a séance."
+   "task": "Apunta a la persona que es más probable que haya asistido a una sesión espiritista."
   },
   {
    "appearance": "EARLY",
@@ -1144,7 +1144,7 @@
    "fakerHint": "",
    "id": "122065",
    "isInRoomOnly": false,
-   "task": "Point to the person most likely to spend $2,000+ on concert tickets."
+   "task": "Apunta a la persona que es más probable que gaste más de 2 mil dólares en entradas de concierto."
   },
   {
    "appearance": "MID-ROUND",
@@ -1179,7 +1179,7 @@
    "fakerHint": "",
    "id": "122070",
    "isInRoomOnly": false,
-   "task": "Point to the person you can tell was a line leader in elementary school."
+   "task": "Apunta a la persona que te das cuenta que iba primero en la fila en la primaria."
   },
   {
    "appearance": "MID-ROUND",
@@ -1265,7 +1265,7 @@
    "id": "122211",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Point to the person who most yearns for the sea."
+   "task": "Apunta a la persona que más anhela el mar."
   },
   {
    "appearance": "LATE",
@@ -1396,7 +1396,7 @@
    "fakerHint": "",
    "id": "122513",
    "isInRoomOnly": false,
-   "task": "Point at the person most likely to still listen to terrestrial radio."
+   "task": "Apunta a la persona que es más probable que siga escuchando la radio de toda la vida."
   },
   {
    "appearance": "MID-ROUND",

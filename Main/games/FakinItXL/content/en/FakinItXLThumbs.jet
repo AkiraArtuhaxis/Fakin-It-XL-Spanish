@@ -447,9 +447,9 @@
    "id": "121184",
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Bidets",
+    "Bidés",
     "Beignets",
-    "Berets"
+    "Boinas"
    ],
    "x": false
   },
@@ -459,9 +459,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Making Balloon Animals",
-    "Making Progress in Life",
-    "Making Babies"
+    "Hacer animales en globos",
+    "Hacer un avance en tu vida",
+    "Hacer bebés"
    ],
    "x": true
   },
@@ -471,9 +471,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Oysters",
-    "Scallops",
-    "Imitation Crab"
+    "Ostras",
+    "Vieiras",
+    "Palitos de cangrejo"
    ]
   },
   {
@@ -482,9 +482,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "New England Clam Chowder",
+    "Clam chowder de Nueva Inglaterra",
     "Gazpacho",
-    "Bouillabaisse"
+    "Bullabesa"
    ]
   },
   {
@@ -493,9 +493,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Staying up Late",
-    "Waking up Early",
-    "Micro-naps"
+    "Quedarse hasta tarde",
+    "Despertarse temprano",
+    "Micro-siestas"
    ]
   },
   {
@@ -504,9 +504,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Mud Masks",
-    "Cold Plunges",
-    "Pedicures"
+    "Máscaras de barro",
+    "Baños de hielo",
+    "Pedicuras"
    ]
   },
   {
@@ -515,9 +515,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Dungeons & Dragons",
-    "Renaissance Fairs",
-    "Having Friends"
+    "Calabozos y Dragones",
+    "Ferias renacentistas",
+    "Tener amigos"
    ]
   },
   {
@@ -526,9 +526,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Pooping at Home",
-    "Pooping in the Woods",
-    "Pooping on a Bus"
+    "Hacer caca en casa",
+    "Hacer caca en el bosque",
+    "Hacer caca en un autobús"
    ]
   },
   {
@@ -537,8 +537,8 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Valentine's Day",
-    "Average Monday Morning",
+    "San Valentín",
+    "La típica mañana de lunes",
     "Halloween"
    ]
   },
@@ -548,9 +548,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "24-Hour Diners",
-    "Food a Dog Licked",
-    "All-You-Can-Eat Sushi"
+    "Comedor abierto las 24 horas",
+    "Comida que lamió un perro",
+    "Todo lo que puedas comer de sushi"
    ]
   },
   {
@@ -559,9 +559,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Married for 40 Years",
-    "Married 40 Times",
-    "Married to 40 People"
+    "Casados por 40 años",
+    "Casados 40 veces",
+    "Casados con 40 personas"
    ],
    "x": true
   },
@@ -571,9 +571,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Wallpaper",
-    "Beaded Curtains",
-    "Nude Living Room Art"
+    "Papel tapiz",
+    "Cortinas con cuentas",
+    "Arte nudista en el living"
    ],
    "x": true
   },
@@ -583,9 +583,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Chewing Popcorn Kernels",
-    "Left-Behind Pizza Crust",
-    "Rare, Bloody Steak"
+    "Masticar granos de palomitas",
+    "Restos de corteza de la pizza",
+    "Carne cruda y ensangrentada"
    ]
   },
   {
@@ -594,9 +594,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "\"Cottagecore\" Aesthetic",
-    "Minimalist Aesthetic",
-    "Goth Aesthetic"
+    "Estética \"cottagecore\"",
+    "Estética minimalista",
+    "Estética gótica"
    ]
   },
   {
@@ -605,9 +605,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Peeing in the Ocean",
-    "Peeing Your Pants",
-    "Peeing in the Shower"
+    "Orinar en el océano",
+    "Orinarte en los pantalones",
+    "Orinar en la ducha"
    ],
    "x": true
   },
@@ -617,9 +617,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Receiving a Love Poem",
-    "Being Serenaded",
-    "A Tattoo of Your Name"
+    "Recibir un poema romántico",
+    "Que te canten una serenata",
+    "Un tatuaje con tu nombre"
    ]
   },
   {
@@ -628,9 +628,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Jet Ski Accident",
-    "Bathroom Accident",
-    "Clown Car Accident"
+    "Accidente de jet ski",
+    "Accidente en el baño",
+    "Accidente de auto de payasos"
    ]
   },
   {
@@ -639,9 +639,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Speed Dating",
-    "Speed Skating",
-    "Speeding"
+    "Citas rápidas",
+    "Patinaje de velocidad",
+    "Exceso de velocidad"
    ]
   },
   {
@@ -650,9 +650,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Kissing Your Dog on Lips",
-    "Kissing Your Dad on Lips",
-    "Kissing Partner on Lips"
+    "Besar a tu perro en los labios",
+    "Besar a tu padre en los labios",
+    "Besar a tu pareja en los labios"
    ],
    "x": true
   },
@@ -662,9 +662,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Being a Caricature Artist",
-    "Being a Sandwich Artist",
-    "Being a Balloon Artist"
+    "Ser artista de caricaturas",
+    "Ser artista de sándwiches",
+    "Ser artista de globos"
    ]
   },
   {
@@ -673,9 +673,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Collecting Stamps",
-    "Collecting Pokémon",
-    "Collecting Blu-rays"
+    "Coleccionar sellos",
+    "Coleccionar Pokémon",
+    "Coleccionar Blu-rays"
    ]
   },
   {
@@ -695,9 +695,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Failing at Karaoke",
-    "Failing Gym Class",
-    "A Failing Relationship"
+    "Fracasar en el Karaoke",
+    "Desaprobar Gimnasia",
+    "Una relación en picada"
    ]
   },
   {
@@ -706,9 +706,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Scuba Diving",
-    "Dumpster Diving",
-    "Skydiving"
+    "Buceo",
+    "Revisar contenedores de basura",
+    "Paracaidismo"
    ]
   },
   {
@@ -717,9 +717,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Broken Promise",
-    "Broken Butt Bone",
-    "Broken Pie-Eating Record"
+    "Romper una promesa",
+    "Romperse el hueso del trasero",
+    "Romper el récord de comer más pasteles"
    ]
   },
   {
@@ -728,9 +728,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Missed the Flight",
-    "Missed the Toilet",
-    "Missed Axethrowing Target"
+    "Perderse el vuelo",
+    "Errarle al inodoro",
+    "Errarle al objetivo de lanzamiento de hachas"
    ]
   },
   {
@@ -739,9 +739,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Calling Someone “Hubby”",
-    "Calling Someone “Bae”",
-    "Calling Someone “Lover”"
+    "Llamar a alguien “maridito”",
+    "Llamar a alguien “bebé”",
+    "Llamar a alguien “amante”"
    ],
    "x": true
   },
@@ -751,9 +751,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Leftover Pizza",
-    "3-Day Leftover Pizza",
-    "2-Week Leftover Pizza"
+    "Sobras de pizza",
+    "Sobras de pizza de hace 3 días",
+    "Sobras de pizza de hace 2 semanas"
    ]
   },
   {
@@ -762,9 +762,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "World’s Best Juggler",
-    "World’s Best Scrabble-r",
-    "World’s Best Bank Teller"
+    "El mejor malabarista del mundo",
+    "El mejor Scrabble-r del mundo",
+    "El mejor cajero de banco del mundo"
    ]
   },
   {
@@ -773,9 +773,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Flashing Someone",
-    "Flash Mobs",
-    "The Flash"
+    "Exhibir tus genitales",
+    "Flashmob / Multitud sorpresa",
+    "Flash"
    ],
    "x": true
   },
@@ -786,8 +786,8 @@
    "subcategory": "LOVE-HATE",
    "tasks": [
     "San Valentín",
-    "School Picture Day",
-    "Sunday"
+    "Día de la foto escolar",
+    "Domingo"
    ]
   },
   {
@@ -796,9 +796,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Mustache",
-    "Big Bushy Beard",
-    "Goatee"
+    "Bigote",
+    "Barba grande y tupida",
+    "Barba de chivo"
    ]
   },
   {
@@ -807,9 +807,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Fall Off Mechanical Bull",
-    "Fall Off Water Slide",
-    "Fall Off Horse"
+    "Caerse del toro mecánico",
+    "Caerse del tobogán acuático",
+    "Caerse del caballo"
    ]
   },
   {
@@ -818,9 +818,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Shoplifting",
-    "Dining & Dashing",
-    "Mail Fraud"
+    "Llevarse algo escondido sin pagar",
+    "Irse sin pagar",
+    "Fraude por correo"
    ],
    "x": true
   },
@@ -830,9 +830,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Vinyl Records",
-    "The iPod Nano",
-    "A Gramophone"
+    "Discos de vinilo",
+    "El iPod Nano",
+    "Un gramófono"
    ]
   },
   {
@@ -842,8 +842,8 @@
    "subcategory": "COOL-UNCOOL",
    "tasks": [
     "Boy Bands",
-    "The Boy Scouts",
-    "Your Friend’s Boyfriend"
+    "Los Boy Scout",
+    "El novio de tu amiga/o"
    ]
   },
   {
@@ -852,8 +852,8 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Mixed Martial Arts",
-    "Bullet Journaling",
+    "Artes marciales mixtas",
+    "Diario de viñetas",
     "Sudoku"
    ]
   },
@@ -863,9 +863,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "The Solar System",
-    "The Feudal System",
-    "The Metric System"
+    "El sistema solar",
+    "El sistema feudal",
+    "El sistema métrico"
    ]
   },
   {
@@ -874,9 +874,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Playing Air Guitar",
-    "Playing Electric Guitar",
-    "Playing Guitar Hero 2"
+    "Tocar la guitarra de aire",
+    "Tocar la guitarra eléctrica",
+    "Jugar al Guitar Hero 2"
    ]
   },
   {
@@ -898,9 +898,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Chicken Tenders",
-    "Unbreaded Chicken Tenders",
-    "Carrots"
+    "Palitos de pollo",
+    "Palitos de pollo sin empanado",
+    "Zanahorias"
    ]
   },
   {
@@ -922,7 +922,7 @@
    "tasks": [
     "Ms. Rachel",
     "Barney",
-    "Daniel Tiger"
+    "Daniel Tigre"
    ]
   },
   {
@@ -931,9 +931,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Pigeon",
-    "Goose",
-    "Chicken"
+    "Paloma",
+    "Ganso",
+    "Pollo"
    ]
   },
   {
@@ -942,9 +942,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Raw Egg",
-    "Clam Chowder",
-    "Strawberry Jelly"
+    "Huevo crudo",
+    "Sopa de almejas",
+    "Mermelada de frutilla"
    ]
   },
   {
@@ -953,9 +953,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Jury Duty",
-    "Paying Taxes",
-    "Local Elections"
+    "Servir como jurado",
+    "Pagar impuestos",
+    "Elecciones locales"
    ]
   },
   {
@@ -964,9 +964,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "White Tuna in Olive Oil",
-    "SPAM",
-    "Uncooked Biscuit Dough"
+    "Atún blanco con aceite de oliva",
+    "Carne enlatada",
+    "Masa de galleta sin hornear"
    ]
   },
   {
@@ -975,9 +975,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Proposal at the Ren Faire",
-    "Proposal at a Restaurant",
-    "Proposal at Eiffel Tower"
+    "Propuesta de matrimonio en la feria renacentista",
+    "Propuesta de matrimonio en un restaurante",
+    "Propuesta de matrimonio en la Torre Eiffel"
    ]
   },
   {
@@ -987,9 +987,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Honeymoon in Dollywood",
-    "Honeymoon in Missouri",
-    "Honeymoon Five Years Late"
+    "Luna de miel en Dollywood",
+    "Luna de miel en Misuri",
+    "Luna de miel cinco años tarde"
    ],
    "x": true
   },
@@ -1000,9 +1000,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Light Blue Bedsheets",
-    "Lightning McQueen Bedsheets",
-    "No Top Bedsheet"
+    "Sábanas celestes",
+    "Sábanas del Rayo McQueen",
+    "Sin sábanas"
    ]
   },
   {
@@ -1013,7 +1013,7 @@
    "tasks": [
     "Jack White",
     "Jack Black",
-    "Jack the Ripper"
+    "Jack el Destripador"
    ],
    "x": true
   },
@@ -1023,9 +1023,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Calling Your Best Friend",
-    "Calling Grandma",
-    "Calling Your Other Grandma"
+    "Llamar a tu mejor amigo/a",
+    "Llamar a tu abuela",
+    "Llamar a tu otra abuela"
    ]
   },
   {
@@ -1034,9 +1034,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Riding a Stallion",
-    "Riding a Tiger",
-    "Riding a Warthog"
+    "Montar un caballo semental",
+    "Montar un tigre",
+    "Montar un jabalí"
    ]
   },
   {
@@ -1045,9 +1045,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Popcorn",
-    "Corn Chowder",
-    "Corn Dog"
+    "Palomitas",
+    "Sopa de maíz",
+    "Perrito de maíz"
    ]
   },
   {
@@ -1057,8 +1057,8 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "The Black Eyed Peas",
-    "The Cranberries",
+    "Los Black Eyed Peas",
+    "Los Cranberries",
     "Meat Loaf"
    ]
   },
@@ -1068,9 +1068,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Speeding in an Ambulance",
-    "Speeding in Weinermobile",
-    "Speeding in a Hearse"
+    "Exceso de velocidad en una ambulancia",
+    "Exceso de velocidad en un salchicha móvil",
+    "Exceso de velocidad en un coche fúnebre"
    ]
   },
   {
@@ -1079,9 +1079,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Pinching Your Butt",
-    "Pinching Your Cheeks",
-    "Pinching Your Nip"
+    "Pellizcar tu trasero",
+    "Pellizcar tus mejillas",
+    "Pellizcar tu pezón"
    ],
    "x": true
   },
@@ -1091,9 +1091,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Tattoo on Forearm",
-    "Tattoo on Face",
-    "Tattoo on Eyelids"
+    "Tatuaje en el antebrazo",
+    "Tatuaje en la cara",
+    "Tatuaje en los párpados"
    ],
    "x": true
   },
@@ -1103,9 +1103,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Falling Out of a Canoe",
-    "Falling in Unrequited Love",
-    "Falling for a Scam"
+    "Caerse de una canoa",
+    "Caer en un amor no correspondido",
+    "Caer en una estafa"
    ]
   },
   {
@@ -1114,9 +1114,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Dog in People Clothes",
-    "Dog Eating People Food",
-    "Dog Sleeps in People Bed"
+    "Un perro con ropa de humano",
+    "Un perro comiendo comida de humano",
+    "Un perro durmiendo en cama de humano"
    ]
   },
   {
@@ -1125,9 +1125,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "A Surprise Birthday Party",
-    "A Surprise Poop",
-    "A Surprise Proposal"
+    "Una fiesta de cumpleaños sorpresa",
+    "Una caca sorpresa",
+    "Una propuesta de matrimonio sorpresa"
    ]
   },
   {
@@ -1136,9 +1136,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "The \"Happy Birthday\" Song",
-    "\"The Piña Colada Song\"",
-    "\"The Song That Never Ends\""
+    "La canción de \"Feliz cumpleaños\"",
+    "La canción de las \"Piña Coladas\"",
+    "\"La canción que nunca termina\""
    ],
    "x": true
   },
@@ -1148,9 +1148,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Bitter Beverages",
-    "Sweet Breakfast",
-    "Savory Dessert"
+    "Bebidas amargas",
+    "Desayuno dulce",
+    "Postre salado"
    ]
   },
   {
@@ -1159,9 +1159,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Posting Your Dinner",
-    "Posting Your Meltdown",
-    "Posting Your Ferrari"
+    "Postear tu cena",
+    "Postear tu colapso emocional",
+    "Postear tu Ferrari"
    ]
   },
   {
@@ -1170,9 +1170,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Your Head, but 5x Larger",
-    "The Titanic, but 5x Larger",
-    "House Cat, but 5x Larger"
+    "Tu cabeza, pero x5 más grande",
+    "El Titanic, pero x5 más grande",
+    "Un gato doméstico, pero x5 más grande"
    ]
   },
   {
@@ -1181,9 +1181,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "TV in the Bedroom",
-    "Sofa in the Kitchen",
-    "12’ Skeleton in the Yard"
+    "Televisor en el cuarto",
+    "Sillón en la cocina",
+    "Un esqueleto de 3,5m en el jardín"
    ]
   },
   {
@@ -1192,9 +1192,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Prank Calls",
-    "Dry Sarcasm",
-    "Fart Jokes"
+    "Llamadas de bromas",
+    "Humor seco",
+    "Chistes de pedos"
    ]
   },
   {
@@ -1203,9 +1203,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "The Paparazzi",
-    "Wildlife Photographer",
-    "Food Influencer"
+    "Los Paparazzi",
+    "Fotógrafo de vida salvaje",
+    "Influencer de comida"
    ]
   },
   {
@@ -1214,9 +1214,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "A Running Club",
-    "A Nightclub",
-    "A Book Club"
+    "Un club de corredores",
+    "Un club nocturno",
+    "Un club de lectura"
    ],
    "x": true
   },
@@ -1226,9 +1226,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Rare Steak",
-    "Rare Broccoli",
-    "Rare Chicken"
+    "Carne poco cocida",
+    "Brócoli poco cocido",
+    "Pollo poco cocido"
    ]
   },
   {
@@ -1237,9 +1237,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Playing Marco Polo",
-    "Running on Pool Deck",
-    "Doing a Cannonball"
+    "Jugar Marco Polo",
+    "Correr por el deck de la piscina",
+    "Hacer bombita"
    ]
   },
   {
@@ -1248,9 +1248,9 @@
    "starterContent": false,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Wearing Jeans to School",
-    "Wearing Dracula Costume to School",
-    "Wearing Dracula Costume at Dracula School"
+    "Llevar jeans a la escuela",
+    "Llevar un disfraz de Drácula a la escuela",
+    "Llevar un disfraz de Drácula a la escuela Drácula"
    ]
   },
   {
@@ -1259,9 +1259,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Horse in a Parking Lot",
-    "Horse in a Stable",
-    "Horse in Your Dreams"
+    "Caballo en un estacionamiento",
+    "Caballo en un establo",
+    "Caballo en tus sueños"
    ]
   },
   {
@@ -1270,9 +1270,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Plain Vodka Soda",
-    "Spicy Bloody Mary",
-    "Shot and a Pickleback"
+    "Vodka con soda, sin nada más",
+    "Bloody Mary picante",
+    "Un shot con sal y limón"
    ],
    "x": true
   },
@@ -1282,9 +1282,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Fans of “Star Wars”",
-    "Fans of \"Paw Patrol\"",
-    "Fans of “Lord of the Rings”"
+    "Fans de “Star Wars”",
+    "Fans de \"Paw Patrol\"",
+    "Fans de “El señor de los anillos”"
    ]
   },
   {
@@ -1293,9 +1293,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Unexpected Rat Sighting",
-    "Unexpected Squirrel Sighting",
-    "Unexpected Mouse Sighting"
+    "Observar de repente una rata",
+    "Observar de repente una ardilla",
+    "Observar de repente un ratón"
    ]
   },
   {
@@ -1304,9 +1304,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Win Lottery, Die Next Day",
-    "Rain on a Wedding Day",
-    "A Fly in Chardonnay"
+    "Ganar la lotería, morir al día siguiente",
+    "Lluvia en el día de bodas",
+    "Una mosca en el chardonnay"
    ],
    "x": true
   },
@@ -1316,8 +1316,8 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Science Fiction",
-    "High Fantasy",
+    "Ciencia ficción",
+    "Alta fantasía",
     "Romance"
    ]
   },
@@ -1339,9 +1339,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Dying on a Waterbed",
-    "Dying on a Futon",
-    "Dying on Mt. Everest"
+    "Morir en una cama de agua",
+    "Morir en un futón",
+    "Morir en el Monte Everest"
    ],
    "x": true
   },
@@ -1351,9 +1351,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "A Labubu",
-    "A Ventriloquist Dummy",
-    "A Funko Pop"
+    "Un Labubu",
+    "Un titere de ventrílocuo",
+    "Un Funko Pop"
    ]
   },
   {
@@ -1362,9 +1362,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Canning Your Vegetables",
-    "Keeping an Ex’s Shirt",
-    "Having Your Cat Taxidermied"
+    "Enlatar tus verduras",
+    "Quedarte con la camiseta de un/a ex",
+    "Disecar a tu gato fallecido"
    ],
    "x": true
   },
@@ -1374,9 +1374,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "True Crime Podcasts",
-    "Game Speedrun Videos",
-    "TikTok Dances"
+    "Podcasts de crímenes reales",
+    "Videos de speedruns de juegos",
+    "Bailes de TikTok"
    ]
   },
   {
@@ -1385,9 +1385,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Last words: “Watch this!”",
-    "Last words: “I'm gonna fart.\"",
-    "Last words: “Kill me!”"
+    "Últimas palabras: “¡Miren esto!”",
+    "Últimas palabras: “Me voy a tirar un pedo.\"",
+    "Últimas palabras: “¡Mátenme!”"
    ],
    "x": true
   },
@@ -1397,9 +1397,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Spray Painting Stop Signs",
-    "Drawing on the Colosseum",
-    "Doodling on Your Jeans"
+    "Pintar grafitis en señales de Pare",
+    "Dibujar sobre el Coliseo",
+    "Garabatear tus jeans"
    ]
   },
   {
@@ -1408,9 +1408,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "A Gift Card",
-    "The Gift of Life",
-    "A Successful Re-Gift"
+    "Una tarjeta de regalo",
+    "El regalo de la vida",
+    "Un re-regalo exitoso"
    ]
   },
   {
@@ -1419,9 +1419,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Cruises",
-    "Private Jets",
-    "Segways"
+    "Cruceros",
+    "Jets privados",
+    "Aeropatín"
    ]
   },
   {
@@ -1430,9 +1430,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "First to Leave the Party",
-    "First up When Plane Lands",
-    "First to Live to 200"
+    "Primero/a en irse de la fiesta",
+    "Primero/a en levantarse cuando aterriza el avión",
+    "Primero/a en vivir 200 años"
    ]
   },
   {
@@ -1441,9 +1441,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "TV Shows About Showbiz",
-    "Movies About Superheroes",
-    "Songs About Exes"
+    "Series sobre el mundo del espectáculo",
+    "Películas sobre superhéroes",
+    "Canciones sobre exes"
    ]
   },
   {
@@ -1452,9 +1452,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "\"No pain, no gain.\"",
-    "\"Money can't buy happiness.\"",
-    "\"Clear your cookies.\""
+    "\"Si no duele, no sirve.\"",
+    "\"El dinero no compra la felicidad.\"",
+    "\"Borra tus cookies.\""
    ]
   },
   {
@@ -1463,9 +1463,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "A Petting Zoo",
-    "An Aquarium Touch Tank",
-    "A Butterfly Pavilion"
+    "Un zoológico donde puedes acariciar los animales",
+    "Un estanque donde puedes tocar los animales",
+    "Un mariposario"
    ]
   },
   {
@@ -1474,9 +1474,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "3 Hours Early for Flight",
-    "Window Seat on Plane",
-    "Red-eye Flight"
+    "Llegar 3 horas antes para el vuelo",
+    "Asiento con ventanilla en el avión",
+    "Un vuelo de madrugada"
    ]
   },
   {
@@ -1485,9 +1485,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Claps After a Movie Ends",
-    "Claps for a Dropped Glass",
-    "Claps for Smooth Landing"
+    "Aplaudir al final de una película",
+    "Aplaudir cuando se rompe un vaso",
+    "Aplaudir por un aterrizaje suave"
    ]
   },
   {
@@ -1507,9 +1507,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Banned From Disney World",
-    "Banned From Europe",
-    "Banned From Trains"
+    "Vetado de Disney World",
+    "Vetado de Europa",
+    "Vetado de los trenes"
    ]
   },
   {
@@ -1518,9 +1518,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Smell of Gasoline",
-    "Smell of Burning Plastic",
-    "Smell of Wet Dog"
+    "Olor a gasolina",
+    "Olor a plástico quemado",
+    "Olor a perro mojado"
    ]
   },
   {
@@ -1529,9 +1529,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Interval Running",
-    "Crab Walking",
-    "Bar Crawling"
+    "Correr por intervalos",
+    "Caminar como cangrejo",
+    "Ir de bar en bar"
    ],
    "x": true
   },
@@ -1541,9 +1541,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Bed Time",
-    "Christmas Time",
-    "\"Me\" Time"
+    "Hora de dormir",
+    "Época navideña",
+    "Tiempo \"para mí\""
    ]
   },
   {
@@ -1552,9 +1552,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "A Neon Beer Sign",
-    "A Taxidermied Wolf",
-    "An Original Monet"
+    "Un letrero en neón de cerveza",
+    "Un lobo disecado",
+    "Un Monet original"
    ],
    "x": true
   },
@@ -1565,9 +1565,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Quoting “Lord of the Rings”",
-    "Quoting the Constitution",
-    "Quoting Yourself"
+    "Citar “El señor de los anillos”",
+    "Citar la constitución",
+    "Citarte a ti mismo/a"
    ]
   },
   {
@@ -1576,9 +1576,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "“Have a blessed day.”",
-    "“Deuces!”",
-    "“Hit the ol dusty trail!”"
+    "“Que Dios te bendiga.”",
+    "“¡Me las tomo!”",
+    "“¡A ponerse en marcha por la carretera!”"
    ]
   },
   {
@@ -1587,8 +1587,8 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "“It smells like pee.”",
-    "“It smells like spaghetti.”",
+    "“Huele a meo.”",
+    "“Huele a spaghetti.”",
     "“Smells Like Teen Spirit”"
    ]
   },
@@ -1598,9 +1598,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Ham on a Sandwich",
-    "Ham in Pasta",
-    "Ham in Jelly"
+    "Jamón en un sándwich",
+    "Jamón en los fideos",
+    "Jamón en la mermelada"
    ]
   },
   {
@@ -1609,9 +1609,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Jumping on a Trampoline",
-    "Jumping on a LEGO",
-    "Jumping off a Cliff"
+    "Saltar sobre un trampolín",
+    "Saltar sobre un LEGO",
+    "Saltar de un barranco"
    ]
   },
   {
@@ -1620,9 +1620,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Houseguests for one Night",
-    "College Roommates",
-    "Houseguests for a Week"
+    "Huéspedes por una noche",
+    "Compañeros de cuarto de universidad",
+    "Huéspedes por una semana"
    ]
   },
   {
@@ -1631,9 +1631,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Rides That Drop You",
-    "Waiting in Line Before Rides",
-    "Rides That Go Fast"
+    "Atracciones que te dejan caer",
+    "Esperar en la fila antes de una atracción",
+    "Atracciones que van rápido"
    ]
   },
   {
@@ -1642,9 +1642,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Shoes on in the Kitchen",
-    "Shoes on in Bed",
-    "Shoes on in the Shower"
+    "Con zapatos en la cocina",
+    "Con zapatos en la cama",
+    "Con zapatos en la ducha"
    ]
   },
   {
@@ -1653,9 +1653,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "The Real Housewives",
-    "Tiny Houses",
-    "House of Wax"
+    "Las amas de casa reales",
+    "Mini casas",
+    "La casa de cera"
    ]
   },
   {
@@ -1676,8 +1676,8 @@
    "subcategory": "COOL-UNCOOL",
    "tasks": [
     "Shel Silverstein",
-    "Puka Shell Necklaces",
-    "Young Sheldon"
+    "Collares hawaianos",
+    "El joven Sheldon"
    ]
   },
   {
@@ -1686,9 +1686,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "RVs",
-    "The YMCA",
-    "CBD Gummies"
+    "Casas rodantes",
+    "La asociación cristiana de jóvenes",
+    "Gomitas con cannabidol"
    ],
    "x": true
   },
@@ -1698,9 +1698,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Sweating From Yoga",
-    "Sweat From Woodchopping",
-    "Sweat From Playing Yu-Gi-Oh"
+    "Sudar por hacer yoga",
+    "Sudar por cortar madera",
+    "Sudar por jugar Yu-Gi-Oh"
    ]
   },
   {
@@ -1709,9 +1709,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "A Dog Named “Justin”",
-    "A Dog Named “Dog”",
-    "A Man Named “Bentley”"
+    "Un perro llamado “Justin”",
+    "Un perro llamado “Perro”",
+    "Un hombre llamado “Bentley”"
    ]
   },
   {
@@ -1721,9 +1721,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "“Coexist” Car Decal",
-    "“Notorious RBG” Car Decal",
-    "Punisher Logo Car Decal"
+    "Calcomanía de auto que dice “Coexistir”",
+    "Calcomanía de auto de Frida Kahlo",
+    "Calcomanía de auto con el logo de Punisher"
    ]
   },
   {
@@ -1732,9 +1732,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Scream While Meeting a Celeb",
-    "Scream From the Trunk",
-    "Scream Right in Your Ear"
+    "Gritos al conocer una celebridad",
+    "Gritos desde el maletero",
+    "Gritos justo en tu oreja"
    ]
   },
   {
@@ -1743,9 +1743,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Baby Shoes, Never Worn",
-    "Cat-Ear Headphones, Never Worn",
-    "Wedding Dress, Never Worn"
+    "Zapatos de bebé, nunca usados",
+    "Auriculares con orejas de gato, nunca usados",
+    "Vestido de boda, nunca usado"
    ]
   },
   {
@@ -1754,9 +1754,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Drone Light Shows",
-    "Laugh Track TV Shows",
-    "Dog Shows"
+    "Shows de luces con drones",
+    "Series con risas grabadas",
+    "Exposición de perros"
    ]
   },
   {
@@ -1766,8 +1766,8 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Bed Time",
-    "Medieval Times",
+    "Hora de dormir",
+    "Época medieval",
     "\"...Baby One More Time\""
    ]
   },
@@ -1777,9 +1777,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Wet Dreams",
-    "Wet Sandwiches",
-    "Wet Makeouts"
+    "Sueños húmedos",
+    "Sándwiches húmedos",
+    "Besuqueos húmedos"
    ],
    "x": true
   },
@@ -1788,9 +1788,9 @@
    "id": "122400",
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Motorcycles",
-    "Warehouse Raves",
-    "Fireworks"
+    "Motocicletas",
+    "Fiestas electrónicas en galpones",
+    "Fuegos artificiales"
    ],
    "x": true
   },
@@ -1801,9 +1801,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Ultimate Frisbee",
-    "Speedwalking",
-    "American Ninja Warrior"
+    "Ultimate frisbee",
+    "Speedwalking (caminata rápida)",
+    "Guerrero Ninja Americano"
    ]
   },
   {
@@ -1812,9 +1812,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Body Hair",
-    "Hairless Cats",
-    "Men With Ponytails"
+    "Vello corporal",
+    "Gatos sin pelo",
+    "Hombres con colita"
    ]
   },
   {
@@ -1823,9 +1823,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Turning Guy Into Snake",
-    "Turning Snakes Into Guy",
-    "Turning Guy on, With Snakes"
+    "Convertir a un tipo en serpiente",
+    "Convertir serpientes en un tipo",
+    "Calentar a un tipo, con serpientes"
    ],
    "x": true
   },
@@ -1835,9 +1835,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Saying “Aye Aye”",
-    "Saying “Okey-Dokey”",
-    "Saying “Bet”"
+    "Decir “¡Sí, capitán!”",
+    "Decir “Oki-doki”",
+    "Decir “de una”"
    ]
   },
   {
@@ -1846,9 +1846,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Sharing a Straw",
-    "Sharing a Toothbrush",
-    "Sharing an Insta Account"
+    "Compartir sorbete",
+    "Compartir cepillo de dientes",
+    "Compartir una cuenta de Insta"
    ]
   },
   {
@@ -1857,9 +1857,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Living in Oz",
-    "Living in Middle Earth",
-    "Living in Halloweentown"
+    "Vivir en Oz",
+    "Vivir en la Tierra Media",
+    "Vivir en Halloweentown"
    ]
   },
   {
@@ -1868,9 +1868,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Tattoo of a Celebrity",
-    "Fanfic About a Celebrity",
-    "Celebrity-Lookalike Surgery"
+    "Tatuaje de una celebridad",
+    "Fanfic sobre una celebridad",
+    "Cirugía para parecerse a una celebridad"
    ]
   },
   {
@@ -1879,9 +1879,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Dream About Falling",
-    "Dream About Public Nudity",
-    "Dream About Teeth"
+    "Soñar sobre caer",
+    "Dream sobre desnudez pública",
+    "Soñar sobre dientes"
    ],
    "x": true
   },
@@ -1891,9 +1891,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Coffee First Date",
-    "Rodeo First Date",
-    "First Date at a Wedding"
+    "Primera cita en un café",
+    "Primera cita en un rodeo",
+    "Primera cita en una boda"
    ],
    "x": true
   },
@@ -1905,7 +1905,7 @@
    "tasks": [
     "ChatGPT",
     "Wall-E",
-    "The T-1000"
+    "El T-1000"
    ]
   },
   {
@@ -1914,9 +1914,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Expensive Fedora",
-    "Big Foam Piece of Cheese",
-    "Ball Cap (for Bad Team)"
+    "Fedora caro",
+    "Sombrero de queso",
+    "Gorra de béisbol (para un equipo malo)"
    ]
   },
   {
@@ -1925,9 +1925,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Relay Races",
-    "Tandem Bicycles",
-    "A Capella Singing"
+    "Carreras de relevo",
+    "Bicicletas tándem",
+    "Canto a capela"
    ]
   },
   {
@@ -1936,9 +1936,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Burnt Marshmallows",
-    "The Color “Burnt Orange”",
-    "A Clever Burn (About Mom)"
+    "Malvaviscos quemados",
+    "El color “naranja quemado”",
+    "Un comentario que deja ardida a tu madre"
    ]
   },
   {
@@ -1947,9 +1947,9 @@
    "starterContent": true,
    "subcategory": "YUM-YUCK",
    "tasks": [
-    "Toasting With Champagne",
-    "Toasting With Olive Oil",
-    "Toasting With Water"
+    "Brindar con champán",
+    "Brindar con aceite de oliva",
+    "Brindar con agua"
    ],
    "x": true
   },
@@ -1959,9 +1959,9 @@
    "starterContent": true,
    "subcategory": "COMEDY-TRAGEDY",
    "tasks": [
-    "Falling on Gravel",
-    "Falling Into Pig Sty",
-    "Falling Into Steve Martin"
+    "Caer sobre grava",
+    "Caer en el chiquero de los cerdos",
+    "Caerse sobre Steve Martin"
    ]
   },
   {
@@ -1970,9 +1970,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "Drinking at a Bar",
-    "Drinking at a Funeral",
-    "Drinking at a Wedding"
+    "Beber en un bar",
+    "Beber en un funeral",
+    "Beber en una boda"
    ],
    "x": true
   },
@@ -1982,9 +1982,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "A Bedroom Humidifier",
-    "Porcelain Doll on Bed",
-    "Five Decorative Pillows"
+    "Un humidificador en el cuarto",
+    "Muñeca de porcelana en la cama",
+    "Cinco almohadas decorativas"
    ]
   },
   {
@@ -1993,9 +1993,9 @@
    "starterContent": true,
    "subcategory": "COOL-UNCOOL",
    "tasks": [
-    "A Neon Sign",
-    "Subway Train Lights",
-    "A Clown-Shaped Lightbulb"
+    "Un cartel de neón",
+    "Luces del subte",
+    "Una lamparita con forma de payaso"
    ]
   },
   {
@@ -2004,9 +2004,9 @@
    "starterContent": true,
    "subcategory": "LOVE-HATE",
    "tasks": [
-    "Skinny-Dipping",
-    "Hotel Jacuzzis",
-    "Ice Plunges"
+    "Nadar desnudo/a",
+    "Jacuzzis de hotel",
+    "Baños de hielo"
    ],
    "x": true
   }

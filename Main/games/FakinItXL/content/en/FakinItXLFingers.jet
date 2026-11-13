@@ -545,7 +545,7 @@
    "fakerHint": "",
    "id": "120768",
    "isInRoomOnly": true,
-   "task": "Levanta tantos dedos como billetes de diez pesos/menor denominación que tengas actualmente en tu billetera."
+   "task": "Levanta tantos dedos como la cantidad de billetes que posees de la menor denominación que hay en tu billetera."
   },
   {
    "appearance": "LATE",
@@ -596,14 +596,14 @@
    "fakerHint": "",
    "id": "120873",
    "isInRoomOnly": true,
-   "task": "Hold up the finger or fingers that scream \"uwu\" to u ;D"
+   "task": "Levanta el dedo o dedos que te grita(n) \"uwu\" ;D"
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "Indica con una mano.",
    "id": "120874",
    "isInRoomOnly": true,
-   "task": "Make up a gesture that probably means something BAD in Europe.",
+   "task": "Haz un gesto que probablemente signifique algo MALO en Europa.",
    "x": true
   },
   {
@@ -611,7 +611,7 @@
    "fakerHint": "",
    "id": "120877",
    "isInRoomOnly": true,
-   "task": "Hold up the finger that’s the daddy.",
+   "task": "Levanta el dedo que es el papi.",
    "x": true
   },
   {
@@ -619,7 +619,7 @@
    "fakerHint": "",
    "id": "120878",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as times you’ve seen a childbirth.",
+   "task": "Levanta tantos dedos como veces que has visto un parto.",
    "x": true
   },
   {
@@ -627,14 +627,14 @@
    "fakerHint": "",
    "id": "120879",
    "isInRoomOnly": false,
-   "task": "From 1 to 5, 5 being the highest, how close are you to farting right now?"
+   "task": "En una escala del 1 al 5, 5 lo máximo, ¿qué tantas ganas tienes de tirarte un pedo ahora?"
   },
   {
    "appearance": "EARLY",
    "fakerHint": "",
    "id": "120890",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as knife stabs you think you could survive.",
+   "task": "Indica con los dedos con cuántas puñaladas crees que sobrevivirías.",
    "x": true
   },
   {
@@ -642,15 +642,15 @@
    "fakerHint": "",
    "id": "120891",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as times you’ve seriously punched someone.",
+   "task": "Indica con los dedos cuántas veces golpeaste a alguien en serio.",
    "x": true
   },
   {
    "appearance": "LATE",
-   "fakerHint": "Hold up a number of fingers between 1 and 10.",
+   "fakerHint": "Muestra de uno a diez dedos.",
    "id": "120892",
    "isInRoomOnly": true,
-   "task": "Hold up as many fingers as Commandments you have broken this week.",
+   "task": "Indica con los dedos cuántos mandamientos quebrantaste esta semana.",
    "x": true
   },
   {
@@ -658,14 +658,14 @@
    "fakerHint": "",
    "id": "120894",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as members of Radiohead you can name, dweeb."
+   "task": "Indica con los dedos cuántos miembros de Radiohead puedes nombrar, rarito."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "120899",
    "isInRoomOnly": true,
-   "task": "Hold up as many fingers as alcoholic drinks you’re going to have tonight.",
+   "task": "Indica con los dedos cuántos vasos de algo con alcohol vas a tomar hoy.",
    "x": true
   },
   {
@@ -673,7 +673,7 @@
    "fakerHint": "",
    "id": "120904",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers the number of people you’ve said “I love you” to but didn’t mean it.",
+   "task": "Indica con los dedos la cantidad de personas a las que les dijiste “te amo” sin sentirlo.",
    "x": true
   },
   {
@@ -681,7 +681,7 @@
    "fakerHint": "",
    "id": "120905",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as the number of times you’ve fallen in love with a friend’s partner.",
+   "task": "Indica con los dedos cuántas veces te enamoraste de la pareja de un amigo/a.",
    "x": true
   },
   {
@@ -689,15 +689,15 @@
    "fakerHint": "",
    "id": "120906",
    "isInRoomOnly": false,
-   "task": "On a scale of 1 to 5, how sexy do you find a cappella singing?",
+   "task": "En una escala del 1 al 5, ¿qué tan sexy consideras que es el canto a capella?",
    "x": true
   },
   {
    "appearance": "MID-ROUND",
-   "fakerHint": "Make a one-handed gesture.",
+   "fakerHint": "Haz un gesto con una sola mano.",
    "id": "120907",
    "isInRoomOnly": true,
-   "task": "Make a gesture that communicates “itchy butthole.”",
+   "task": "Haz un gesto con la mano que indique: “me pica el culo”.",
    "x": true
   },
   {
@@ -705,31 +705,31 @@
    "fakerHint": "",
    "id": "120927",
    "isInRoomOnly": false,
-   "task": "Hold up many fingers as times you could hug a pig at a petting zoo before it got weird.",
+   "task": "Indica con los dedos cuántas veces podrías abrazar a un cerdo en un zoológico de mascotas antes de que se vuelva algo raro.",
    "x": true
   },
   {
    "appearance": "MID-ROUND",
-   "fakerHint": "Make a two-handed gesture.",
+   "fakerHint": "Haz un gesto con las dos manos.",
    "id": "120949",
    "isInRoomOnly": true,
-   "task": "Make a gesture like you’re holding a Costco foot-long hot dog."
+   "task": "Haz un gesto como si estuvieras sosteniendo un hot dog de Costco de 30 cm."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "120950",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as times you have been BETRAYED by the people you’re playing with.",
+   "task": "Indica con los dedos cuántas veces TE TRAICIONARON las personas con las que estás jugando.",
    "x": false
   },
   {
    "appearance": "LATE",
    "countrySpecific": true,
-   "fakerHint": "Hold up a number 1-10.",
+   "fakerHint": "Muestra de uno a diez dedos.",
    "id": "120953",
    "isInRoomOnly": true,
-   "task": "Hold up as many fingers as thousands of dollars of debt you’d be comfortable having.",
+   "task": "Indica con los dedos cuántos miles de dólares de deuda no te resultaría incómodo tener.",
    "x": true
   },
   {
@@ -737,14 +737,14 @@
    "fakerHint": "",
    "id": "120958",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as sworn nemeses you have."
+   "task": "Indica con los dedos cuántos enemigos a muerte tienes."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "120959",
    "isInRoomOnly": false,
-   "task": "On a scale of 1-5, how much validation do you need as an adult because of how you were parented?",
+   "task": "En una escala del 1 al 5, ¿cuánta validación necesitas hoy día por cómo te criaron tus padres?",
    "x": true
   },
   {
@@ -752,7 +752,7 @@
    "fakerHint": "",
    "id": "120962",
    "isInRoomOnly": false,
-   "task": "On a scale of 1 to 5, how susceptible do you think you are to joining a cult?",
+   "task": "En una escala del 1 al 5, ¿qué tan probable es que te unas a una secta?",
    "x": true
   },
   {
@@ -760,7 +760,7 @@
    "fakerHint": "",
    "id": "120965",
    "isInRoomOnly": false,
-   "task": "On a scale of 1-5, what is your skill level at scratching your private parts without being noticed?",
+   "task": "En una escala del 1 al 5, ¿cuán hábil eres rascándote las partes íntimas sin que se note?",
    "x": true
   },
   {
@@ -768,7 +768,7 @@
    "fakerHint": "",
    "id": "120966",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as the number of gay product mascots you can name.",
+   "task": "Levanta tantos dedos como mascotas gay de productos puedes nombrar.",
    "x": true
   },
   {
@@ -776,29 +776,29 @@
    "fakerHint": "",
    "id": "120967",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as the number of chess pieces you could fit in your mouth."
+   "task": "Indica con los dedos cuántas piezas de ajedrez te caben en la boca."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "120975",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as hours it would take this group to notice you’ve gone missing."
+   "task": "Indica con los dedos cuántas horas tardaría esta gente en notar que no estás."
   },
   {
    "appearance": "MID-ROUND",
-   "fakerHint": "Hold up more than one finger.",
+   "fakerHint": "Muestra más de un dedo.",
    "id": "120976",
    "isInRoomOnly": true,
-   "task": "Hold up as many fingers as you can comfortably fit in your mouth.",
+   "task": "Muestra cuántos dedos te caben en la boca sin problema.",
    "x": false
   },
   {
    "appearance": "LATE",
-   "fakerHint": "Make a one-handed gesture.",
+   "fakerHint": "Haz un gesto con una sola mano.",
    "id": "120977",
    "isInRoomOnly": true,
-   "task": "If you know sign language, sign a dirty word! If you don’t, sit quietly in your shame.",
+   "task": "Si sabes lengua de señas, ¡seña una palabrota! Si no, muestra vergüenza por no saber.",
    "x": true
   },
   {
@@ -806,7 +806,7 @@
    "fakerHint": "",
    "id": "120978",
    "isInRoomOnly": false,
-   "task": "On a scale of 1-5, how honest is your social media presence regarding your actual life?",
+   "task": "Del 1 al 5, ¿qué tan veraz es lo que subes a redes sociales con respecto a tu vida real?",
    "x": false
   },
   {
@@ -814,7 +814,7 @@
    "fakerHint": "",
    "id": "120981",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as whole cows you’ve likely eaten over the course of your lifetime.",
+   "task": "Levanta tantos dedos como vacas enteras que probablemente hayas comido en el transcurso de tu vida.",
    "x": true
   },
   {
@@ -822,22 +822,22 @@
    "fakerHint": "",
    "id": "120986",
    "isInRoomOnly": false,
-   "task": "On a scale of 1 to 5, how close you are to an existential crisis right now?"
+   "task": "En una escala del 1 al 5, ¿qué tan cerca estás de entrar en una crisis existencial?"
   },
   {
    "appearance": "EARLY",
-   "fakerHint": "Hold up a finger.",
+   "fakerHint": "Muestra un dedo.",
    "id": "120987",
    "isInRoomOnly": true,
-   "task": "Hold up the finger you lick the most.",
+   "task": "Muestra el dedo que más te chupas.",
    "x": true
   },
   {
    "appearance": "MID-ROUND",
-   "fakerHint": "Make a one-handed gesture.",
+   "fakerHint": "Haz un gesto con una sola mano.",
    "id": "120988",
    "isInRoomOnly": true,
-   "task": "Make a gesture like you’re taking something out of a dog’s mouth."
+   "task": "Haz con la mano como si le sacaras algo de la boca a un perro."
   },
   {
    "appearance": "MID-ROUND",
@@ -845,15 +845,15 @@
    "id": "120992",
    "isInRoomOnly": false,
    "starterContent": false,
-   "task": "Hold up as many fingers as times you’ve clogged the toilet at someone else’s house."
+   "task": "Indica con los dedos cuántas veces has tapado el inodoro en una casa ajena."
   },
   {
    "appearance": "LATE",
-   "fakerHint": "Make a gesture with all your fingers.",
+   "fakerHint": "Haz un gesto con todos tus dedos.",
    "id": "120993",
    "isInRoomOnly": true,
    "isValid": "numGamesPlayedEver >= 2",
-   "task": "Wiggle your fingers like a bunch of snakes... that’s it... HA HA HA HA... YES!"
+   "task": "Mueve tus dedos como un montón de serpientes. ¡Eso es! JA JA JA... ¡SÍ!"
   },
   {
    "appearance": "MID-ROUND",
@@ -861,7 +861,7 @@
    "id": "121967",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up fingers for the perfect number of hours into a road trip to make a pit stop."
+   "task": "Levanta tantos dedos como la cantidad de horas perfecta en un viaje por carretera antes de parar a cargar combustible."
   },
   {
    "appearance": "LATE",
@@ -869,7 +869,7 @@
    "id": "121968",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as it takes to make a peace sign."
+   "task": "Levanta tantos dedos como necesites para hacer la señal de la paz."
   },
   {
    "appearance": "EARLY",
@@ -877,7 +877,7 @@
    "id": "121970",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as hours it takes for you to clean your home."
+   "task": "Levanta tantos dedos como horas te toma limpiar tu casa."
   },
   {
    "appearance": "LATE",
@@ -885,7 +885,7 @@
    "id": "121971",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as the max number of kids you could tolerate babysitting."
+   "task": "Levanta tantos dedos como el máximo número de niños que tolerarías cuidar."
   },
   {
    "appearance": "MID-ROUND",
@@ -893,7 +893,7 @@
    "id": "121972",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "On a scale of 1 to 5, how badly you need to shower right now?"
+   "task": "En una escala del 1 al 5, ¿qué tanto necesitas una ducha en este momento?"
   },
   {
    "appearance": "LATE",
@@ -901,7 +901,7 @@
    "id": "121973",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "On a scale from 1 to 5, how well do you know the person to your right?"
+   "task": "En una escala del 1 al 5, ¿qué tan bien conoces a la persona a tu derecha?"
   },
   {
    "appearance": "LATE",
@@ -909,7 +909,7 @@
    "id": "121975",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up your fingers like you’re a three-toed sloth."
+   "task": "Levanta los dedos como si fueras un perezoso de tres dedos."
   },
   {
    "appearance": "EARLY",
@@ -917,7 +917,7 @@
    "id": "121976",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as cheeseburgers you think you could eat without ralphing."
+   "task": "Levanta tantos dedos como hamburguesas con queso que podrías comer sin lanzar todo."
   },
   {
    "appearance": "LATE",
@@ -925,7 +925,7 @@
    "id": "121977",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as you would need to make the K-pop heart gesture."
+   "task": "Levanta los dedos que necesites para hacer el gesto de corazón de K-Pop."
   },
   {
    "appearance": "EARLY",
@@ -933,21 +933,21 @@
    "id": "122034",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as movies you’ve walked out of in your life."
+   "task": "Levanta tantos dedos como películas de las que te fuiste antes en tu vida."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122035",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as reality TV shows you're way too invested in."
+   "task": "Levanta tantos dedos como reality shows en los que te has interesado demasiado."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122036",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as speeding tickets you've been given in your life.",
+   "task": "Levanta tantos dedos como multas por velocidad que has recibido en tu vida.",
    "x": true
   },
   {
@@ -955,7 +955,7 @@
    "fakerHint": "",
    "id": "122037",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as animal products you have eaten today.",
+   "task": "Levanta tantos dedos como productos de animales que has comido hoy.",
    "x": true
   },
   {
@@ -963,56 +963,56 @@
    "fakerHint": "",
    "id": "122038",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as bags you typically take on vacation."
+   "task": "Levanta tantos dedos como bolsas que sueles llevar en las vacaciones."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122039",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as bases on a baseball diamond."
+   "task": "Levanta tantos dedos como bases hay en un campo de béisbol."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122041",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as boards you think you could break with a karate chop."
+   "task": "Levanta tantos dedos como tablas crees que podrías romper con un golpe karateka."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122043",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as times you've gone to the bank this month."
+   "task": "Levanta tantos dedos como veces has ido al banco este mes."
   },
   {
    "appearance": "EARLY",
    "fakerHint": "",
    "id": "122044",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as condiments that belong on a hot dog."
+   "task": "Levanta tantos dedos como condimentos que deben ir en un perrito caliente."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122045",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as there are countries named “Japan.”"
+   "task": "Levanta tantos dedos como países haya llamados “Japón”."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122046",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as donuts you can comfortably house in twenty minutes."
+   "task": "Levanta tantos dedos como donas podrías devorar fácilmente en veinte minutos."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122047",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as future kids you’d like to have.",
+   "task": "Levanta tantos dedos como hijos que quisieras tener en el futuro.",
    "x": true
   },
   {
@@ -1020,21 +1020,21 @@
    "fakerHint": "",
    "id": "122048",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as horses you've owned."
+   "task": "Levanta tantos dedos como caballos que has tenido."
   },
   {
    "appearance": "EARLY",
    "fakerHint": "",
    "id": "122049",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as minutes you can hold your breath."
+   "task": "Levanta tantos dedos como minutos que puedes mantener la respiración."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122050",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as nemeses you have at work.",
+   "task": "Levanta tantos dedos como enemigos jurados tengas en el trabajo.",
    "x": true
   },
   {
@@ -1042,14 +1042,14 @@
    "fakerHint": "",
    "id": "122051",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as passengers that can safely ride in an average sedan."
+   "task": "Levanta tantos dedos como pasajeros que pueden viajar seguros en un sedan promedio."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122052",
    "isInRoomOnly": false,
-   "task": "Hold up as many fingers as shots you're comfortable doing on a work night.",
+   "task": "Levanta tantos dedos como shots que te sientes cómodo haciendo en una noche cuando tienes que trabajar mañana.",
    "x": true
   },
   {
@@ -1057,21 +1057,21 @@
    "fakerHint": "",
    "id": "122053",
    "isInRoomOnly": false,
-   "task": "Hold up fingers for the minimum number of showers a human should take each week."
+   "task": "Levanta tantos dedos como el número mínimo de duchas que un humano debe tomar cada semana."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122054",
    "isInRoomOnly": true,
-   "task": "Hold up as many fingers as the perfect number of friends in a friend group."
+   "task": "Levanta tantos dedos como el número perfecto de amigos en un grupo de amigos."
   },
   {
    "appearance": "EARLY",
    "fakerHint": "",
    "id": "122055",
    "isInRoomOnly": true,
-   "task": "Hold up as many fingers as times you've flossed this week."
+   "task": "Levanta tantos dedos como veces que has usado hilo dental esta semana."
   },
   {
    "appearance": "LATE",
@@ -1079,7 +1079,7 @@
    "id": "122125",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as the number of Beatles OR Chainsmokers there are."
+   "task": "Levanta tantos dedos como el número de Beatles O DE Chainsmokers que hay."
   },
   {
    "appearance": "LATE",
@@ -1087,7 +1087,7 @@
    "id": "122134",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as unread texts you have on your phone right now."
+   "task": "Levanta tantos dedos como mensajes de texto sin leer que tienes en tu teléfono ahora mismo."
   },
   {
    "appearance": "MID-ROUND",
@@ -1095,7 +1095,7 @@
    "id": "122135",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "On a scale of 1 to 5, how hungry are you right now?"
+   "task": "En una escala del 1 al 5, ¿qué tan hambriento/a estás ahora mismo?"
   },
   {
    "appearance": "MID-ROUND",
@@ -1103,7 +1103,7 @@
    "id": "122137",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as animals you’ve touched today."
+   "task": "Levanta tantos dedos como animales que has tocado hoy."
   },
   {
    "appearance": "MID-ROUND",
@@ -1111,7 +1111,7 @@
    "id": "122138",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as times you’ve seen the movie Morbius."
+   "task": "Levanta tantos dedos como veces que has visto la película Morbius."
   },
   {
    "appearance": "EARLY",
@@ -1119,7 +1119,7 @@
    "id": "122139",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as times you’ve seen a play in the last year."
+   "task": "Levanta tantos dedos como veces que has visto una obra de teatro en el último año."
   },
   {
    "appearance": "EARLY",
@@ -1127,7 +1127,7 @@
    "id": "122160",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as eggs you’d want in an omelet."
+   "task": "Levanta tantos dedos como huevos que querrías en una tortilla."
   },
   {
    "appearance": "MID-ROUND",
@@ -1135,7 +1135,7 @@
    "id": "122161",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as places you’ve lived with a pool."
+   "task": "Levanta tantos dedos como lugares en los que has vivido con una piscina."
   },
   {
    "appearance": "LATE",
@@ -1143,7 +1143,7 @@
    "id": "122163",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as times someone you thought was hot was actually just Australian.",
+   "task": "Levanta tantos dedos como veces que alguien que pensabas que era sexy solamente era australiano.",
    "x": true
   },
   {
@@ -1152,7 +1152,7 @@
    "id": "122166",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as the number of coffees you’ve bought today."
+   "task": "Levanta tantos dedos como cafés que has comprado hoy."
   },
   {
    "appearance": "EARLY",
@@ -1160,7 +1160,7 @@
    "id": "122170",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as phone numbers you have memorized."
+   "task": "Levanta tantos dedos como números de teléfono que tienes memorizados."
   },
   {
    "appearance": "MID-ROUND",
@@ -1168,7 +1168,7 @@
    "id": "122171",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up fingers to indicate the time when a wild night out should begin.",
+   "task": "Levanta dedos para indicar la hora en que una noche alocada debería comenzar.",
    "x": true
   },
   {
@@ -1177,7 +1177,7 @@
    "id": "122174",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as number of seconds a handshake should last."
+   "task": "Levanta tantos dedos como segundos que un apretón de manos debe durar."
   },
   {
    "appearance": "EARLY",
@@ -1185,7 +1185,7 @@
    "id": "122184",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as dogs you are personal friends with."
+   "task": "Levanta tantos dedos como perros con los que eres un amigo personal."
   },
   {
    "appearance": "LATE",
@@ -1193,7 +1193,7 @@
    "id": "122193",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as hours in a day you spend on social media."
+   "task": "Levanta tantos dedos como horas en el día que pasas en las redes sociales."
   },
   {
    "appearance": "MID-ROUND",
@@ -1201,7 +1201,7 @@
    "id": "122195",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up the number of fingers you could comfortably fit in your belly button."
+   "task": "Levanta el número de dedos que podrías meter cómodamente en tu ombligo."
   },
   {
    "appearance": "EARLY",
@@ -1209,7 +1209,7 @@
    "id": "122198",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as surgeries you’ve had."
+   "task": "Levanta tantos dedos como cirugías que has tenido."
   },
   {
    "appearance": "LATE",
@@ -1217,7 +1217,7 @@
    "id": "122199",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up fingers that represent the age at which children are the MOST annoying.",
+   "task": "Levanta dedos que representen la edad en que los niños son MÁS molestos.",
    "x": true
   },
   {
@@ -1226,7 +1226,7 @@
    "id": "122200",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as religious holidays you consistently celebrate."
+   "task": "Levanta tantos dedos como feriados religiosos que celebras consistentemente."
   },
   {
    "appearance": "EARLY",
@@ -1234,7 +1234,7 @@
    "id": "122202",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as compliments it would take before you believed your new hairstyle looked good."
+   "task": "Levanta tantos dedos como cumplidos que necesitarías para pensar que tu nuevo corte de pelo se ve bien."
   },
   {
    "appearance": "EARLY",
@@ -1242,7 +1242,7 @@
    "id": "122203",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as songs you should sing to make it a successful karaoke night."
+   "task": "Levanta tantos dedos como canciones que deberías cantar para que sea una noche de karaoke exitosa."
   },
   {
    "appearance": "MID-ROUND",
@@ -1251,7 +1251,7 @@
    "id": "122205",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as runs scored from a grand slam during a baseball game.",
+   "task": "Levanta tantos dedos como carreras anotadas por un grand slam en un partido de béisbol.",
    "x": false
   },
   {
@@ -1260,7 +1260,7 @@
    "id": "122225",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Raise a finger for every thirst trap you’ve posted online this month.",
+   "task": "Sube un dedo por cada thirst trap que has posteado en línea este mes.",
    "x": true
   },
   {
@@ -1269,7 +1269,7 @@
    "id": "122257",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as alarms you need to set to wake up in the morning."
+   "task": "Levanta tantos dedos como alarmas que necesitas dejar preparadas para despertarte por la mañana."
   },
   {
    "appearance": "EARLY",
@@ -1277,7 +1277,7 @@
    "id": "122258",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as there are pillows on your bed."
+   "task": "Levanta tantos dedos como almohadas haya en tu cama."
   },
   {
    "appearance": "LATE",
@@ -1285,7 +1285,7 @@
    "id": "122259",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as days it’s okay to leave an unwashed dish in the sink."
+   "task": "Levanta tantos dedos como días que está bien dejar un plato sin lavar en el fregadero."
   },
   {
    "appearance": "LATE",
@@ -1293,7 +1293,7 @@
    "id": "122261",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up a finger for every time you’ve broken up with someone over text.",
+   "task": "Levanta un dedo por cada vez que has roto con alguien por mensaje.",
    "x": true
   },
   {
@@ -1302,7 +1302,7 @@
    "id": "122262",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as times in a row you could stand listening to “All I Want For Christmas is You.”"
+   "task": "Levanta tantos dedos como veces seguidas que puedes tolerar escuchar “All I Want For Christmas is You”."
   },
   {
    "appearance": "MID-ROUND",
@@ -1310,7 +1310,7 @@
    "id": "122264",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as Instagram accounts you have."
+   "task": "Levanta tantos dedos como cuentas de Instagram que tienes."
   },
   {
    "appearance": "EARLY",
@@ -1318,7 +1318,7 @@
    "id": "122265",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as hours you get to the airport before a flight."
+   "task": "Levanta tantos dedos como horas antes que vas al aeropuerto para un vuelo."
   },
   {
    "appearance": "LATE",
@@ -1326,7 +1326,7 @@
    "id": "122271",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as times you would let someone pronounce Beyoncé as “Bee Once” before correcting them."
+   "task": "Levanta tantos dedos como veces que puedes dejar que alguien pronuncie Beyoncé como “Bihons” antes de corregirlo."
   },
   {
    "appearance": "EARLY",
@@ -1334,7 +1334,7 @@
    "id": "122272",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "From 1 to 5, hold up fingers for how likely you are to watch a show someone recommends."
+   "task": "Del 1 al 5, levanta dedos según que tan probable es que veas una serie que alguien recomienda."
   },
   {
    "appearance": "MID-ROUND",
@@ -1342,7 +1342,7 @@
    "id": "122273",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as stickers you have on your laptop."
+   "task": "Levanta tantos dedos como stickers que tienes en tu laptop."
   },
   {
    "appearance": "LATE",
@@ -1350,7 +1350,7 @@
    "id": "122289",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "From 1 to 5, hold up fingers that show your caution level when approaching a horse."
+   "task": "Del 1 al 5, levanta dedos que demuestren tu nivel de cuidado al acercarte a un caballo."
   },
   {
    "appearance": "EARLY",
@@ -1358,7 +1358,7 @@
    "id": "122381",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as outfits you wear in a typical day."
+   "task": "Levanta tantos dedos como atuendos que vistes en un día habitual."
   },
   {
    "appearance": "MID-ROUND",
@@ -1366,7 +1366,7 @@
    "id": "122382",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as tries it usually takes you to get a good selfie."
+   "task": "Levanta tantos dedos como intentos que te suele tomar sacar una buena selfi."
   },
   {
    "appearance": "LATE",
@@ -1374,7 +1374,7 @@
    "id": "122385",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up fingers for the acceptable number of texts to send your crush before you get a reply.",
+   "task": "Levanta tantos dedos como la cantidad aceptable de mensajes que enviar a tu crush antes de recibir una respuesta.",
    "x": true
   },
   {
@@ -1383,7 +1383,7 @@
    "id": "122387",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up fingers for the number of days it typically takes you to unpack your suitcase after a trip."
+   "task": "Levanta tantos dedos como la cantidad de días que suele tomarte desempacar tu maleta luego de un viaje."
   },
   {
    "appearance": "EARLY",
@@ -1391,7 +1391,7 @@
    "id": "122388",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as dating apps you’ve tried.",
+   "task": "Levanta tantos dedos como apps de citas que has probado.",
    "x": true
   },
   {
@@ -1400,7 +1400,7 @@
    "id": "122389",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as TV shows you’ve watched from start to finish this year."
+   "task": "Levanta tantos dedos como series de televisión que has visto de principio a fin este año."
   },
   {
    "appearance": "LATE",
@@ -1408,7 +1408,7 @@
    "id": "122390",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as people you think are in the band BTS."
+   "task": "Levanta tantos dedos como miembros que crees que hay en la banda BTS."
   },
   {
    "appearance": "LATE",
@@ -1416,7 +1416,7 @@
    "id": "122391",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as famous people you know personally."
+   "task": "Levanta tantos dedos como personas famosas que conoces personalmente."
   },
   {
    "appearance": "EARLY",
@@ -1424,7 +1424,7 @@
    "id": "122392",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as times you’ve called your mother this week.",
+   "task": "Levanta tantos dedos como veces que has llamado a tu madre esta semana.",
    "x": true
   },
   {
@@ -1433,7 +1433,7 @@
    "id": "122393",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as hours you’d typically spend in an art museum."
+   "task": "Levanta tantos dedos como horas que pasarías en un museo de arte."
   },
   {
    "appearance": "LATE",
@@ -1441,7 +1441,7 @@
    "id": "122394",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as minutes you’d wait outside a locked bathroom before knocking."
+   "task": "Levanta tantos dedos como minutos que esperarías afuera de un baño cerrado con traba antes de tocar."
   },
   {
    "appearance": "MID-ROUND",
@@ -1449,7 +1449,7 @@
    "id": "122397",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as days you can wear a shirt before it’s “dirty.”"
+   "task": "Levanta tantos dedos como días que puedes llevar una camiseta antes de que esté “sucia”."
   },
   {
    "appearance": "MID-ROUND",
@@ -1457,7 +1457,7 @@
    "id": "122406",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as nights per week you dedicate to watching sports."
+   "task": "Levanta tantos dedos como noches por semana que puedes dedicar a ver deportes."
   },
   {
    "appearance": "LATE",
@@ -1465,7 +1465,7 @@
    "id": "122407",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as times you’ve been interviewed by a news outlet."
+   "task": "Levanta tantos dedos como veces que has sido entrevistado por un noticiero."
   },
   {
    "appearance": "EARLY",
@@ -1473,7 +1473,7 @@
    "id": "122408",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as the maximum amount of days a bachelorette party should last.",
+   "task": "Levanta tantos dedos como la cantidad máxima de días que una despedida de soltera debe durar.",
    "x": true
   },
   {
@@ -1483,7 +1483,7 @@
    "id": "122410",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as pieces of fish you’d expect in a $22 order of sashimi."
+   "task": "Levanta tantos dedos como las piezas de pescado que puedes esperar en una orden de sashimi de 22 dólares."
   },
   {
    "appearance": "EARLY",
@@ -1491,7 +1491,7 @@
    "id": "122411",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as the max amount of seconds that can pass between an insult and a successful comeback."
+   "task": "Levanta tantos dedos como la cantidad máxima de segundos que pueden pasar entre un insulto y una réplica exitosa."
   },
   {
    "appearance": "MID-ROUND",
@@ -1499,7 +1499,7 @@
    "id": "122428",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as fourth-graders you’d willingly chaperone on a field trip."
+   "task": "Levanta tantos dedos como niños de cuarto grado que acompañarías por voluntad propia en una excursión."
   },
   {
    "appearance": "LATE",
@@ -1507,7 +1507,7 @@
    "id": "122434",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up fingers for the number of properties someone should own before you consider them REALLY rich."
+   "task": "Levanta dedos por el número de propiedades que uno debe poseer antes de que lo consideres REALMENTE rico."
   },
   {
    "appearance": "MID-ROUND",
@@ -1515,7 +1515,7 @@
    "id": "122435",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up as many fingers as escape rooms you’ve successfully escaped."
+   "task": "Levanta tantos dedos como salas de escape que has escapado exitosamente."
   },
   {
    "appearance": "LATE",
@@ -1523,7 +1523,7 @@
    "id": "122438",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up a finger for every ball you know you can successfully juggle."
+   "task": "Levanta un dedo por cada pelota con la que sabes que puedes hacer malabares exitosamente."
   },
   {
    "appearance": "LATE",
@@ -1531,7 +1531,7 @@
    "id": "122439",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as the max number of stuffed animals acceptable on a bed."
+   "task": "Levanta tantos dedos como el número máximo aceptable de animales de peluche en una cama."
   },
   {
    "appearance": "LATE",
@@ -1539,7 +1539,7 @@
    "id": "122441",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up a finger for every color your hair has ever been."
+   "task": "Levanta un dedo por cada color que ha tenido tu cabello."
   },
   {
    "appearance": "EARLY",
@@ -1547,14 +1547,14 @@
    "id": "122446",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Hold up a finger for every time you've had McDonald's this month."
+   "task": "Levanta un dedo por cada vez que fuiste a McDonald's este mes."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122517",
    "isInRoomOnly": false,
-   "task": "On a scale of 1 to 5, how much do you swear in normal convos?",
+   "task": "En una escala del 1 al 5, ¿cuántas malas palabras dices en una típica conversación?",
    "x": true
   }
  ]

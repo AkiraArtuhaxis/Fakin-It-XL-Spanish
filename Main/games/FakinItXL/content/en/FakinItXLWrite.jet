@@ -227,7 +227,7 @@
   },
   {
    "fakerTasks": [
-    "Something you hate in a salad.",
+    "Algo que odias en una ensalada.",
     "Una época del año que no te gusta.",
     "Palabras impresas en una camiseta tuya."
    ],
@@ -270,28 +270,28 @@
   },
   {
    "fakerTasks": [
-    "Your favorite crayon color.",
-    "A character on a movie poster you might have had as a kid.",
-    "The name of someone in this room."
+    "Tu color de crayón favorito.",
+    "Un personaje de un póster de película que podrías haber tenido de pequeño/a.",
+    "El nombre de alguien en esta habitación."
    ],
    "id": "122007",
    "starterContent": true,
    "tasks": [
-    "A candle scent you would enjoy.",
+    "Un aroma de vela que disfrutarías.",
     "Un personaje de película que te parece realmente espeluznante.",
     "Alguien que crees que tiene una gran voz para cantar."
    ]
   },
   {
    "fakerTasks": [
-    "Algún lugar al que te gustaría llevar a una cita.",
+    "Un restaurante a donde te gustaría llevar una cita.",
     "La tienda donde compras tu ropa interior.",
     "Un trabajo que nunca querrías tener."
    ],
    "id": "122012",
    "starterContent": true,
    "tasks": [
-    "A chain restaurant you enjoy.",
+    "Una cadena de restaurante que te gusta.",
     "Una tienda en la que frecuentemente compras.",
     "Tu primer trabajo."
    ],
@@ -314,7 +314,7 @@
   {
    "fakerTasks": [
     "Lo último que le diste a alguien como regalo.",
-    "Something people get trophies for.",
+    "Algo por lo que la gente consigue trofeos.",
     "Un mes que NO termina en “o.”"
    ],
    "id": "122016",
@@ -329,7 +329,7 @@
    "fakerTasks": [
     "Un programa de televisión que debería convertirse en una película.",
     "El nombre de un alimento que es divertido decir en voz alta.",
-    "A food people sometimes pay a lot of money for."
+    "Una comida por la que la gente a veces paga un montón de dinero."
    ],
    "id": "122017",
    "starterContent": true,
@@ -349,1069 +349,1069 @@
    "starterContent": true,
    "tasks": [
     "El trabajo que querías cuando eras niño/a.",
-    "Your favorite magazine as a kid.",
+    "Tu revista favorita de pequeño.",
     "Un libro que amabas de niño/a."
    ]
   },
   {
    "fakerTasks": [
     "Un programa de televisión que es malo, pero de todos modos te encanta.",
-    "A language you think may be hard to learn.",
+    "Un lenguaje que crees que podría ser difícil de aprender.",
     "Un tipo de ejercicio que odias hacer."
    ],
    "id": "122019",
    "starterContent": true,
    "tasks": [
     "Un programa de televisión que crees que es el peor.",
-    "Your favorite type of international cuisine.",
-    "Something you might do when you're bored."
+    "Tu tipo preferido de comida extranjera.",
+    "Algo que podrías hacer cuando estás aburrido/a."
    ]
   },
   {
    "fakerTasks": [
     "Un nombre que le darías a tu próxima mascota.",
     "Una celebridad que conociste.",
-    "A food that is often very drippy."
+    "Una comida que genera enchastres."
    ],
    "id": "122020",
    "starterContent": true,
    "tasks": [
-    "A cool name you wish you had.",
-    "A celebrity you don't like very much.",
-    "Something you’ve eaten today."
+    "Un nombre genial que desearías tener.",
+    "Una celebridad que no te agrada mucho.",
+    "Algo que comiste hoy."
    ]
   },
   {
    "fakerTasks": [
-    "An object currently in your car.",
-    "A wrestling move, probably.",
-    "An activity your grandparents might enjoy."
+    "Un objeto actualmente en tu automóvil.",
+    "Un movimiento de lucha libre, probablemente.",
+    "Una actividad que tus abuelos podrían disfrutar."
    ],
    "id": "122021",
    "starterContent": true,
    "tasks": [
-    "An object you could use to murder someone.",
+    "Un objeto que podrías usar para asesinar a alguien.",
     "Un eufemismo para el sexo.",
-    "The best activity to finish a date with."
+    "La mejor actividad para terminar una cita."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "A good habit you think you have.",
-    "The last name of a singer you enjoy.",
-    "The age you have to be to run for local office."
+    "Un buen hábito que crees tener.",
+    "El apellido de un/a cantante que te gusta.",
+    "La edad que debes tener para postularte como intendente."
    ],
    "id": "122022",
    "starterContent": true,
    "tasks": [
-    "A habit you find attractive in others.",
-    "The name of a street you know/lived on.",
-    "The ideal age to have your first kiss."
+    "Un hábito que te parece atractivo en otros/as.",
+    "El nombre de una calle que conoces o en dónde viviste.",
+    "La edad ideal para tu primer beso."
    ]
   },
   {
    "fakerTasks": [
-    "An item you’d bring on an adventure.",
-    "An accessory a secret agent might wear.",
-    "Something you’d shout at an intruder."
+    "Un objeto que llevarías en una aventura.",
+    "Un accesorio que un agente secreto podría llevar.",
+    "Algo que le gritarías a un intruso."
    ],
    "id": "122023",
    "starterContent": true,
    "tasks": [
-    "An item you’d bring on a road trip.",
-    "An accessory you’d like to start wearing.",
-    "A word or words you might see on a bumper sticker."
+    "Un objeto que llevarías en un viaje de carretera.",
+    "Un accesorio que te gustaría empezar a usar.",
+    "Una palabra o palabras que verías en un sticker de auto."
    ]
   },
   {
    "fakerTasks": [
-    "A pet that is incredibly annoying.",
-    "Something that always goes bad before you finish it.",
-    "The first name of someone you hate."
+    "Una mascota que es increíblemente molesta.",
+    "Algo que siempre se pone feo antes que lo termines.",
+    "El nombre de alguien que odias."
    ],
    "id": "122116",
    "tasks": [
-    "A pet that needs a lot of care.",
-    "Something you get every time you go to the grocery store.",
-    "A first name that gives you weird vibes."
+    "Una mascota que necesita muchos cuidados.",
+    "Algo que te llevas siempre que vas al quiosco.",
+    "Un nombre que te da malas vibras."
    ]
   },
   {
    "fakerTasks": [
-    "A sound from your childhood.",
-    "A word that makes you feel smart when you say it.",
-    "The first fictional character that you had a crush on."
+    "Un sonido de tu infancia.",
+    "Una palabra que te hace sentir inteligente cuando la dices.",
+    "Tu primer crush en un personaje ficticio."
    ],
    "id": "122117",
    "tasks": [
-    "A sound you find soothing.",
-    "A word that sounds the best yelled.",
-    "The first fictional character that really scared you."
+    "Un sonido que te resulta relajante.",
+    "Una palabra que suena mejor cuando la gritas.",
+    "El primer personaje ficticio que te ha asustado."
    ]
   },
   {
    "fakerTasks": [
-    "The coolest animal.",
-    "Something you bring on a long car trip.",
-    "A computer brand from the ’90s."
+    "El animal más genial.",
+    "Algo que llevarías a un viaje largo en auto.",
+    "Una marca de computadora de los 90."
    ],
    "id": "122118",
    "tasks": [
-    "An animal you respect, but don't fear.",
-    "Something you bring on a plane.",
-    "Your favorite computer brand."
+    "Un animal que respetas, pero no temes.",
+    "Algo que llevarías en un avión.",
+    "Tu marca de computadora preferida."
    ]
   },
   {
    "fakerTasks": [
-    "Your favorite thing to sip on at a social event.",
-    "Something you might forget at a bar.",
-    "A song that reminds you of heartbreak."
+    "Tu cosa favorita que sorber en un evento social.",
+    "Algo que podrías olvidarte en un bar.",
+    "Una canción que te recuerda del mal de amores."
    ],
    "id": "122119",
    "tasks": [
-    "Your favorite thing to sip on at night.",
-    "Something in your wallet right now.",
-    "A song from your teenage years."
+    "Tu cosa favorita que sorber por la noche.",
+    "Algo en tu billetera en este momento.",
+    "Una canción de tu adolescencia."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "Something you've gotten your mom as a gift.",
-    "A color you think you look good in.",
-    "A movie that is extremely scary."
+    "Algo que le has dado a tu mamá de regalo.",
+    "Un color que crees que te hace ver bien.",
+    "Una película que es extremadamente aterradora."
    ],
    "id": "122120",
    "tasks": [
-    "Something moms love.",
-    "A color you hate.",
-    "A movie you love to share with others."
+    "Algo que las madres adoran.",
+    "Un color que odias.",
+    "Una película que te encantaría compartir con otros."
    ]
   },
   {
    "fakerTasks": [
-    "Something that will make a sandwich wet.",
-    "A family event/celebration that you're obligated to attend.",
-    "A side dish that ruins the meal."
+    "Algo que hace que un sándwich se humedezca.",
+    "Un evento o celebración familiar al que estás obligado a asistir.",
+    "Un acompañamiento que arruina una comida."
    ],
    "id": "122121",
    "tasks": [
-    "Something that is always good on a sandwich.",
-    "An event that's a waste of time.",
-    "Your favorite side dish."
+    "Algo que siempre es bueno en un sándwich.",
+    "Un evento que es una pérdida de tiempo.",
+    "Tu comida de acompañamiento preferida."
    ]
   },
   {
    "fakerTasks": [
-    "A word that sounds like a medicine.",
-    "A singer/musician that makes a lot of money.",
-    "A word tech bros say too much."
+    "Una palabra que suena como medicamento.",
+    "Una persona cantante/música que gana mucho dinero.",
+    "Una palabra que los tech bros dicen demasiado."
    ],
    "id": "122122",
    "tasks": [
-    "A word that sounds really sci-fi.",
-    "A singer/musician that you just don't get.",
-    "A word that sounds very \"business.\""
+    "Una palabra que suena muy a ciencia ficción.",
+    "Una persona cantante/música que simplemente no entiendes.",
+    "Una palabra que suena muy a \"negocios\"."
    ]
   },
   {
    "fakerTasks": [
-    "The most reliable form of transport.",
-    "An activity you might do at the library.",
-    "A word that describes reptiles."
+    "El método de transporte más confiable.",
+    "Una actividad que podrías hacer en la biblioteca.",
+    "Una palabra que describe a los reptiles."
    ],
    "id": "122123",
    "starterContent": true,
    "tasks": [
-    "A cool form of transport.",
-    "An activity from your childhood.",
-    "A word that describes you right after waking up."
+    "Una forma de transporte genial.",
+    "Una actividad de tu infancia.",
+    "Una palabra que te describe justo después de despertar."
    ]
   },
   {
    "fakerTasks": [
-    "Your least favorite chore.",
-    "A character name from Shakespeare.",
-    "Something you associate with church."
+    "Tu quehacer menos preferido.",
+    "El nombre de un personaje de Shakespeare.",
+    "Algo que asocias con la iglesia."
    ],
    "id": "122162",
    "starterContent": true,
    "tasks": [
-    "An okay way to end the day.",
-    "A good name for a spaceship.",
-    "Something you associate with winter."
+    "Una forma decente de cerrar el día.",
+    "Un buen nombre para una nave espacial.",
+    "Algo que asocias con el invierno."
    ]
   },
   {
    "fakerTasks": [
-    "The name of a movie set in the ocean.",
-    "Your favorite dessert.",
-    "The name of a timeless diva."
+    "El nombre de una película que ocurre en el océano.",
+    "Tu postre favorito.",
+    "El nombre de una diva atemporal."
    ],
    "id": "122253",
    "starterContent": true,
    "tasks": [
-    "A good name for a yacht.",
-    "Something you think about before falling asleep.",
-    "A powerful person."
+    "Un buen nombre para un yate.",
+    "Algo en lo que piensas antes de quedarte dormido/a.",
+    "Una persona poderosa."
    ]
   },
   {
    "fakerTasks": [
-    "A mythological creature.",
-    "A celebrity you think is old.",
-    "Simple advice you’d give to a child."
+    "Una criatura mitológica.",
+    "Una celebridad que crees que es vieja.",
+    "Un consejo simple que le darías a un niño o niña."
    ],
    "id": "122301",
    "tasks": [
-    "A good mascot for a sports team.",
-    "Something you might see in a museum.",
-    "A lesson fairy tales teach us."
+    "Una buena mascota para un equipo deportivo.",
+    "Algo que podrías ver en un museo.",
+    "Una lección que nos deja los cuentos de hadas."
    ]
   },
   {
    "fakerTasks": [
-    "An animal you think is dangerous.",
-    "A sauce you think is fancy.",
-    "A boring historical figure."
+    "Un animal que crees que es peligroso.",
+    "Una salsa que te parece elegante.",
+    "Una figura histórica aburrida."
    ],
    "id": "122309",
    "starterContent": true,
    "tasks": [
-    "A pattern you’d like to have on your PJs.",
-    "Your favorite sauce.",
-    "Your ideal Halloween costume."
+    "Un patrón que te gustaría tener en tus piyamas.",
+    "Tu salsa favorita.",
+    "Tu disfraz de Halloween ideal."
    ]
   },
   {
    "fakerTasks": [
-    "A portable piece of sports equipment.",
-    "An example of an activity you think is decadent.",
-    "A powerful figure in the tech world."
+    "Una pieza portable de equipamiento deportivo.",
+    "Un ejemplo de una actividad que crees que es decadente.",
+    "Una figura poderosa en el mundo tech."
    ],
    "id": "122310",
    "starterContent": true,
    "tasks": [
-    "A good horror movie weapon.",
-    "An example of self-care.",
-    "Something you wouldn't want to encounter in the woods."
+    "Una buena arma de película de terror.",
+    "Un ejemplo de autocuidado.",
+    "Algo que no quisieras encontrar en el bosque."
    ]
   },
   {
    "fakerTasks": [
-    "The best time of day for a heist.",
-    "A medieval weapon.",
-    "Something you’d sneak through airport security."
+    "La mejor hora del día para un robo.",
+    "Un arma medieval.",
+    "Algo que quisieras infiltrar por la seguridad del aeropuerto."
    ],
    "id": "122312",
    "starterContent": true,
    "tasks": [
-    "The best time of day.",
-    "An object useful for a Home Alone-style contraption.",
-    "Something you might find in a briefcase."
+    "La mejor hora del día.",
+    "Un objeto útil para un artilugio al estilo de Mi pobre angelito.",
+    "Algo que podrías encontrar en un maletín."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "A job that makes someone seem important.",
-    "A type of food you find disgusting.",
-    "The main character in a rejected children's book."
+    "Un trabajo que hace a alguien parecer importante.",
+    "Un tipo de comida que te parece asqueroso.",
+    "El personaje pricipal de un libro infantil rechazado."
    ],
    "id": "122313",
    "starterContent": true,
    "tasks": [
-    "An occupation most people agree is helpful.",
-    "A word that scares you.",
-    "A good name for a nightclub."
+    "Una ocupación que la mayoría de las personas estaría de acuerdo que es útil.",
+    "Una palabra que te aterra.",
+    "Un buen nombre para un club nocturno."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "A food that’s best served warm.",
-    "An admirable quality in a leader.",
-    "A food that's made from a farm animal."
+    "Una comida que se come mejor caliente.",
+    "Una cualidad admirable en un líder.",
+    "Una comida que viene de un animal de granja."
    ],
    "id": "122314",
    "starterContent": true,
    "tasks": [
-    "A word that feels cozy.",
-    "An admirable quality in a friend.",
-    "Something you'd find on a farm."
+    "Una palabra que se siente acogedora.",
+    "Una cualidad admirable en un amigo/a.",
+    "Algo que encontrarías en una granja."
    ]
   },
   {
    "fakerTasks": [
-    "The heaviest animal you could lift.",
-    "A song that's connected to a holiday.",
-    "A celebrity famous for partying."
+    "El animal más pesado que podrías levantar.",
+    "Una canción relacionada a una festividad.",
+    "Una celebridad famosa por andar de fiesta."
    ],
    "id": "122326",
    "starterContent": true,
    "tasks": [
-    "The heaviest thing you could lift.",
-    "A song that will always be popular.",
-    "A “creature of the night.”"
+    "La cosa más pesada que podrías levantar.",
+    "Una canción que siempre será popular.",
+    "Una “criatura de la noche”."
    ]
   },
   {
    "fakerTasks": [
-    "Something that frequently goes on a sandwich.",
-    "Your favorite baked good.",
-    "A food that’s very decadent."
+    "Algo que se pone frecuentemente en un sándwich.",
+    "Tu panificado preferido.",
+    "Una comida que es muy decadente."
    ],
    "id": "122336",
    "starterContent": true,
    "tasks": [
-    "An ingredient that ruins a sandwich.",
-    "A food with a nice texture.",
-    "A food you should NEVER get at the buffet."
+    "Un ingrediente que arruina un sándwich.",
+    "Una comida con buena textura.",
+    "Una comida que NUNCA debes pedir en el bufet."
    ]
   },
   {
    "fakerTasks": [
-    "A common first name.",
-    "The last name of a celebrity you like.",
-    "A common zoo animal."
+    "Un nombre común.",
+    "El apellido de una celebridad que te agrada.",
+    "Un animal común de zoológico."
    ],
    "id": "122338",
    "starterContent": true,
    "tasks": [
-    "A boring first name.",
-    "A fun name for a cat.",
-    "A nickname a biker might have."
+    "Un nombre aburrido.",
+    "Un nombre divertido para un gato.",
+    "Un apodo que un motoquero podría tener."
    ]
   },
   {
    "fakerTasks": [
-    "A phone app most people have.",
-    "A major political figure.",
-    "Your best guess of how many inches are in a mile."
+    "Una aplicación de celular que la mayoría de las personas tienen.",
+    "Una figura política importante.",
+    "Tu mejor estimación de cuántas pulgadas hay en una milla."
    ],
    "id": "122339",
    "starterContent": true,
    "tasks": [
-    "The most-used app on your phone.",
-    "A person or place you get a lot of texts from.",
-    "Your current number of unread emails."
+    "La aplicación más usada en tu teléfono.",
+    "Una persona o lugar del/de la que recibes muchos mensajes.",
+    "Tu número actual de correos sin leer."
    ]
   },
   {
    "fakerTasks": [
-    "A celebrity from your childhood.",
-    "A hairstyle from the ’90s.",
-    "Your birthstone, or a birthstone."
+    "Una celebridad de tu infancia.",
+    "Un peinado de los 90.",
+    "Tu piedra natal, o una piedra natal."
    ],
    "id": "122340",
    "starterContent": true,
    "tasks": [
-    "A celebrity you think is genuinely nice.",
-    "A hairstyle you’d like to try.",
-    "A gem that you think is ugly."
+    "Una celebridad que cree que es genuinamente agradable.",
+    "Un peinado que te gustaría probar.",
+    "Una gema que te parece que es fea."
    ]
   },
   {
    "fakerTasks": [
-    "A movie that’s in theaters right now.",
-    "A movie series that’s made a LOT of money.",
-    "A movie character that is super cool."
+    "Una película que está en cines ahora mismo.",
+    "Una serie de películas que recaudó MUCHO dinero.",
+    "Un personaje de película que es muy genial."
    ],
    "id": "122344",
    "starterContent": true,
    "tasks": [
-    "The last movie you saw.",
-    "Your favorite movie series.",
-    "A movie character that dies."
+    "La última película que viste.",
+    "Tu saga de películas preferida.",
+    "Un personaje de película que muere."
    ]
   },
   {
    "fakerTasks": [
-    "An organ that is frequently donated.",
-    "A part of the body people frequently tattoo.",
-    "A word you hear in the doctor’s office."
+    "Un órgano que se dona con frecuencia.",
+    "Una parte del cuerpo que la gente se tatúa con frecuencia.",
+    "Una palabra que sueles escuchar en el consultorio del médico."
    ],
    "id": "122346",
    "starterContent": true,
    "tasks": [
-    "An organ you can’t live without.",
-    "A part of the body people work out.",
-    "A word you remember from biology class."
+    "Un órgano con el que no puedes vivir.",
+    "Una parte del cuerpo que la gente entrena.",
+    "Una palabra que recuerdas de la clase de biología."
    ]
   },
   {
    "countrySpecific": true,
    "fakerTasks": [
-    "A word you associate with the Arctic.",
-    "A word you associate with the forest.",
-    "A word you associate with Uncle Sam."
+    "Una palabra que asocias con el Ártico.",
+    "Una palabra que asocias con el bosque.",
+    "Una palabra que asocias con el Tío Sam."
    ],
    "id": "122347",
    "starterContent": true,
    "tasks": [
-    "A word you associate with Santa.",
-    "A word you associate with fall.",
-    "A word you associate with July."
+    "Una palabra que asocias con Papá Noel.",
+    "Una palabra que asocias con el otoño.",
+    "Una palabra que asocias con julio."
    ]
   },
   {
    "fakerTasks": [
-    "A skill you learned and never forgot.",
-    "A common foreign language.",
-    "A hobby you’d like to pick up."
+    "Una habilidad que aprendiste y nunca has olvidado.",
+    "Un lenguaje extranjero común.",
+    "Un pasatiempo que te gustaría realizar."
    ],
    "id": "122348",
    "starterContent": true,
    "tasks": [
-    "A skill you learned as a kid.",
-    "A language you wish you knew.",
-    "A hobby a grandmother might pick up."
+    "Una habilidad que aprendiste de pequeño/a.",
+    "Un lenguaje que desearías saber.",
+    "Un pasatiempo que una abuela podría arrancar."
    ]
   },
   {
    "fakerTasks": [
-    "The name of any classical composer.",
-    "An instrument that is hard to play.",
-    "An unusual percussion instrument."
+    "El nombre de un compositor clásico.",
+    "Un instrumento que es difícil de tocar.",
+    "Un instrumento de percusión inusual."
    ],
    "id": "122350",
    "starterContent": true,
    "tasks": [
-    "A musician you think is skilled.",
-    "An instrument you always enjoy hearing.",
-    "An instrument you could play right now."
+    "Una persona música que crees que es habilidosa.",
+    "Un instrumento que siempre disfrutas de escuchar.",
+    "Un instrumento que podrías tocar ahora mismo."
    ]
   },
   {
    "fakerTasks": [
-    "A place where kid birthdays are often held.",
-    "A place where you can buy a funnel cake.",
-    "A fictional place from a major movie."
+    "Un lugar donde se organizan cumpleaños de niños.",
+    "Un lugar donde puedes comprar un pastel de embudo.",
+    "Un lugar ficticio de una película importante."
    ],
    "id": "122352",
    "starterContent": true,
    "tasks": [
-    "A place you have to sign a waiver to enter.",
-    "A place where you can win prizes.",
-    "A fictional place you’d like to go to."
+    "Un lugar al que tienes que firmar un descargo para entrar.",
+    "Un lugar donde puedes ganar premios.",
+    "Un lugar ficticio al que te gustaría ir."
    ]
   },
   {
    "fakerTasks": [
-    "An animal you keep in a glass tank.",
-    "An animal with soulful eyes.",
-    "An animal of quiet majesty."
+    "Un animal que mantendrías en un tanque de vidrio.",
+    "Un animal con ojos conmovedores.",
+    "Un animal con una majestuosidad callada."
    ],
    "id": "122403",
    "starterContent": true,
    "tasks": [
-    "An animal you find adorable.",
-    "The biggest jerk of the animal kingdom.",
-    "In your opinion, the sexiest animal."
+    "Un animal que te parece adorable.",
+    "El más malvado del reino animal.",
+    "En tu opinión, el animal más sexy."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "How you would greet someone in the Medieval era.",
-    "A food that's very fancy.",
-    "A word that’s Italian, probably."
+    "Cómo saludarías a alguien de la era medieval.",
+    "Una comida que es muy elegante.",
+    "Una palabra que es italiana, probablemente."
    ],
    "id": "122404",
    "starterContent": true,
    "tasks": [
-    "Another way of saying “hello!”",
-    "Something you request on your birthday.",
-    "A word people use to sound smart."
+    "Otra manera de decir “¡hola!”",
+    "Algo que pides en tu cumpleaños.",
+    "Una palabra que las personas usan para sonar inteligentes."
    ]
   },
   {
    "fakerTasks": [
-    "A smell you'll always remember.",
-    "A type of clothing nobody wears anymore.",
-    "A food that usually makes a mess."
+    "Un olor que siempre recordarás.",
+    "Un tipo de prenda que ya no se usa.",
+    "Una comida que suele hacer un enchastre."
    ],
    "id": "122405",
    "starterContent": true,
    "tasks": [
-    "A smell you love.",
-    "A fashion trend you would bring back.",
-    "A food you would bring to a party."
+    "Un olor que te encanta.",
+    "Una tendencia de moda que traerías de vuelta.",
+    "Una comida que llevarías a una fiesta."
    ]
   },
   {
    "fakerTasks": [
-    "A complaint about a past or present roommate.",
-    "A crime you associate with the mafia.",
-    "Somewhere you would hide a body."
+    "Una queja sobre un compañero de cuarto actual o anterior.",
+    "Un crimen que asocias con la mafia.",
+    "Un lugar donde ocultarías un cuerpo."
    ],
    "id": "122412",
    "starterContent": true,
    "tasks": [
-    "A reason to break up with someone.",
-    "A crime you would try if there were no consequences.",
-    "Somewhere you've lost your phone or wallet."
+    "Una razón para romper con alguien.",
+    "Un crimen que probarías hacer si no hubieran consecuencias.",
+    "Un lugar donde has perdido tu teléfono o billetera."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "A tragic historical figure.",
-    "A band that makes soothing music.",
-    "A good name for a puppet."
+    "Una figura histórica trágica.",
+    "Una banda que hace música relajante.",
+    "Un buen nombre para una marioneta."
    ],
    "id": "122413",
    "starterContent": true,
    "tasks": [
-    "A historical figure who would dominate social media.",
-    "A band with members you find attractive.",
-    "What you'd want to be called in the mafia."
+    "Una figura histórica que dominaría las redes sociales.",
+    "Una banda con miembros que te parecen atractivos/as.",
+    "Cómo te gustaría que te llamen en la mafia."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "The name of a Shakespearean character",
-    "The name of a Looney Tunes character.",
-    "The name of a celebrity activist."
+    "El nombre de un personaje Shakespereano",
+    "El nombre de un personaje de Looney Tunes.",
+    "El nombre de una celebridad activista."
    ],
    "id": "122483",
    "starterContent": true,
    "tasks": [
-    "A name you'd give a fantasy/medieval character.",
-    "A cartoon character that's a nuisance.",
-    "The name of a popular political leader."
+    "Un nombre que le darías a un personaje medieval o de fantasía.",
+    "Un personaje de caricaturas que es una molestia.",
+    "El nombre de un líder político popular."
    ]
   },
   {
    "fakerTasks": [
-    "A word often yelled at a baseball game.",
-    "A word often yelled in excitement.",
-    "Something often said at a college graduation."
+    "Una palabra que suele gritarse en un partido de béisbol.",
+    "Una palabra que suele gritarse con entusiasmo.",
+    "Algo que se suele decir en una graduación universitaria."
    ],
    "id": "122484",
    "starterContent": true,
    "tasks": [
-    "A word often yelled at a football game.",
-    "A word often yelled at the end of a performance.",
-    "Something often said to a bride and groom."
+    "Una palabra que suele gritarse en un partido de fútbol.",
+    "Una palabra que suele gritarse al final de una presentación.",
+    "Algo que suele decirse a la novia y al novio."
    ]
   },
   {
    "fakerTasks": [
-    "A popular religious figure.",
-    "Something people often find in abandoned storage units.",
-    "Something people nostalgically collect."
+    "Una figura religiosa popular.",
+    "Algo que las personas suelen encontrar en unidades de almacenamiento abandonadas.",
+    "Algo que la gente colecciona nostálgicamente."
    ],
    "id": "122485",
    "starterContent": true,
    "tasks": [
-    "Something you might see framed in a grandfather's house.",
-    "Something you might see in a grandfather’s garage.",
-    "Something a grandfather might be buried with."
+    "Algo que podrías ver enmarcado en la casa de un abuelo.",
+    "Algo que podrías ver en el garaje de un abuelo.",
+    "Algo con lo que un abuelo podría ser enterrado."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "Your favorite soda.",
-    "Your favorite fast food item.",
-    "Your favorite spicy food."
+    "Tu gaseosa favorita.",
+    "Tu ítem de comida rápida preferido.",
+    "Tu comida picante preferida."
    ],
    "id": "122486",
    "starterContent": true,
    "tasks": [
-    "A drink that you could chug if you tried.",
-    "A food that you can eat in one bite.",
-    "Something that you should probably drink with milk."
+    "Una bebida que podrías fondear si quisieras.",
+    "Una comida que puedes comerte de un bocado.",
+    "Algo que probablemente deberías bajar con leche."
    ]
   },
   {
    "fakerTasks": [
-    "A food often served in a cafeteria.",
-    "An animal often found at a petting zoo.",
-    "A food item that would be weird eaten by itself."
+    "Una comida que suele servirse en una cafetería.",
+    "Un animal que se suele encontrar en un zoológico abierto.",
+    "Algo comestible que es raro comer por sí solo."
    ],
    "id": "122487",
    "starterContent": true,
    "tasks": [
-    "A food that would make bad leftovers.",
-    "A type of meat you would never try.",
-    "Something you spread on bread."
+    "Una comida que no deja buenas sobras.",
+    "Un tipo de carne que jamás probarías.",
+    "Algo que esparces sobre pan."
    ]
   },
   {
    "countrySpecific": true,
    "fakerTasks": [
-    "A word in an email subject you'd be happy to see.",
-    "A state or country with laid-back people.",
-    "Something you associate with the Old West."
+    "Una palabra en el asunto de un correo que te haría feliz ver.",
+    "Una provincia o país con gente tranquila.",
+    "Algo que asocias con el Viejo Oeste."
    ],
    "id": "122489",
    "starterContent": true,
    "tasks": [
-    "A word in an email subject that suggests \"scam.\"",
-    "Something you associate with \"mindfulness.\"",
-    "Something traditionally seen as \"macho.\""
+    "Una palabra en el asunto de un correo que indica \"estafa\".",
+    "Algo que asocias con \"mindfulness\".",
+    "Algo tradicionalmente considerado como \"macho\"."
    ],
    "x": false
   },
   {
    "fakerTasks": [
-    "A TV show your parents may have watched.",
-    "A type of animal you're sick of hearing about.",
-    "A phrase you'd shout at a party."
+    "Una serie de televisión que tus padres quizás hayan visto.",
+    "Un tipo de animal sobre el que estás harto de oír.",
+    "Una frase que gritarías en una fiesta."
    ],
    "id": "122491",
    "starterContent": true,
    "tasks": [
-    "A TV show you're able to quote.",
-    "A type of animal that deserves an animated movie.",
-    "A phrase you'd have printed on a shirt."
+    "Una serie de TV que podrías citar.",
+    "Un tipo de animal que se merece una película animada.",
+    "Una frase que imprimirías en una camiseta."
    ]
   },
   {
    "fakerTasks": [
-    "A pet name for your toddler.",
-    "An animal that’s icky to hold.",
-    "A word that describes slime."
+    "Un nombre tierno para tu hijito.",
+    "Un animal que no se siente bien sostener.",
+    "Una palabra que describe moco."
    ],
    "id": "122492",
    "starterContent": true,
    "tasks": [
-    "A pet name for your spouse.",
-    "A pet no one should have.",
-    "A good name for a pet snail."
+    "Un nombre tierno para tu cónyuge.",
+    "Una mascota que nadie debería tener.",
+    "Un buen nombre para un caracol mascota."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "A job you’d use an arts degree for.",
-    "A singer whose music everyone’s heard.",
-    "Something you assume wants to eat you."
+    "Un trabajo para el que usarías un título en Artes.",
+    "Un/a cantante cuya música fue escuchada por todos.",
+    "Algo que asumes que quiere comerte."
    ],
    "id": "122493",
    "starterContent": true,
    "tasks": [
-    "A job the lead in a rom-com might have.",
-    "A person you’ve seen a biopic about.",
-    "Something scary in a horror movie."
+    "Un trabajo que el/la prota de una rom-com tendría.",
+    "Una persona sobre la que has visto una película biográfica.",
+    "Algo aterrador en una película de terror."
    ]
   },
   {
    "countrySpecific": true,
    "fakerTasks": [
-    "A pop song from the 2010s.",
-    "A pop song from the ’90s.",
-    "A song you're pretty sure has a billion listens."
+    "Una canción pop de los años 2010s.",
+    "Una canción pop de los ’90s.",
+    "Una canción que estás bastante seguro que tiene mil millones de reproducciones."
    ],
    "id": "122496",
    "starterContent": true,
    "tasks": [
-    "A song you'd hear played at a Marshall's.",
-    "A song that you find very annoying.",
-    "The name of a fake pop song."
+    "Una canción que escucharías en el mercadito de la esquina.",
+    "Una canción que te parece muy molesta.",
+    "El nombre de una canción pop falsa."
    ]
   },
   {
    "fakerTasks": [
-    "A popular comfort food.",
-    "A classic book you want to read.",
-    "A piece of technology from a sci-fi show or movie."
+    "Una comida reconfortante muy popular.",
+    "Un libro clásico que quieres leer.",
+    "Una pieza de tecnología de una serie o película de ciencia ficción."
    ],
    "id": "122497",
    "starterContent": true,
    "tasks": [
-    "An item everyone loves to receive.",
-    "An item that could be on your bedside table.",
-    "A piece of modern technology you don't really understand."
+    "Un objeto que todos aman recibir.",
+    "Un objeto que podría estar en tu mesita de luz.",
+    "Una pieza de tecnología moderna que no terminas de entender."
    ]
   },
   {
    "fakerTasks": [
-    "A terrible first date spot.",
-    "A great spot for a kid’s birthday.",
-    "A place that gets REALLY crowded."
+    "Un terrible lugar para una primera cita.",
+    "Un gran lugar para el cumpleaños de un niño.",
+    "Un lugar que suele estar MUY congestionado."
    ],
    "id": "122500",
    "starterContent": true,
    "tasks": [
-    "A place you expect to wait a long time.",
-    "A place you expect to see someone in costume.",
-    "A place you expect has gross bathrooms."
+    "Un lugar donde asumes que vas a esperar mucho tiempo.",
+    "Un lugar donde asumes que verás a alguien con disfraz.",
+    "Un lugar donde asumes que los baños son un asco."
    ]
   },
   {
    "fakerTasks": [
-    "A huge life milestone.",
-    "A sound that would be weird to hear indoors.",
-    "A movie character you find annoying."
+    "Un gran hito de vida.",
+    "Un sonido que sería extraño escuchar en interiores.",
+    "Un personaje de película que te parece molesto."
    ],
    "id": "122501",
    "starterContent": true,
    "tasks": [
-    "An event people get nervous for.",
-    "A sound that would make you nervous.",
-    "A famously anxious character in media."
+    "Un evento por el que la gente se pone nerviosa.",
+    "Un sonido que te pondría nervioso/a.",
+    "Un personaje famosamente ansioso en la ficción."
    ]
   },
   {
    "fakerTasks": [
-    "A reality TV show with a host.",
-    "A song that easily gets stuck in your head.",
-    "A celebrity around your age."
+    "Un reality show con un anfitrión o anfitriona.",
+    "Una canción que se queda en tu mente con facilidad.",
+    "Una celebridad más o menos de tu edad."
    ],
    "id": "122502",
    "starterContent": true,
    "tasks": [
-    "A reality competition you could win.",
-    "Your go-to karaoke song.",
-    "A celebrity you’ve been told you look like."
+    "Un reality competitivo que podrías ganar.",
+    "Tu canción de karaoke favorita.",
+    "Una celebridad a la que te han dicho que te pareces."
    ]
   },
   {
    "fakerTasks": [
-    "A common feature in dogs.",
-    "Something that happened to Forrest Gump.",
-    "A self-help thing you really should get serious about."
+    "Una característica común en los perros.",
+    "Algo que le pasó a Forrest Gump.",
+    "Algo de autoayuda que deberías tomar más en serio."
    ],
    "id": "122505",
    "starterContent": true,
    "tasks": [
-    "A common feature in werewolves.",
-    "Something that happened in American history.",
-    "Something the doctor asks you to do."
+    "Una característica común en los hombres lobo.",
+    "Algo que ocurrió en la historia de tu país.",
+    "Algo que el médico pide que hagas."
    ]
   },
   {
    "fakerTasks": [
-    "Something you’d wear to the opera.",
-    "An animal you could hold in your hands.",
-    "A place where everyone takes an Instagram pic."
+    "Algo que llevarías a la ópera.",
+    "Un animal que podrías llevar en tus manos.",
+    "Un lugar donde todos se sacan una foto de Instagram."
    ],
    "id": "122506",
    "starterContent": true,
    "tasks": [
-    "An uncomfortable item of clothing.",
-    "An animal you’d be unbothered to hear escaped the zoo.",
-    "An overrated tourist destination."
+    "Una prenda de ropa incómoda.",
+    "Un animal que no te preocuparía escuchar que escapó del zoológico.",
+    "Un destino turístico sobrevalorado."
    ]
   },
   {
    "fakerTasks": [
-    "Condiments a fast food place might have.",
-    "A place that gets crowded.",
-    "A type of texture."
+    "Condimentos que un lugar de comida rápida podría tener.",
+    "Un lugar que suele llenarse.",
+    "Un tipo de textura."
    ],
    "id": "122512",
    "starterContent": true,
    "tasks": [
-    "Something gross to put on ice cream.",
-    "Somewhere you’d definitely keep your shoes on.",
-    "An icky word that makes you shudder."
+    "Algo asqueroso que poner en el helado.",
+    "Un lugar donde definitivamente te quedarías con los zapatos puestos.",
+    "Una palabra asquerosa que te incomoda."
    ]
   },
   {
    "fakerTasks": [
-    "A non-home place you visit at least twice a week.",
-    "A gift you’d probably return.",
-    "Something cool that you own."
+    "Un lugar que no es tu hogar y visitas al menos dos veces a la semana.",
+    "Un regalo que probablemente devolverías.",
+    "Algo genial que posees."
    ],
    "id": "122518",
    "starterContent": true,
    "tasks": [
-    "A great thing to live next door to.",
-    "A good housewarming gift.",
-    "One object you’d save in a house fire."
+    "Algo genial que puedes tener al lado de tu casa.",
+    "Un buen regalo de bienvenida al barrio.",
+    "Un objeto que salvarías en un incendio doméstico."
    ]
   },
   {
    "fakerTasks": [
-    "Any vegetable.",
-    "A fast food company.",
-    "Something only rich people have."
+    "Cualquier verdura.",
+    "Una empresa de comida rápida.",
+    "Algo que solo los ricos tienen."
    ],
    "id": "122519",
    "starterContent": true,
    "tasks": [
-    "A common salad ingredient.",
-    "A company you’d be happy to be a spokesperson for.",
-    "Something you’d buy if you were a trillionaire."
+    "Un ingrediente común en ensaladas.",
+    "Una compañía para la que serías felizmente un portavoz.",
+    "Algo que comprarías si fueras un trillonario."
    ]
   },
   {
    "fakerTasks": [
-    "A job you had as a teenager.",
-    "A video game character.",
-    "An actor you admire."
+    "Un trabajo que tenías en la adolescencia.",
+    "Un personaje de videojuegos.",
+    "Un actor que admiras."
    ],
    "id": "122520",
    "starterContent": true,
    "tasks": [
-    "A job you think should be higher-paying.",
-    "A video game character your mom would know.",
-    "An actor who would make a great James Bond."
+    "Un trabajo que crees que debería pagar mejor.",
+    "Un personaje de videojuegos que tu mamá conocería.",
+    "Un actor que sería un buen James Bond."
    ]
   },
   {
    "countrySpecific": true,
    "fakerTasks": [
-    "An activity typically done outside.",
-    "A dangerous extreme sport/activity.",
-    "A place you’d take someone for a unique first date."
+    "Una actividad que suele hacerse afuera.",
+    "Un deporte o actividad extremadamente peligroso/a.",
+    "Un lugar al que llevarías a alguien para tener una primera cita única."
    ],
    "id": "122521",
    "starterContent": true,
    "tasks": [
-    "An activity you’d probably get a Boy Scout merit badge for.",
-    "An activity on your bucket list.",
-    "A place an elementary school might go on a field trip."
+    "Una actividad por la que probablemente tendrías una insignia Boy Scout de mérito.",
+    "Una actividad en tu lista de cosas antes de morir.",
+    "Un lugar al que una primaria podría ir para una excursión."
    ]
   },
   {
    "fakerTasks": [
-    "A food you’d get at a fair or carnival.",
-    "A book you had to read in high school.",
-    "The name of a flower."
+    "Una comida que obtendrías en una feria o carnaval.",
+    "Un libro que tuviste que leer en la secundaria.",
+    "El nombre de una flor."
    ],
    "id": "122522",
    "starterContent": true,
    "tasks": [
-    "A food you could eat every day.",
-    "Your favorite book.",
-    "A popular name for a girl."
+    "Una comida que comerías todos los días.",
+    "Tu libro favorito.",
+    "Un nombre popular para una nena."
    ]
   },
   {
    "countrySpecific": false,
    "fakerTasks": [
-    "A sport in the Winter Olympics.",
-    "Something you could buy at a hardware store.",
-    "The decade your parents were born in."
+    "Un deporte de los Juegos Olímpicos de Invierno.",
+    "Algo que podrías comprar en una tienda de hardware.",
+    "La década en que nacieron tus padres."
    ],
    "id": "122523",
    "starterContent": true,
    "tasks": [
-    "A sport you wish you were good at.",
-    "A unique signature weapon for a serial killer.",
-    "A historical period you find interesting."
+    "Un deporte en el que te gustaría haber sido bueno.",
+    "Un arma característica única para un asesino en serie.",
+    "Un período histórico que te parece interesante."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "A chain restaurant.",
-    "Something elementary schoolers learn.",
-    "A crowded place."
+    "Una cadena de restaurantes.",
+    "Algo que los niños de primaria aprenden.",
+    "Un lugar lleno de gente."
    ],
    "id": "122530",
    "starterContent": true,
    "tasks": [
-    "An interesting place for a first kiss.",
-    "Something you learned in school that you don't use as an adult.",
-    "A romantic place for a meet-cute."
+    "Un lugar interesante para un primer beso.",
+    "Algo que aprendiste ne la escuela que no usas como adulto.",
+    "Un lugar romántico para conocer a alguien."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "Something that kids want but really shouldn’t have.",
-    "Something you’d pack for a trip to Hawaii.",
-    "An animal you might see at the zoo."
+    "Algo que los niños quieren pero no deberían tener.",
+    "Algo que empacas para un viaje a Hawai.",
+    "Un animal que podrías ver en el zoológico."
    ],
    "id": "122531",
    "starterContent": true,
    "tasks": [
-    "Something your parents didn’t let you have as a kid.",
-    "Something you’d pack for a beach day.",
-    "An animal you would love to turn into at will."
+    "Algo que tus padres no te dejaban tener de niño/a.",
+    "Algo que empacarías para un día de playa.",
+    "Un animal al que te encantaría poder convertirte a voluntad."
    ]
   },
   {
    "fakerTasks": [
-    "A smell you love.",
-    "A room in your house.",
-    "A national holiday."
+    "Un olor que te encanta.",
+    "Una habitación en tu casa.",
+    "Un feriado nacional."
    ],
    "id": "122532",
    "starterContent": true,
    "tasks": [
-    "A nice candle scent.",
-    "A room in your house where you keep an umbrella.",
-    "A holiday where people tend to get quite tipsy."
+    "Un lindo aroma de vela.",
+    "Una sala en tu casa donde guardas un paraguas.",
+    "Una festividad donde la gente suele ponerse un poco entonada."
    ],
    "x": true
   },
   {
    "fakerTasks": [
-    "An animal you’ve touched before.",
-    "Write any animal, then the word “man” after it.",
-    "A topic you don’t know much about."
+    "Un animal que has tocado antes.",
+    "Escribe cualquier animal, y luego la palabra “man”.",
+    "Un tema del que no sabes mucho."
    ],
    "id": "122533",
    "starterContent": true,
    "tasks": [
-    "A good “stuffed animal” animal.",
-    "A new idea for a Batman villain.",
-    "Something you’d totally watch a documentary about."
+    "Un buen animal como “animal de peluche”.",
+    "Una nueva idea para un villano de Batman.",
+    "Algo sobre lo qué totalmente verías un documental."
    ]
   },
   {
    "fakerTasks": [
-    "An herb or spice.",
-    "An old-timey article of clothing.",
-    "A common household appliance."
+    "Una hierba o especia.",
+    "Un artículo antiguo de ropa.",
+    "Un electrodoméstico común."
    ],
    "id": "122534",
    "starterContent": true,
    "tasks": [
-    "An herb/spice that’s probably in KFC’s secret blend.",
-    "An article of clothing you think we should bring back.",
-    "A household appliance that you need a professional to fix."
+    "Una hierba o especia que probablemente se encuentre en la mezcla secreta de KFC.",
+    "Un artículo de ropa que crees que tiene que volver a usarse.",
+    "Un electrodoméstico que necesitas llamar a un profesional para arreglar."
    ]
   },
   {
    "fakerTasks": [
-    "A popular energy drink.",
-    "A drink a grandmother might enjoy.",
-    "Something you drank as a child."
+    "Una bebida energética popular.",
+    "Una bebida que una abuela podría disfrutar.",
+    "Algo que bebías en tu infancia."
    ],
    "id": "122661",
    "starterContent": true,
    "tasks": [
-    "A drink that some people have as a treat.",
-    "A drink that helps you relax.",
-    "A drink that really icks you out."
+    "Una bebida que algunas personas se dan como gusto.",
+    "Una bebida que te ayuda a relajarte.",
+    "Una bebida que te da mucho asco."
    ]
   },
   {
    "fakerTasks": [
-    "The best thing at a bake sale.",
-    "A fruit often found at a continental breakfast.",
-    "The most recent picture in your camera roll."
+    "Lo mejor que hay en una venta de pasteles.",
+    "Una fruta que suele encontrarse en un desayuno continental.",
+    "La foto más reciente en tu cámara de fotos."
    ],
    "id": "122662",
    "starterContent": true,
    "tasks": [
-    "A baked good you know you can make.",
-    "A fruit you'd be happy to eat every day.",
-    "A picture a mom might have in her camera roll."
+    "Algo horneado que sabes que puedes hacer.",
+    "Una fruta que estarías contento/a comiendo todos los días.",
+    "Una foto que una madre podría tener en su cámara de fotos."
    ]
   },
   {
    "fakerTasks": [
-    "Something you need to do for your hygiene.",
-    "Something annoying you need to do for your job.",
-    "Something annoying you have to do as an adult."
+    "Algo que tienes que hacer por tu higiene.",
+    "Algo molesto que tienes que hacer para tu trabajo.",
+    "Algo molesto que tienes que hacer como adulto."
    ],
    "id": "122663",
    "starterContent": true,
    "tasks": [
-    "Something annoying you have to do every day.",
-    "Something annoying you have to do every week.",
-    "Something annoying you have to do every year."
+    "Algo molesto que tienes que hacer todos los días.",
+    "Algo molesto que tienes que hacer todas las semanas.",
+    "Algo molesto que tienes que hacer todos los años."
    ]
   },
   {
    "fakerTasks": [
-    "A small business commonly seen in small towns.",
-    "A big box store that seems like it's EVERYWHERE.",
-    "A business you wouldn't mind hanging out in for a while."
+    "Un negocio pequeño que suele encontrarse en los pueblos pequeños.",
+    "Un hípermercado que parece que está EN TODAS PARTES.",
+    "Un negocio donde no te molestaría quedarte matando el tiempo por un momento."
    ],
    "id": "122665",
    "starterContent": true,
    "tasks": [
-    "A small business you wouldn't mind working at.",
-    "A big box store you don't like.",
-    "A business you visit every week."
+    "Un pequeño negocio donde no te molestaría trabajar.",
+    "Un hípermercado que no te gusta.",
+    "Un negocio que visitas todas las semanas."
    ]
   },
   {
    "countrySpecific": true,
    "fakerTasks": [
-    "Something elite athletes train to do.",
-    "An event that involves candy/treats.",
-    "A characteristic you like to see in a Presidential candidate."
+    "Algo que los atletas de élite entrenan para hacer.",
+    "Un evento que involucra caramelos/dulces.",
+    "Una característica que te gusta ver en un candidato presidencial."
    ],
    "id": "122666",
    "starterContent": true,
    "tasks": [
-    "Something people train a lot to do.",
-    "An event that happens in the fall.",
-    "Something people can get get medals for."
+    "Algo que la gente entrena mucho para hacer.",
+    "Un evento que ocurre en otoño.",
+    "Algo por lo que la gente puede conseguir medallas."
    ]
   },
   {
    "fakerTasks": [
-    "A flavor that might be nice in a piece of chocolate.",
-    "A school subject that most people hate.",
-    "A musician that probably won't be touring anytime soon."
+    "Un gusto que podría estar bueno en un pedazo de chocolate.",
+    "Una materia de la escuela que la mayoría de la gente detesta.",
+    "Una persona música que probablemente no va a salir de gira pronto."
    ],
    "id": "122667",
    "starterContent": true,
    "tasks": [
-    "A flavor that might be nice in chewing gum.",
-    "A school subject you actually use a lot in your life.",
-    "A musician you would love to see live."
+    "Un sabor que podría estar bueno para un chicle.",
+    "Una materia de la escuela que de verdad terminaste aplicando mucho en tu vida.",
+    "Una persona música que te gustaría ver en vivo."
    ]
   },
   {
    "fakerTasks": [
-    "Something you'd find at a nice spa.",
-    "A game you might play on the lawn.",
-    "An extremely ugly color."
+    "Algo que encontrarías en un buen spa.",
+    "Un juego que jugarías en el césped.",
+    "Un color extremadamente feo."
    ],
    "id": "122668",
    "starterContent": true,
    "tasks": [
-    "Something you'd find at a nice spa.",
-    "A game retirees like to play.",
-    "A color with an unusual name."
+    "Algo que encontrarías en un buen spa.",
+    "Un juego que les gusta jugar a los jubilados.",
+    "Un color con un nombre inusual."
    ]
   },
   {
    "fakerTasks": [
-    "The last thing you needed to use a stamp for.",
-    "A company you often buy clothes from.",
-    "The last person who called you on the phone."
+    "La última cosa para la que tuviste que usar un sello.",
+    "Una compañía a la que le sueles comprar la ropa.",
+    "La última persona que te llamó en el teléfono."
    ],
    "id": "122669",
    "starterContent": true,
    "tasks": [
-    "Something you still send via snail mail.",
-    "A company that sends you a TON of emails.",
-    "A person you're happy to receive phone calls from."
+    "Algo que todavía envías físicamente por correo.",
+    "Una compañía que te envía un MONTÓN de emails.",
+    "Una persona de la que te alegra recibir llamadas telefónicas."
    ]
   },
   {
    "fakerTasks": [
-    "A profession that requires a lot of schooling.",
-    "A children's book author.",
-    "A movie that teaches a moral or religious lesson."
+    "Una profesión que requiere de mucho estudio.",
+    "Un/a autor o autora de libros infantiles.",
+    "Una película que enseña una lección moral o religiosa."
    ],
    "id": "122670",
    "starterContent": true,
    "tasks": [
-    "A profession you find trustworthy.",
-    "A children's book author you admire.",
-    "A movie frequently shown during the holidays."
+    "Una profesión que te parece de confianza.",
+    "Un/a autor o autora de libros infantiles que admiras.",
+    "Una película que suele emitirse durante las festividades."
    ]
   },
   {
    "fakerTasks": [
-    "Any Jackbox game!",
-    "An activity that makes people very sweaty.",
-    "An activity that takes a lot of focus."
+    "¡Cualquier juego de Jackbox!",
+    "Una actividad que hace que las personas suden mucho.",
+    "Una actividad que requiere de mucha concentración."
    ],
    "id": "122671",
    "starterContent": true,
    "tasks": [
-    "A game you can play with your friends.",
-    "An activity that's more fun with a lot of people.",
-    "An activity you can do by yourself."
+    "Un juego que puedes jugar con tus amigos.",
+    "Una actividad que es más divertida con mucha gente.",
+    "Una actividad que puedes hacer por tu cuenta."
    ]
   }
  ]

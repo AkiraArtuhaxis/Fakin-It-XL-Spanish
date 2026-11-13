@@ -505,18 +505,18 @@
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Choose a face emoji.",
+   "fakerHint": "Elige un emoji de cara.",
    "id": "121314",
    "starterContent": true,
-   "task": "The emoji you would send to say, “If you’re going through a rough patch, I’m here for you.”"
+   "task": "El emoji que mandarías para decir “Si estás pasando por momentos difíciles, estoy aquí para ti”."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "OBJECTS",
-   "fakerHint": "Choose a face, person, food or object emoji.",
+   "fakerHint": "Selecciona un emoji de cara, persona, comida u objeto.",
    "id": "121315",
    "starterContent": true,
-   "task": "An emoji you strongly associate with your favorite movie."
+   "task": "Un emoji que asocias fuertemente con tu película favorita."
   },
   {
    "appearance": "LATE",
@@ -524,7 +524,7 @@
    "fakerHint": "Selecciona un emoji de actividad.",
    "id": "121343",
    "starterContent": true,
-   "task": "Pick the sport you think is sexiest.",
+   "task": "Elige el deporte que te parece más sexy.",
    "x": true
   },
   {
@@ -533,7 +533,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121344",
    "starterContent": true,
-   "task": "Choose the household object you would defend yourself with during a home invasion.",
+   "task": "Elige un objeto doméstico con el que te defenderías ante una invasión del hogar.",
    "x": true
   },
   {
@@ -542,57 +542,57 @@
    "fakerHint": "Selecciona un emoji de ropa.",
    "id": "121345",
    "starterContent": true,
-   "task": "An article of clothing that would be unusual to wear on a first date."
+   "task": "Un artículo de ropa que sería extraño llevar en una primera cita."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "ACTIVITIES",
-   "fakerHint": "Select a game or activity emoji.",
+   "fakerHint": "Selecciona un emoji de juego o actividad.",
    "id": "121346",
    "starterContent": true,
-   "task": "Pick a game or activity you’re confident you would NOT hurt yourself doing."
+   "task": "Elige un juego o actividad que estás seguro que NO te lastimarías haciendo."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121347",
    "starterContent": true,
-   "task": "An emoji you might use while texting your grandparent."
+   "task": "Un emoji que podrías usar mientras envías mensajes a un abuelo/a."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select an emoji of a person.",
+   "fakerHint": "Selecciona un emoji de una persona.",
    "id": "121348",
    "starterContent": true,
-   "task": "An emoji that you could feasibly show to the barber and say, “Give me this!”"
+   "task": "Un emoji que podrías mostrarle a tu barbero y decirle “¡Hazme esto!”"
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select a person emoji.",
+   "fakerHint": "Selecciona un emoji de persona.",
    "id": "121387",
    "starterContent": true,
-   "task": "You’re in jail and get one phone call. Which emoji would you call on to help?",
+   "task": "Estás en la cárcel y tienes una llamada. ¿Qué emoji llamarías para que te ayude?",
    "x": true
   },
   {
    "appearance": "LATE",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121390",
    "starterContent": true,
-   "task": "An emoji you would NOT want to receive after sending a risqué text.",
+   "task": "Un emoji que NO querrías recibir tras enviar un mensaje picante.",
    "x": true
   },
   {
    "appearance": "LATE",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select a hand emoji.",
+   "fakerHint": "Selecciona un emoji de mano.",
    "id": "121391",
    "starterContent": true,
-   "task": "A gesture you might make while giving complicated directions."
+   "task": "Un gesto que podrías hacer mientras das indicaciones complicadas."
   },
   {
    "appearance": "LATE",
@@ -600,7 +600,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121392",
    "starterContent": true,
-   "task": "Pick an object you use every day."
+   "task": "Elige un objeto que usas todos los días."
   },
   {
    "appearance": "MID-ROUND",
@@ -608,7 +608,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121393",
    "starterContent": true,
-   "task": "An object you’d feel comfortable gifting to your boss."
+   "task": "Un objeto que te sentirías cómodo regalándole a tu jefe."
   },
   {
    "appearance": "MID-ROUND",
@@ -616,15 +616,15 @@
    "fakerHint": "Selecciona un emoji de comida.",
    "id": "121399",
    "starterContent": true,
-   "task": "An item that you would NEVER eat at a buffet."
+   "task": "Un objeto que NUNCA podrías comer en un bufet."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121400",
    "starterContent": true,
-   "task": "The face you’d make if a hibachi chef threw a shrimp at you."
+   "task": "La cara que harías si un chef hibachi te lanzara un camarón."
   },
   {
    "appearance": "EARLY",
@@ -632,7 +632,7 @@
    "fakerHint": "Selecciona un emoji de símbolo.",
    "id": "121402",
    "starterContent": true,
-   "task": "A symbol you’d be okay getting tattooed somewhere on your body.",
+   "task": "Un símbolo que no te molestaría tatuarte en alguna parte de tu cuerpo.",
    "x": true
   },
   {
@@ -641,7 +641,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121409",
    "starterContent": true,
-   "task": "An object that could be useful on a ghost hunt."
+   "task": "Un objeto que podría ser útil en una cacería de fantasmas."
   },
   {
    "appearance": "EARLY",
@@ -649,32 +649,32 @@
    "fakerHint": "Selecciona un emoji de comida.",
    "id": "121410",
    "starterContent": true,
-   "task": "An item that would be difficult to eat on a roller coaster."
+   "task": "Un objeto que sería difícil de comer en una montaña rusa."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121412",
    "starterContent": true,
-   "task": "A face that looks like it says, “Time to party!”"
+   "task": "Una cara que parece que dice “¡Hora de la fiesta!”"
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121419",
    "starterContent": true,
-   "task": "A face you’d hate to see your bride make as she walked down the aisle.",
+   "task": "Una cara que odiarías ver a tu novia hacer mientras camina por el pasillo.",
    "x": true
   },
   {
    "appearance": "LATE",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select an emoji of a person.",
+   "fakerHint": "Selecciona un emoji de una persona.",
    "id": "121421",
    "starterContent": true,
-   "task": "An emoji of someone you’d be shocked to unexpectedly see at your front door."
+   "task": "Un emoji de alguien que te sorprendería ver aparecer inesperadamente en tu puerta."
   },
   {
    "appearance": "LATE",
@@ -682,7 +682,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121423",
    "starterContent": true,
-   "task": "An emoji of something that could wake you up in the morning."
+   "task": "Un emoji de algo que podría despertarte en la mañana."
   },
   {
    "appearance": "LATE",
@@ -690,15 +690,15 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121425",
    "starterContent": true,
-   "task": "Select an object you could easily operate with your teeth."
+   "task": "Selecciona un objeto que podrías operar fácilmente con tus dientes."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select an emoji of a landmark or location.",
+   "fakerHint": "Selecciona un emoji de un lugar o monumento.",
    "id": "121427",
    "starterContent": true,
-   "task": "Something you’d pay extra to see from your hotel room."
+   "task": "Algo por lo que pagarías extra por ver desde tu habitación de hotel."
   },
   {
    "appearance": "MID-ROUND",
@@ -706,31 +706,31 @@
    "fakerHint": "Selecciona un emoji de comida.",
    "id": "121429",
    "starterContent": true,
-   "task": "The worst food to get hit with in a food fight."
+   "task": "La peor comida que te puede golpear en una guerra de comida."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "FOOD-DRINK",
-   "fakerHint": "Select a food.",
+   "fakerHint": "Selecciona una comida.",
    "id": "121431",
    "starterContent": true,
-   "task": "Something you’ve had for breakfast this week."
+   "task": "Algo que tuviste en el desayuno esta semana."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "OBJECTS",
-   "fakerHint": "Select a celebration or object emoji.",
+   "fakerHint": "Selecciona un emoji de celebración u objeto.",
    "id": "121432",
    "starterContent": true,
-   "task": "Select an object you could make beautiful music with."
+   "task": "Selecciona un objeto con el que podrías hacer una música hermosa."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121433",
    "starterContent": true,
-   "task": "A face you’d hate to see your dentist make while working on you."
+   "task": "Una cara que odiarías ver hacer a tu dentista mientras está trabajando contigo."
   },
   {
    "appearance": "MID-ROUND",
@@ -738,63 +738,63 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121437",
    "starterContent": true,
-   "task": "Something you’d want to have if you were stranded on a desert island."
+   "task": "Algo que quisieras tener si estuvieras atrapado en una isla desierta."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "ANIMALS-NATURE",
-   "fakerHint": "Select an animal or nature emoji.",
+   "fakerHint": "Selecciona un emoji de animal o naturaleza.",
    "id": "121438",
    "starterContent": true,
-   "task": "If you were a witch, pick the creature you’d like to be your familiar or companion."
+   "task": "Si fueras una bruja, elige la criatura que te gustaría que fuera tu familiar o acompañante."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121439",
    "starterContent": true,
-   "task": "A face you’d make in a haunted house."
+   "task": "Una cara que harías en una casa embrujada."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "ACTIVITIES",
-   "fakerHint": "Select a sport or activity emoji.",
+   "fakerHint": "Selecciona un emoji de deporte o actividad.",
    "id": "121440",
    "starterContent": true,
-   "task": "An emoji representing a high school club or team you identified with."
+   "task": "Un emoji que representa un club o equipo de secundaria con el que te identificabas."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121441",
    "starterContent": true,
-   "task": "The face you’d make if the zoo’s gorilla gestured for you to come in the enclosure."
+   "task": "La cara que harías si el gorila del zoológico te hiciera gestos para que entres en su zona."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "ACTIVITIES",
-   "fakerHint": "Select an emoji of an activity.",
+   "fakerHint": "Selecciona el emoji de una actividad.",
    "id": "121443",
    "starterContent": true,
-   "task": "An event you’d pay a decent amount of money to watch."
+   "task": "Un evento por el que pagarías una cantidad decente de dinero para ver."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "ANIMALS-NATURE",
-   "fakerHint": "Select a nature emoji.",
+   "fakerHint": "Selecciona un emoji de la naturaleza.",
    "id": "121445",
    "starterContent": true,
-   "task": "Something you think you could see out of your nearest window."
+   "task": "Algo que crees que podrías ver afuera desde la ventana más cercana."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "ACTIVITIES",
-   "fakerHint": "Select an emoji of an activity.",
+   "fakerHint": "Selecciona el emoji de una actividad.",
    "id": "121446",
    "starterContent": true,
-   "task": "A sport or activity you would probably injure yourself doing."
+   "task": "Un deporte o actividad en el que probablemente te lesionarías."
   },
   {
    "appearance": "MID-ROUND",
@@ -802,7 +802,7 @@
    "fakerHint": "Selecciona un emoji de bandera.",
    "id": "121448",
    "starterContent": true,
-   "task": "The flag of a country where you can name at least two cities."
+   "task": "La bandera de un país del que puedes nombrar al menos dos ciudades."
   },
   {
    "appearance": "LATE",
@@ -810,7 +810,7 @@
    "fakerHint": "Selecciona un emoji de bandera.",
    "id": "121449",
    "starterContent": true,
-   "task": "The flag of a country that you know someone from."
+   "task": "La bandera de un país del que conoces a alguien."
   },
   {
    "appearance": "EARLY",
@@ -818,7 +818,7 @@
    "fakerHint": "Selecciona un emoji de bandera.",
    "id": "121450",
    "starterContent": true,
-   "task": "A flag you think has a cool design."
+   "task": "Una bandera que piensas que tiene un diseño genial."
   },
   {
    "appearance": "MID-ROUND",
@@ -826,7 +826,7 @@
    "fakerHint": "Selecciona un emoji de bandera.",
    "id": "121451",
    "starterContent": true,
-   "task": "The flag of a country whose name you can spell... right now!"
+   "task": "Una bandera de un país cuyo nombre puedes deletrear... ¡ahora mismo!"
   },
   {
    "appearance": "MID-ROUND",
@@ -834,7 +834,7 @@
    "fakerHint": "Selecciona un emoji de comida.",
    "id": "121453",
    "starterContent": true,
-   "task": "Something that is often a key ingredient when cooking."
+   "task": "Algo que suele ser un ingrediente esencial al cocinar."
   },
   {
    "appearance": "LATE",
@@ -842,7 +842,7 @@
    "fakerHint": "Selecciona un emoji de comida.",
    "id": "121455",
    "starterContent": true,
-   "task": "A food item you’d like to see in your last meal.",
+   "task": "Un alimento que te gustaría ver en tu última comida.",
    "x": true
   },
   {
@@ -851,7 +851,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121456",
    "starterContent": true,
-   "task": "Something you always make sure to pack when traveling."
+   "task": "Algo que siempre te aseguras de llevar de viaje."
   },
   {
    "appearance": "MID-ROUND",
@@ -859,7 +859,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121457",
    "starterContent": true,
-   "task": "A fun thing a kid might bring to show-and-tell."
+   "task": "Una cosa divertida que un niño traería a la exposición de la escuela."
   },
   {
    "appearance": "LATE",
@@ -867,7 +867,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121458",
    "starterContent": true,
-   "task": "Something you work with on a day-to-day basis."
+   "task": "Algo con lo que trabajas cada día."
   },
   {
    "appearance": "LATE",
@@ -875,7 +875,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121461",
    "starterContent": true,
-   "task": "An emoji you associate with BUSINESS."
+   "task": "Un emoji que asocias con NEGOCIOS."
   },
   {
    "appearance": "LATE",
@@ -883,7 +883,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121462",
    "starterContent": true,
-   "task": "Something that, if you had it, would make you feel wealthy."
+   "task": "Algo que, si lo tuvieras, te haría sentir adinerado."
   },
   {
    "appearance": "LATE",
@@ -891,58 +891,58 @@
    "fakerHint": "Selecciona un emoji de actividad.",
    "id": "121463",
    "starterContent": true,
-   "task": "An emoji that represents something you like to do in the evening."
+   "task": "Un emoji que representa algo que te gusta hacer por la noche."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select an emoji of a person.",
+   "fakerHint": "Selecciona un emoji de una persona.",
    "id": "121465",
    "starterContent": true,
-   "task": "Something or someone you frequently see on dating apps.",
+   "task": "Algo o alguien que ves frecuentemente en las apps de citas.",
    "x": true
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121467",
    "starterContent": true,
-   "task": "A face you make when you’ve seen the future!"
+   "task": "¡Una cara que haces cuando has visto el futuro!"
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select an occupation emoji.",
+   "fakerHint": "Selecciona un emoji de ocupación.",
    "id": "121468",
    "starterContent": true,
-   "task": "An emoji of a career that you respect."
+   "task": "El emoji de una carrera que respetas."
   },
   {
    "appearance": "MID-ROUND",
    "countrySpecific": true,
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121469",
    "starterContent": true,
-   "task": "The emotion you feel when at the DMV."
+   "task": "La emoción que sientes estando en el departamento automotor."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121471",
    "starterContent": true,
-   "task": "Your face when your fellow bank robbers say, “We’ve got company!”"
+   "task": "Tu cara cuando tus compañeros en el robo de un banco dicen “¡Tenemos compañía!”"
   },
   {
    "appearance": "EARLY",
    "countrySpecific": true,
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121472",
    "starterContent": true,
-   "task": "A face you’d make around your high school principal."
+   "task": "Una cara que harías cerca de tu director de la secundaria."
   },
   {
    "appearance": "MID-ROUND",
@@ -950,96 +950,96 @@
    "fakerHint": "Selecciona un emoji de símbolo.",
    "id": "121473",
    "starterContent": true,
-   "task": "A emoji you think represents the idea of “uh-oh!”"
+   "task": "Un emoji que crees que representa la idea de “¡oh-oh!”"
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SYMBOLS",
-   "fakerHint": "Select a symbol or sign emoji.",
+   "fakerHint": "Selecciona un emoji de una señal o símbolo.",
    "id": "121474",
    "starterContent": true,
-   "task": "A symbol or sign that you find confusing at first glance."
+   "task": "Una señal o símbolo que te resulta confusa a primera vista."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select a transportation emoji.",
+   "fakerHint": "Selecciona un emoji de medio de transporte.",
    "id": "121475",
    "starterContent": true,
-   "task": "Pick your preferred mode of travel when on vacation."
+   "task": "Elige tu medio de viaje preferido cuando estás de vacaciones."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select a building or transportation emoji.",
+   "fakerHint": "Selecciona un emoji de medio de transporte o edificio.",
    "id": "121476",
    "starterContent": true,
-   "task": "Someplace where it might be easy to grab a quick nap."
+   "task": "Un lugar donde sería fácil echarse una siesta rápida."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select a location emoji.",
+   "fakerHint": "Selecciona un emoji de lugar.",
    "id": "121477",
    "starterContent": true,
-   "task": "Something that YOU think represents the perfect vacation."
+   "task": "Algo que TÚ crees que representa las vacaciones perfectas."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select an emoji of a location.",
+   "fakerHint": "Selecciona el emoji de una ubicación.",
    "id": "121478",
    "starterContent": true,
-   "task": "Something the aliens ALWAYS destroy in the movies."
+   "task": "Algo que los alienígenas SIEMPRE destruyen en las películas."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select a transportation emoji.",
+   "fakerHint": "Selecciona un emoji de medio de transporte.",
    "id": "121479",
    "starterContent": true,
-   "task": "Choose your ideal first vehicle."
+   "task": "Elige tu primer vehículo ideal."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select a transportation emoji.",
+   "fakerHint": "Selecciona un emoji de medio de transporte.",
    "id": "121480",
    "starterContent": true,
-   "task": "An unusual vehicle that you could proooobably drive in a pinch."
+   "task": "Un vehículo inusual que tú probaaaaaablemente podrías conducir en un apuro."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select a transportation emoji.",
+   "fakerHint": "Selecciona un emoji de medio de transporte.",
    "id": "121481",
    "starterContent": true,
-   "task": "Something that sometimes goes tooooooo fast."
+   "task": "Algo que a veces va demasiaaaaado rápido."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121483",
    "starterContent": true,
-   "task": "How you feel when you’re interrupted... by your CRUSH!",
+   "task": "Cómo se siente cuando eres interrumpido... ¡por tu CRUSH!",
    "x": true
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121484",
    "starterContent": true,
-   "task": "Your face when you’re on your 8th consecutive work day."
+   "task": "Tu cara cuando estás en tu 8vo día de trabajo consecutivo."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select a building emoji.",
+   "fakerHint": "Selecciona un emoji de edificio.",
    "id": "121485",
    "starterContent": true,
-   "task": "It’s Godzilla! Quick, pick the building you would save from destruction."
+   "task": "¡Es Godzilla! Rápido, elige el edificio que salvarías de la destrucción."
   },
   {
    "appearance": "EARLY",
@@ -1047,7 +1047,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121486",
    "starterContent": true,
-   "task": "Something you think would be satisfying to see crushed in a hydraulic press."
+   "task": "Algo que crees que sería satisfactorio ver aplastado por una prensa hidráulica."
   },
   {
    "appearance": "MID-ROUND",
@@ -1055,81 +1055,81 @@
    "fakerHint": "Elige un emoji de objeto o animal.",
    "id": "121487",
    "starterContent": true,
-   "task": "Choose an emoji that represents one of your deepest fears."
+   "task": "Elige un emoji que represente uno de tus miedos más profundos."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select an emojij of an occupation.",
+   "fakerHint": "Selecciona un emoji de una ocupación.",
    "id": "121489",
    "starterContent": true,
-   "task": "Choose an emoji for the job your parents wish you had."
+   "task": "Elige un emoji para el trabajo que tus padres desean que tuvieras."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select an emoji of a gesture.",
+   "fakerHint": "Selecciona el emoji de un gesto.",
    "id": "121490",
    "starterContent": true,
-   "task": "A gesture you’d make to encourage a friend who’s giving a speech."
+   "task": "Un gesto que harías para apoyar a un amigo que está dando un discurso."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select an emoji of a person.",
+   "fakerHint": "Selecciona un emoji de una persona.",
    "id": "121492",
    "starterContent": true,
-   "task": "An emoji of someone or something that would make a good horror movie villain."
+   "task": "Un emoji de alguien o algo que sería un buen villano de película de terror."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "ACTIVITIES",
-   "fakerHint": "Select a sports or activity emoji.",
+   "fakerHint": "Selecciona un emoji de deportes o actividad.",
    "id": "121494",
    "starterContent": true,
-   "task": "A sport or activity that would be especially dangerous to do in the nude.",
+   "task": "Un deporte o actividad que sería especialmente peligroso hacer desnudo/a.",
    "x": true
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121495",
    "starterContent": true,
-   "task": "A face you’d make if you lost the Oscar, but the camera’s still on you."
+   "task": "Una cara que harías si perdiste el Óscar, pero las cámaras te siguen enfocando."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121498",
    "starterContent": true,
-   "task": "The face you’d make if an ex suddenly texted you, “...hey.”",
+   "task": "La cara que harías si un/a ex de repente te escribe “...ey”.",
    "x": true
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121499",
    "starterContent": true,
-   "task": "The face you’d make if you were surprised with a 2-week cruise."
+   "task": "La cara que harías si te sorprenden con un crucero de dos semanas."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121501",
    "starterContent": true,
-   "task": "A face you often see in the roller coaster on-ride photo."
+   "task": "Una cara que harías en la foto de montaña rusa."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "ACTIVITIES",
-   "fakerHint": "Select a group activity.",
+   "fakerHint": "Elige una actividad de grupo.",
    "id": "121502",
    "starterContent": true,
-   "task": "An activity a bachelorette trip is likely to include.",
+   "task": "Una actividad que es probable que un viaje de despedida de soltera incluya.",
    "x": true
   },
   {
@@ -1138,15 +1138,15 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121540",
    "starterContent": true,
-   "task": "An object you know you could destroy with your bare hands."
+   "task": "Un objeto que sabes que podrías destruir solo con tus manos."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121541",
    "starterContent": true,
-   "task": "A face you’d make to your rival just before a race starts."
+   "task": "Una cara que le harías a tu rival justo antes que comience una carrera."
   },
   {
    "appearance": "MID-ROUND",
@@ -1154,23 +1154,23 @@
    "fakerHint": "Selecciona un emoji de ropa.",
    "id": "121542",
    "starterContent": true,
-   "task": "An article of clothing you could wear to a black-tie-ish wedding."
+   "task": "Un artículo de ropa que podrías llevar a una boda de saco y corbata."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121543",
    "starterContent": true,
-   "task": "The face you’d send to reject someone from a job."
+   "task": "La cara que le enviarías a alguien para rechazarlo de un trabajo."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SYMBOLS",
-   "fakerHint": "Pick a symbol.",
+   "fakerHint": "Elige un símbolo.",
    "id": "121544",
    "starterContent": true,
-   "task": "A symbol you could use to represent The Artist Formerly Known as “You.”"
+   "task": "Un símbolo que podrías usar al Artista anteriormente conocido como “Tú”."
   },
   {
    "appearance": "LATE",
@@ -1178,7 +1178,7 @@
    "fakerHint": "Selecciona un emoji de bandera.",
    "id": "121545",
    "starterContent": true,
-   "task": "The flag of a country known for its wine.",
+   "task": "La bandera de un país conocido por su vino.",
    "x": true
   },
   {
@@ -1187,15 +1187,15 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121547",
    "starterContent": true,
-   "task": "An object you might see at a vacation rental."
+   "task": "Un objeto que podrías ver en un alquiler vacacional."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121548",
    "starterContent": true,
-   "task": "The emoji you’d use to decline an ex’s wedding invitation.",
+   "task": "El emoji que usarías para rechazar la invitación a la boda de un/a ex.",
    "x": true
   },
   {
@@ -1204,7 +1204,7 @@
    "fakerHint": "Selecciona un emoji de un animal.",
    "id": "121549",
    "starterContent": true,
-   "task": "An animal you wouldn’t be concerned about getting bitten by."
+   "task": "Un animal que no te preocuparía que te muerda."
   },
   {
    "appearance": "LATE",
@@ -1212,15 +1212,15 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121551",
    "starterContent": true,
-   "task": "An object you could use to assemble furniture."
+   "task": "Un objeto que podrías usar para ensamblar muebles."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121552",
    "starterContent": true,
-   "task": "The face you’d make after bowling a strike."
+   "task": "La cara que harías luego de hacer chuza en los bolos."
   },
   {
    "appearance": "LATE",
@@ -1228,7 +1228,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121555",
    "starterContent": true,
-   "task": "An emoji that represents a movie or show you recently watched."
+   "task": "Un emoji que representa una película o serie que has visto recientemente."
   },
   {
    "appearance": "EARLY",
@@ -1236,23 +1236,23 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121556",
    "starterContent": true,
-   "task": "An object that reminds you of being a kid."
+   "task": "Un objeto que te recuerda a tu infancia."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select an occupation emoji.",
+   "fakerHint": "Selecciona un emoji de ocupación.",
    "id": "121558",
    "starterContent": true,
-   "task": "A career you don’t think robots will ever take over."
+   "task": "Una carrera que no crees que los robots vayan a desplazar nunca."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121559",
    "starterContent": true,
-   "task": "The face you usually make when people tell you what they do for a living."
+   "task": "La cara que normalmente haces cuando la gente te dice qué hacen para vivir."
   },
   {
    "appearance": "LATE",
@@ -1260,15 +1260,15 @@
    "fakerHint": "Selecciona un emoji de bandera.",
    "id": "121611",
    "starterContent": true,
-   "task": "The flag of a country that has hosted the Olympics."
+   "task": "La bandera de un país que ha celebrado las Olimpiadas."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select an emoji of a location.",
+   "fakerHint": "Selecciona el emoji de una ubicación.",
    "id": "121612",
    "starterContent": true,
-   "task": "A place that an elementary school would visit for a field trip."
+   "task": "Un lugar que una primaria visitaría para una excursión."
   },
   {
    "appearance": "LATE",
@@ -1276,15 +1276,15 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121613",
    "starterContent": true,
-   "task": "An object that would be a really big deal if you lost it."
+   "task": "Un objeto que sería todo un tema si lo perdieras."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "121614",
    "starterContent": true,
-   "task": "The face you make when you find out aliens are 100% real AND currently on Earth."
+   "task": "La cara que harías cuando descubres que los alienígenas son 100% reales Y AHORA MISMO están en la Tierra."
   },
   {
    "appearance": "EARLY",
@@ -1292,23 +1292,23 @@
    "fakerHint": "Selecciona un emoji de bandera.",
    "id": "121615",
    "starterContent": true,
-   "task": "The flag of a country with an iconic landmark or tourist attraction."
+   "task": "La cara de un país con un monumento o atracción turística icónico/a."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "PEOPLE-BODY",
-   "fakerHint": "Select a job emoji.",
+   "fakerHint": "Selecciona un emoji de trabajo.",
    "id": "121618",
    "starterContent": true,
-   "task": "A person with an useful occupation for the apocalypse bunker."
+   "task": "Una persona con una ocupación útil para el búnker apocalíptico."
   },
   {
    "appearance": "EARLY",
    "emojiCategory": "TRAVEL-PLACES",
-   "fakerHint": "Select a building emoji.",
+   "fakerHint": "Selecciona un emoji de edificio.",
    "id": "121619",
    "starterContent": true,
-   "task": "Pick something that if you fell off of it, it would make the news."
+   "task": "Elige algo de lo que si te cayeras de él, aparecería en las noticias."
   },
   {
    "appearance": "LATE",
@@ -1316,7 +1316,7 @@
    "fakerHint": "Selecciona un emoji de un objeto.",
    "id": "121621",
    "starterContent": true,
-   "task": "An object you could make a lot of noise with."
+   "task": "Un objeto con el que podrías hacer mucho ruido."
   },
   {
    "appearance": "MID-ROUND",
@@ -1324,15 +1324,15 @@
    "fakerHint": "Selecciona un emoji de objeto o animal.",
    "id": "121623",
    "starterContent": true,
-   "task": "Something that you are not allowed to bring on an airplane."
+   "task": "Algo que no te permiten llevar en un avión."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "OBJECTS",
-   "fakerHint": "Select an object or symbol emoji.",
+   "fakerHint": "Selecciona el emoji de un objeto o símbolo.",
    "id": "121624",
    "starterContent": true,
-   "task": "Select an emoji that you might see in a very important slide deck."
+   "task": "Selecciona un emoji que podrías ver en un paquete de diapositivas muy importante."
   },
   {
    "appearance": "LATE",
@@ -1340,7 +1340,7 @@
    "fakerHint": "Selecciona un emoji de bandera.",
    "id": "121625",
    "starterContent": true,
-   "task": "Select the flag of a country whose capital you can name."
+   "task": "Selecciona la bandera de un país cuya capital puedas nombrar."
   },
   {
    "appearance": "LATE",
@@ -1348,24 +1348,24 @@
    "fakerHint": "Selecciona un emoji de símbolo.",
    "id": "121627",
    "starterContent": true,
-   "task": "A symbol that you might see in an elementary school classroom."
+   "task": "Un símbolo que podrías ver en un aula de escuela primaria."
   },
   {
    "appearance": "LATE",
    "emojiCategory": "OBJECTS",
-   "fakerHint": "Select an emoji of something round.",
+   "fakerHint": "Selecciona un emoji de algo redondo.",
    "id": "122236",
    "starterContent": true,
-   "task": "A non-peach emoji you can use to represent a butt.",
+   "task": "Un emoji que no sea el durazno que puedes usar para representar un trasero.",
    "x": true
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "SMILEYS-EMOTION",
-   "fakerHint": "Select a face emoji.",
+   "fakerHint": "Selecciona un emoji de cara.",
    "id": "122240",
    "starterContent": true,
-   "task": "The face you make when someone honks their horn at you."
+   "task": "La cara que haces cuando alguien te toca la bocina."
   },
   {
    "appearance": "MID-ROUND",
@@ -1373,15 +1373,15 @@
    "fakerHint": "",
    "id": "122246",
    "starterContent": true,
-   "task": "An emoji that says, “I’ve got pizza and I’m NOT going to share.”"
+   "task": "Un emoji que dice “Tengo pizza y NO VOY a compartirla”."
   },
   {
    "appearance": "MID-ROUND",
    "emojiCategory": "ANIMALS-NATURE",
-   "fakerHint": "Pick any animal emoji.",
+   "fakerHint": "Elige cualquier emoji de animal.",
    "id": "122311",
    "starterContent": true,
-   "task": "The animal you'd want to get bitten by and gain its abilities."
+   "task": "El animal que te gustaría que te mordiera y te transfiera sus habilidades."
   }
  ]
 }

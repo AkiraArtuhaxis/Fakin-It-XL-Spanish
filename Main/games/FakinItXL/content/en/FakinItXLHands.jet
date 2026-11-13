@@ -751,7 +751,7 @@
    "fakerHint": "",
    "id": "120876",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you’re an American patriot! YEEHAW!!!! USA! USA! USA!",
+   "task": "¡Levanta la mano si eres un patriota de tu nación! ¡MI PA-ÍS! ¡MI PA-ÍS! ¡MI PA-ÍS!",
    "x": false
   },
   {
@@ -1003,7 +1003,7 @@
    "id": "121981",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’d unabashedly let everyone see your search history.",
+   "task": "Levanta la mano si dejarías que todos vean tu historial de búsqueda.",
    "x": true
   },
   {
@@ -1012,7 +1012,7 @@
    "id": "121999",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if it has been less than five years since you were in some type of school."
+   "task": "Levanta tu mano si han pasado menos de cinco años desde que estuviste en algún tipo de escuela."
   },
   {
    "appearance": "MID-ROUND",
@@ -1020,7 +1020,7 @@
    "id": "122000",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you HATE roller coasters."
+   "task": "Levanta la mano si ODIAS las montañas rusas."
   },
   {
    "appearance": "MID-ROUND",
@@ -1029,7 +1029,7 @@
    "id": "122001",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve been to one other country, and that country is Canada."
+   "task": "Levanta la mano si has estado solo en un país extranjero, y ese país es Canadá."
   },
   {
    "appearance": "EARLY",
@@ -1037,7 +1037,7 @@
    "id": "122003",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’d eat a saucy chicken wing if it fell on your kitchen floor."
+   "task": "Levanta la mano si comerías una alita de pollo con salsa si se cayera en el piso de tu cocina."
   },
   {
    "appearance": "EARLY",
@@ -1045,7 +1045,7 @@
    "id": "122004",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve changed your sheets in the last two weeks."
+   "task": "Levanta la mano si cambiaste las sábanas en las últimas dos semanas."
   },
   {
    "appearance": "MID-ROUND",
@@ -1053,15 +1053,15 @@
    "id": "122005",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you know more than a few Yiddish words."
+   "task": "Levanta la mano si conoces varias palabras en yídis."
   },
   {
    "appearance": "MID-ROUND",
-   "fakerHint": "Raise your hand in a particular style.",
+   "fakerHint": "Levanta la mano en un estilo interesante.",
    "id": "122008",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Raise your hand like you’re a cool kid in class answering a question."
+   "task": "Levanta la mano como si fueras el niño genial de la clase respondiendo una pregunta."
   },
   {
    "appearance": "MID-ROUND",
@@ -1069,7 +1069,7 @@
    "id": "122009",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you occasionally eat canned foods OUT of the can."
+   "task": "Levanta la mano si ocasionalmente comes comida enlatada FUERA de la lata."
   },
   {
    "appearance": "MID-ROUND",
@@ -1077,7 +1077,7 @@
    "id": "122010",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you own any type of red undergarments.",
+   "task": "Levanta la mano si tienes alguna prenda de ropa interior roja.",
    "x": true
   },
   {
@@ -1086,7 +1086,7 @@
    "id": "122011",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Raise your hand if you can currently identify which way is west, in relation to you."
+   "task": "Levanta la mano si puedes identificar correctamente para qué lado es el oeste, en relación a ti."
   },
   {
    "appearance": "LATE",
@@ -1094,7 +1094,7 @@
    "id": "122013",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever met a nun."
+   "task": "Levanta la mano si alguna vez conociste una monja."
   },
   {
    "appearance": "MID-ROUND",
@@ -1102,7 +1102,7 @@
    "id": "122014",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever touched a giraffe."
+   "task": "Levanta la mano si alguna vez tocaste una jirafa."
   },
   {
    "appearance": "EARLY",
@@ -1110,7 +1110,7 @@
    "id": "122024",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you were named after a specific someone."
+   "task": "Levanta la mano si fuiste nombrado en honor a alguien específico."
   },
   {
    "appearance": "MID-ROUND",
@@ -1118,7 +1118,7 @@
    "id": "122026",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever worn real fur."
+   "task": "Levanta la mano si alguna vez usaste pieles de verdad."
   },
   {
    "appearance": "LATE",
@@ -1126,7 +1126,7 @@
    "id": "122027",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you know everyone here’s birthday."
+   "task": "Levanta la mano si sabes los cumpleaños de todos aquí."
   },
   {
    "appearance": "LATE",
@@ -1134,15 +1134,15 @@
    "id": "122029",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you know how to make a fire without matches or lighters."
+   "task": "Levanta la mano si sabes cómo hacer fuego sin fósforos o encendedores."
   },
   {
    "appearance": "LATE",
-   "fakerHint": "Raise your hand in a funny way.",
+   "fakerHint": "Levanta la mano de forma graciosa.",
    "id": "122030",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Raise your hand like you’re trying to get a shirt from the T-shirt cannon."
+   "task": "Levanta la mano como si estuvieras intentando conseguir una camiseta de un cañón de camisetas."
   },
   {
    "appearance": "LATE",
@@ -1150,7 +1150,7 @@
    "id": "122031",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever thrown trash into the ocean."
+   "task": "Levanta la mano si alguna vez tiraste basura al océano."
   },
   {
    "appearance": "EARLY",
@@ -1158,7 +1158,7 @@
    "id": "122032",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you kinda feel like you could be the leader of this group."
+   "task": "Levanta la mano si un poco sientes que podrías ser el líder de este grupo."
   },
   {
    "appearance": "EARLY",
@@ -1166,7 +1166,7 @@
    "id": "122033",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you stay home more Saturday nights than you go out.",
+   "task": "Levanta la mano si la mayoría de las noches de sábado prefieres quedarte en casa a salir.",
    "x": true
   },
   {
@@ -1174,35 +1174,35 @@
    "fakerHint": "",
    "id": "122076",
    "isInRoomOnly": false,
-   "task": "Raise your hand if there's probably something rotting in your fridge right now."
+   "task": "Levanta la mano si probablemente haya algo pudriéndose en este momento en tu refrigerador."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122077",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you are envious of cats."
+   "task": "Levanta la mano si sientes envidia de los gatos."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122078",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you can do 10 push-ups."
+   "task": "Levanta la mano si puedes hacer 10 flexiones de brazo."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122079",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you care a lot about beans."
+   "task": "Levanta la mano si te importan mucho los frijoles."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122080",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you completely trust your Human Resources department.",
+   "task": "Levanta la mano si confías por completo en tu departamento de Recursos Humanos.",
    "x": true
   },
   {
@@ -1210,56 +1210,56 @@
    "fakerHint": "",
    "id": "122081",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you know in your heart that you would be a good rapper."
+   "task": "Levanta la mano si sabes en tu corazón que podrías ser un buen rapero."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122082",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you know, off the top of your head, how to convert grams to ounces."
+   "task": "Levanta la mano si sabes mentalmente cómo convertir de gramos a onzas."
   },
   {
    "appearance": "EARLY",
    "fakerHint": "",
    "id": "122083",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you straight up HATE pranks."
+   "task": "Levanta la mano si DETESTAS las bromas."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122084",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you think a portobello mushroom burger can be satisfying and delicious."
+   "task": "Levanta la mano si crees que una hamburguesa de hongos portobello puede ser deliciosa y satisfacerte."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122085",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you think you could quit all social media, cold turkey, for a year."
+   "task": "Levanta la mano si crees que podrías dejar todas las redes sociales, de repente, por un año."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122086",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you think you have more cash on you right now than the other players."
+   "task": "Levanta la mano si crees que tienes más efectivo en mano ahora mismo que los demás jugadores."
   },
   {
    "appearance": "EARLY",
    "fakerHint": "",
    "id": "122087",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you think you'd be pretty useless in an apocalyptic wasteland."
+   "task": "Levanta la mano si crees que serías bastante inútil en un mundo apocalíptico."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122088",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you were still in school in 2005.",
+   "task": "Levanta la mano si seguías en la escuela en 2005.",
    "x": true
   },
   {
@@ -1267,14 +1267,14 @@
    "fakerHint": "",
    "id": "122089",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you wouldn't hesitate to send back food at a restaurant."
+   "task": "Levanta la mano si no dudarías en devolver la comida en un restaurante."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122090",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you’d still flirt with someone who was at a party with their spouse.",
+   "task": "Levanta la mano si coquetearías con alguien que vino a una fiesta junto a su cónyuge.",
    "x": true
   },
   {
@@ -1282,21 +1282,21 @@
    "fakerHint": "",
    "id": "122091",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you're the kind of nerd who has a favorite tree."
+   "task": "Levanta la mano si eres el tipo de nerd que tiene un árbol favorito."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122092",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you’ve ever lied about how much you’ve spent on a present."
+   "task": "Levanta la mano si alguna vez mentiste acerca de cuánto has gastado en un regalo."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122093",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you've ever put a lie on your resume.",
+   "task": "Levanta la mano si alguna vez pusiste una mentira en tu CV.",
    "x": true
   },
   {
@@ -1304,14 +1304,14 @@
    "fakerHint": "",
    "id": "122094",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you've ever tried a little pet food just to see what it tastes like."
+   "task": "Levanta la mano si alguna vez probaste un poco de comida para mascotas para ver cómo sabía."
   },
   {
    "appearance": "LATE",
    "fakerHint": "",
    "id": "122095",
    "isInRoomOnly": false,
-   "task": "Raise your hand... if you want!"
+   "task": "Levanta la mano... ¡si quieres!"
   },
   {
    "appearance": "LATE",
@@ -1319,15 +1319,15 @@
    "id": "122168",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you refuse to understand Shakespeare."
+   "task": "Levanta la mano si te rehusas a entender Shakespeare."
   },
   {
    "appearance": "MID-ROUND",
-   "fakerHint": "Hold your hand at a certain height.",
+   "fakerHint": "Levanta la mano a una determinada altura.",
    "id": "122173",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Raise your hand to the height you’d usually hold an umbrella."
+   "task": "Levanta la mano a la altura que normalmente sostienes un paraguas."
   },
   {
    "appearance": "LATE",
@@ -1335,7 +1335,7 @@
    "id": "122177",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’re currently a little constipated.",
+   "task": "Levanta la mano si actualmente estás un poco constipado.",
    "x": true
   },
   {
@@ -1344,7 +1344,7 @@
    "id": "122185",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you voted in the last election.",
+   "task": "Levanta la mano si votaste en las últimas elecciones.",
    "x": true
   },
   {
@@ -1353,7 +1353,7 @@
    "id": "122187",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you have NO idea where cool people hang out."
+   "task": "Levanta la mano si no tienes NI IDEA de dónde se junta la gente con onda."
   },
   {
    "appearance": "MID-ROUND",
@@ -1361,7 +1361,7 @@
    "id": "122188",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you would like to move to a retirement community right now."
+   "task": "Levanta la mano si te gustaría mudarte a un hogar de retiro en este momento."
   },
   {
    "appearance": "MID-ROUND",
@@ -1369,16 +1369,16 @@
    "id": "122189",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you hate the sight of blood.",
+   "task": "Levanta la mano si odias ver sangre.",
    "x": true
   },
   {
    "appearance": "LATE",
-   "fakerHint": "Raise your hand in an unusual way.",
+   "fakerHint": "Levanta la mano de una manera inusual.",
    "id": "122192",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Raise your hand as if you were “raising the roof.”"
+   "task": "Levanta la mano como si estuvieras “dándolo todo en la hinchada”."
   },
   {
    "appearance": "MID-ROUND",
@@ -1387,7 +1387,7 @@
    "id": "122194",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever lied on your taxes.",
+   "task": "Levanta la mano si alguna vez mentiste en tus impuestos.",
    "x": true
   },
   {
@@ -1396,7 +1396,7 @@
    "id": "122197",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you think you could change a tire without looking up instructions."
+   "task": "Levanta la mano si crees que podrías cambiar un neumático sin buscar instrucciones."
   },
   {
    "appearance": "EARLY",
@@ -1404,7 +1404,7 @@
    "id": "122206",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you are NOT planning to start a podcast."
+   "task": "Levanta la mano si NO planeas comenzar un podcast."
   },
   {
    "appearance": "LATE",
@@ -1412,7 +1412,7 @@
    "id": "122208",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you would definitely lose a finger if you tried to use a lightsaber."
+   "task": "Levanta la mano si definitivamente perderías un dedo al intentar usar un sable láser."
   },
   {
    "appearance": "LATE",
@@ -1420,7 +1420,7 @@
    "id": "122219",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve made out with a bartender or member of the waitstaff.",
+   "task": "Levanta la mano si te has besuqueado con un bartender o un miembro del cátering.",
    "x": true
   },
   {
@@ -1429,7 +1429,7 @@
    "id": "122230",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever lied about voting.",
+   "task": "Levanta la mano si alguna vez mentiste sobre votar.",
    "x": true
   },
   {
@@ -1438,7 +1438,7 @@
    "id": "122231",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’re avoiding scratching an embarrassing itch right now."
+   "task": "Levanta la mano si estás evitando rascarte de forma embarazosa en estos momentos."
   },
   {
    "appearance": "LATE",
@@ -1446,7 +1446,7 @@
    "id": "122232",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you find one of the “Fakin’ It” avatars attractive.",
+   "task": "Levanta la mano si te parece que alguno de los avatares de “Fakin’ It” es atractivo/a.",
    "x": true
   },
   {
@@ -1455,7 +1455,7 @@
    "id": "122260",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you think there’s life on Mars."
+   "task": "Levanta la mano si crees que hay vida en Marte."
   },
   {
    "appearance": "LATE",
@@ -1464,7 +1464,7 @@
    "id": "122266",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you never return your grocery cart."
+   "task": "Levanta la mano si nunca regresas tu carrito de compras."
   },
   {
    "appearance": "LATE",
@@ -1473,7 +1473,7 @@
    "id": "122270",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you have a business idea you genuinely think you could sell on Shark Tank."
+   "task": "Levanta la mano si tienes una idea de negocios que genuinamente podrías vender en Negociando con tiburones."
   },
   {
    "appearance": "MID-ROUND",
@@ -1481,7 +1481,7 @@
    "id": "122274",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever called into a shopping show to buy something."
+   "task": "Levanta la mano si alguna vez llamaste a un programa de compras para comprar algo."
   },
   {
    "appearance": "LATE",
@@ -1490,7 +1490,7 @@
    "id": "122275",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever received money from a class-action lawsuit."
+   "task": "Levanta la mano si alguna vez recibiste dinero de una demanda colectiva."
   },
   {
    "appearance": "MID-ROUND",
@@ -1498,7 +1498,7 @@
    "id": "122277",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you think you’d hold your own on Survivor."
+   "task": "Levanta la mano si crees que podrías hacerlo bien en Survivor."
   },
   {
    "appearance": "LATE",
@@ -1506,7 +1506,7 @@
    "id": "122281",
    "isInRoomOnly": false,
    "starterContent": false,
-   "task": "Raise your hand if you think you could convince people your name was Scott."
+   "task": "Levanta la mano si crees que podrías convencer a otras personas de que tu nombre es Scott."
   },
   {
    "appearance": "EARLY",
@@ -1514,7 +1514,7 @@
    "id": "122283",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever asked AI for advice."
+   "task": "Levanta la mano si alguna vez le pediste consejo a una IA."
   },
   {
    "appearance": "LATE",
@@ -1522,7 +1522,7 @@
    "id": "122284",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you can quote a line from “Legally Blonde.” Any line!"
+   "task": "Levanta la mano si puedes citar una línea de “Legalmente rubia”. ¡Cualquier línea!"
   },
   {
    "appearance": "MID-ROUND",
@@ -1530,7 +1530,7 @@
    "id": "122285",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve seen the northern lights."
+   "task": "Levanta la mano si has visto las luces del norte."
   },
   {
    "appearance": "LATE",
@@ -1538,7 +1538,7 @@
    "id": "122286",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you had a formative crush on a cartoon character.",
+   "task": "Levanta la mano si has tenido un crush en un personaje de caricaturas que te marcó.",
    "x": true
   },
   {
@@ -1547,7 +1547,7 @@
    "id": "122290",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever complained on social media about an airline and tagged them."
+   "task": "Levanta la mano si alguna vez te quejaste en las redes sociales sobre una aerolínea y la etiquetaste."
   },
   {
    "appearance": "LATE",
@@ -1555,7 +1555,7 @@
    "id": "122292",
    "isInRoomOnly": true,
    "starterContent": true,
-   "task": "Hold up as many fingers as hours you would have to be stuck in an elevator before starting a \"pee corner.\"",
+   "task": "Levanta la mano si alguna vez te orinaste encima en un espacio cerrado.",
    "x": true
   },
   {
@@ -1563,7 +1563,7 @@
    "fakerHint": "",
    "id": "122294",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you’ve ever sent fan mail to a famous person."
+   "task": "Levanta la mano si alguna vez le enviaste correo como fan a una persona famosa."
   },
   {
    "appearance": "MID-ROUND",
@@ -1571,7 +1571,7 @@
    "id": "122295",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you keep a journal or diary."
+   "task": "Levanta la mano si escribes un diario personal."
   },
   {
    "appearance": "MID-ROUND",
@@ -1579,7 +1579,7 @@
    "id": "122300",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you keep a photo of someone in your wallet."
+   "task": "Levanta la mano si tienes la foto de alguien en tu billetera."
   },
   {
    "appearance": "MID-ROUND",
@@ -1587,7 +1587,7 @@
    "id": "122316",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve touched a painting at a museum."
+   "task": "Levanta la mano si has tocado alguna pintura en un museo."
   },
   {
    "appearance": "EARLY",
@@ -1595,7 +1595,7 @@
    "id": "122317",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you start decorating for Halloween in September."
+   "task": "Levanta la mano si empiezas a decorar para Halloween en septiembre."
   },
   {
    "appearance": "EARLY",
@@ -1603,7 +1603,7 @@
    "id": "122318",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve personally lit a firework."
+   "task": "Levanta la mano si personalmente has encendido fuegos artificiales."
   },
   {
    "appearance": "LATE",
@@ -1611,7 +1611,7 @@
    "id": "122319",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if your photo is hanging on the wall of a restaurant."
+   "task": "Levanta la mano si tu foto está colgada en la pared de un restaurante."
   },
   {
    "appearance": "LATE",
@@ -1619,7 +1619,7 @@
    "id": "122321",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if your nightly skincare routine takes over 30 minutes."
+   "task": "Levanta la mano si tu rutina de skincare por la noche toma más de 30 minutos."
   },
   {
    "appearance": "EARLY",
@@ -1627,7 +1627,7 @@
    "id": "122322",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’d be way too afraid to spend the whole night in a cemetery."
+   "task": "Levanta la mano si te daría demasiado miedo pasar toda la noche en un cementerio."
   },
   {
    "appearance": "LATE",
@@ -1636,7 +1636,7 @@
    "id": "122323",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you subscribe to National Geographic."
+   "task": "Levanta la mano si estás suscrito a National Geographic."
   },
   {
    "appearance": "MID-ROUND",
@@ -1644,7 +1644,7 @@
    "id": "122324",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you love small talk."
+   "task": "Levanta la mano si te gusta las conversaciones sin importancia."
   },
   {
    "appearance": "LATE",
@@ -1652,7 +1652,7 @@
    "id": "122325",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if sports cars don’t impress you much."
+   "task": "Levanta la mano si los autos deportivos no te llaman la atención."
   },
   {
    "appearance": "MID-ROUND",
@@ -1660,7 +1660,7 @@
    "id": "122363",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you believe in reincarnation.",
+   "task": "Levanta la mano si crees en la reencarnación.",
    "x": true
   },
   {
@@ -1669,7 +1669,7 @@
    "id": "122364",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever seriously considered joining a clergy of some sort."
+   "task": "Levanta la mano si has considerado seriamente unirte a algún tipo de clero."
   },
   {
    "appearance": "MID-ROUND",
@@ -1677,7 +1677,7 @@
    "id": "122366",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you think you do most of the household labor in your home.",
+   "task": "Levanta la mano si crees que haces la mayor parte del trabajo doméstico en tu hogar.",
    "x": true
   },
   {
@@ -1686,7 +1686,7 @@
    "id": "122367",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if there’s a celebrity you’ve been told you look like."
+   "task": "Levanta la mano si hay una celebridad a la que te han dicho que te pareces."
   },
   {
    "appearance": "LATE",
@@ -1694,7 +1694,7 @@
    "id": "122368",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever been greeted at the airport by someone holding a sign with your name on it."
+   "task": "Levanta la mano si alguna vez has sido recibido en el aeropuerto con alguien sosteniendo un cartel con tu nombre."
   },
   {
    "appearance": "LATE",
@@ -1702,7 +1702,7 @@
    "id": "122384",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever been on a “man-on-the-street” social media show."
+   "task": "Levanta la mano si alguna vez has aparecido en un show de redes sociales estilo “persona en la calle”."
   },
   {
    "appearance": "EARLY",
@@ -1710,7 +1710,7 @@
    "id": "122386",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you can name all the Teenage Mutant Ninja Turtles."
+   "task": "Levanta la mano si puedes nombrar todas las Tortugas Ninja."
   },
   {
    "appearance": "MID-ROUND",
@@ -1718,7 +1718,7 @@
    "id": "122395",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever ridden in a blimp or hot air balloon."
+   "task": "Levanta la mano si alguna vez has montado un dirigible o un globo de aire caliente."
   },
   {
    "appearance": "LATE",
@@ -1726,7 +1726,7 @@
    "id": "122396",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you think you have a fake laugh that could actually pass as real."
+   "task": "Levanta la mano si crees que tu risa falsa puede pasar como verdadera."
   },
   {
    "appearance": "LATE",
@@ -1734,7 +1734,7 @@
    "id": "122398",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you own an article of clothing that’s designer."
+   "task": "Levanta la mano si posees una prenda que es de diseñador."
   },
   {
    "appearance": "LATE",
@@ -1742,7 +1742,7 @@
    "id": "122419",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you hate going back to your hometown."
+   "task": "Levanta la mano si odias volver a tu ciudad/pueblo natal."
   },
   {
    "appearance": "EARLY",
@@ -1750,7 +1750,7 @@
    "id": "122424",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve touched a live cow."
+   "task": "Levanta la mano si has tocado una vaca viva."
   },
   {
    "appearance": "LATE",
@@ -1758,7 +1758,7 @@
    "id": "122425",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you know at least one card trick."
+   "task": "Levanta la mano si conoces al menos un truco de cartas."
   },
   {
    "appearance": "EARLY",
@@ -1766,7 +1766,7 @@
    "id": "122427",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever dissected something.",
+   "task": "Levanta la mano si alguna vez disecaste algo.",
    "x": true
   },
   {
@@ -1775,7 +1775,7 @@
    "id": "122429",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you consider yourself “a bit of a baller.”",
+   "task": "Levanta la mano si te consideras alguien que “re mueve la pelota”.",
    "x": true
   },
   {
@@ -1784,7 +1784,7 @@
    "id": "122430",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever appeared in a talent show."
+   "task": "Levanta la mano si alguna vez apareciste en un show de talentos."
   },
   {
    "appearance": "EARLY",
@@ -1792,7 +1792,7 @@
    "id": "122431",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever climbed to the very top of a rock wall."
+   "task": "Levanta la mano si alguna vez escalaste hasta la cima de una pared de roca."
   },
   {
    "appearance": "MID-ROUND",
@@ -1801,7 +1801,7 @@
    "id": "122468",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever ridden in a Waymo."
+   "task": "Levanta la mano si alguna vez anduviste en un auto autónomo."
   },
   {
    "appearance": "LATE",
@@ -1809,7 +1809,7 @@
    "id": "122469",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever worked in a kitchen. (YES CHEF!)"
+   "task": "Levanta la mano si alguna vez trabajaste en una cocina. (¡SÍ CHEF!)"
   },
   {
    "appearance": "EARLY",
@@ -1817,7 +1817,7 @@
    "id": "122472",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if your hair is your natural color right now."
+   "task": "Levanta la mano si tu cabello tiene su color natural ahora mismo."
   },
   {
    "appearance": "LATE",
@@ -1825,7 +1825,7 @@
    "id": "122474",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever wanted to steal the fancy parmesan grater from a restaurant."
+   "task": "Levanta la mano si alguna vez quisiste robar el elegante rallador de parmesano de un restaurante."
   },
   {
    "appearance": "MID-ROUND",
@@ -1833,7 +1833,7 @@
    "id": "122475",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve ever been pickpocketed."
+   "task": "Levanta la mano si alguna vez te robaron algo de los bolsillos."
   },
   {
    "appearance": "MID-ROUND",
@@ -1841,7 +1841,7 @@
    "id": "122476",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you think you could eat two tuna sandwiches right now."
+   "task": "Levanta la mano si crees que podrías comerte dos sándwiches de atún ahora mismo."
   },
   {
    "appearance": "EARLY",
@@ -1849,7 +1849,7 @@
    "id": "122477",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you're fine with wearing shoes in the house."
+   "task": "Levanta la mano si no tienes problema en usar zapatos dentro de la casa."
   },
   {
    "appearance": "LATE",
@@ -1857,7 +1857,7 @@
    "id": "122478",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve been on a boat anytime in the last year."
+   "task": "Levanta la mano si has estado en un barco en algún momento de este último año."
   },
   {
    "appearance": "MID-ROUND",
@@ -1865,7 +1865,7 @@
    "id": "122479",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you’ve touched a hammer in the last month."
+   "task": "Levanta la mano si has tocado un martillo en el último mes."
   },
   {
    "appearance": "EARLY",
@@ -1873,7 +1873,7 @@
    "id": "122481",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you flippin’ love Thai food!"
+   "task": "¡Levanta la mano si te recontra encanta la comida tailandesa!"
   },
   {
    "appearance": "LATE",
@@ -1881,14 +1881,14 @@
    "id": "122482",
    "isInRoomOnly": false,
    "starterContent": true,
-   "task": "Raise your hand if you think you could stay on a buckin’ bronco for more than 10 seconds."
+   "task": "Levanta la mano si crees que podrías estar en un caballo indomable por más de 10 segundos."
   },
   {
    "appearance": "MID-ROUND",
    "fakerHint": "",
    "id": "122515",
    "isInRoomOnly": false,
-   "task": "Raise your hand if you think you’re currently in the best shape of your life."
+   "task": "Levanta la mano si crees que actualmente estás en el mejor estado físico de tu vida."
   }
  ]
 }
