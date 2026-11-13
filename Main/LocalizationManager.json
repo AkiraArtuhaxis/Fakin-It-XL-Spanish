@@ -39,7 +39,7 @@
       "PLAYER_CONTENT_FILTERING_HATE_SPEECH": "Moderado",
       "PLAYER_CONTENT_FILTERING_PROFANITY": "Estricto",
       "MODERATION": "Moderación",
-      "MODERATION_DESCRIPTION": "Permite que moderadores aprueben o rechacen las respuestas. Los moderadores se unen desde mod.jackbox.tv.",
+      "MODERATION_DESCRIPTION": "Permite que moderadores aprueben o rechacen las respuestas. Los moderadores se unen desde mod.jackbox.lol.",
       "MODERATION_PASSWORD": "Contraseña de moderador",
       "FILTER_US_CENTRIC": "Filtrar contenido de EE.UU.",
       "FILTER_US_CENTRIC_DESCRIPTION": "Reduce el número de enunciados centrados en EE.UU.",
