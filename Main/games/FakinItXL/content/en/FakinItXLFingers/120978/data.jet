@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Del 1 al 5, ¿qué tan veraz es lo que subes a redes sociales con respecto a tu vida real?"
+  }
+ ]
+}

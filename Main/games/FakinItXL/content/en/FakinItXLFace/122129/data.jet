@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Pon la cara que harías antes de matar por piedad a tu amigo que se acaba de convertir en zombi."
+  }
+ ]
+}

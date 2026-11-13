@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Levanta tantos dedos como la cantidad aceptable de mensajes que enviar a tu crush antes de recibir una respuesta."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Levanta tantos dedos como bebidas alcohólicas que hayas tomado en las últimas 24 horas."
+  }
+ ]
+}

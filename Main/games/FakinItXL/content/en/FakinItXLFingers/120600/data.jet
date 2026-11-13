@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Levanta la cantidad de dedos, siendo diez el más alto, que representa lo útil que te consideras en la casa."
+  }
+ ]
+}

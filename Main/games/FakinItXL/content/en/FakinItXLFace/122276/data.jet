@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "La cara que tendrías en tu tercer pasada consecutiva en la atracción “It’s a Small World” de Disney World."
+  }
+ ]
+}

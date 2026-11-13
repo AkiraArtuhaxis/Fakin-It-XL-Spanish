@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Pon la cara que harías cuando llegas 16 minutos tarde y ya ocuparon tu reservación."
+  }
+ ]
+}

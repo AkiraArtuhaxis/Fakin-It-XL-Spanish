@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Levanta el número de dedos que representa la altura de tu compañero/a ideal, siendo 1 bajito y 10 muy alto."
+  }
+ ]
+}

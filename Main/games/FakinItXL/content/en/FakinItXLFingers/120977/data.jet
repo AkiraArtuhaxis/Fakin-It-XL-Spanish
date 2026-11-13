@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Si sabes lengua de señas, ¡seña una palabrota! Si no, muestra vergüenza por no saber."
+  }
+ ]
+}

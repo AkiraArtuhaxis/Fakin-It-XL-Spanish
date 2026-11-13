@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "¿Qué animal sería un muppet sexy? Sí, más sexy que la Señorita Piggy."
+  }
+ ]
+}

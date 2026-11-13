@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Pon la cara que haces cuando tu grupo de raros le gana a los bravucones en un partido de béisbol y así salvan el vecindario."
+  }
+ ]
+}

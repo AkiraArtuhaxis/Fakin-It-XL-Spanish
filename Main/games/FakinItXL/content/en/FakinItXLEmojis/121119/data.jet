@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Debes traicionar a César, ¡pero no tienes cuchillos a mano! Selecciona el mejor objeto para asesinar."
+  }
+ ]
+}

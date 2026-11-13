@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "¡Levanta la mano si eres un patriota de tu nación! ¡MI PA-ÍS! ¡MI PA-ÍS! ¡MI PA-ÍS!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "La cara que pones cuando una cita empieza a explicarte en detalle las películas de Quentin Tarantino."
+  }
+ ]
+}

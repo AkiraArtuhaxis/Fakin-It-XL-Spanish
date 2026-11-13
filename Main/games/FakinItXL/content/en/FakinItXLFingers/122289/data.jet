@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Del 1 al 5, levanta dedos que demuestren tu nivel de cuidado al acercarte a un caballo."
+  }
+ ]
+}

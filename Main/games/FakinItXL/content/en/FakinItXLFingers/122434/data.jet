@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Levanta dedos por el número de propiedades que uno debe poseer antes de que lo consideres REALMENTE rico."
+  }
+ ]
+}

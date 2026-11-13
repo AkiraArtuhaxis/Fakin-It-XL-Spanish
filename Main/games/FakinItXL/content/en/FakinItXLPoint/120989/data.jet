@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Apunta a un lugar de tu cuerpo donde tu pelo sea tan largo como para trenzarlo."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Estás en la cárcel y tienes una llamada. ¿Qué emoji llamarías para que te ayude?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "De todos los emojis disponibles, ¿cuál sería el tatuaje de espalda baja perfecto?"
+  }
+ ]
+}

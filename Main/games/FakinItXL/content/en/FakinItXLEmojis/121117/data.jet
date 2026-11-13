@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "La persona del coche de al lado en luz roja es un bombón. ¿Qué le lanzarías al coche para llamar su atención?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Si fueras una bruja, elige la criatura que te gustaría que fuera tu familiar o acompañante."
+  }
+ ]
+}

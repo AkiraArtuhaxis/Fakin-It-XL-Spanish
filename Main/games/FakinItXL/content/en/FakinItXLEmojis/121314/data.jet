@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "El emoji que mandarías para decir “Si estás pasando por momentos difíciles, estoy aquí para ti”."
+  }
+ ]
+}

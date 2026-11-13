@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Indica con los dedos cuántas veces podrías abrazar a un cerdo en un zoológico de mascotas antes de que se vuelva algo raro."
+  }
+ ]
+}

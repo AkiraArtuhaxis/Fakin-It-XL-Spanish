@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Apunta al jugador que puede resolver este problema más rápido mentalmente: (34 x 5)/2 = ???"
+  }
+ ]
+}

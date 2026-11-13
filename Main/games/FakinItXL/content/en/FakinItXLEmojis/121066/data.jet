@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "¡Oh, oh! ¡Te van a atropellar! ¿Qué vehículo quieres que te aplaste?"
+  }
+ ]
+}
