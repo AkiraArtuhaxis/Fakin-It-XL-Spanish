@@ -2,9 +2,9 @@
 
 Parche de traducción no oficial de [Jackbox en español](https://traducciones.jackbox.lol/) para Fakin' It XL. Este repositorio es utilizado por [Jackbox Utility](https://github.com/JackboxUtility).
 
-- **Estado de traducción:** La traducción no ha sido terminada.
+- **Estado de traducción:** Todo el contenido textual del juego está traducido.
 - **Estado de doblaje:** No está doblado
-- **Versión:** TBD
+- **Versión:** 1793.1-ES
 - **Plataformas soportadas:** Steam, Epic Games Store
 
 ## Cómo utilizar
