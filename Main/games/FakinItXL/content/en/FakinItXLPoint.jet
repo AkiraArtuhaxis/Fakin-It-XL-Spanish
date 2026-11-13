@@ -13,6 +13,7 @@
    "fakerHint": "",
    "id": "120536",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que sería el/la mejor vampiro."
   },
   {
@@ -48,6 +49,7 @@
    "fakerHint": "",
    "id": "120550",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que probablemente diga más la palabra “bro”."
   },
   {
@@ -83,6 +85,7 @@
    "fakerHint": "",
    "id": "120567",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que es el peor bailarín."
   },
   {
@@ -135,6 +138,7 @@
    "fakerHint": "",
    "id": "120690",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona con la que te gustaría estar atrapado en una isla desierta."
   },
   {
@@ -261,6 +265,7 @@
    "fakerHint": "",
    "id": "120710",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona con el peor gusto en música."
   },
   {
@@ -305,6 +310,7 @@
    "fakerHint": "",
    "id": "120716",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona más boba."
   },
   {
@@ -336,6 +342,7 @@
    "fakerHint": "",
    "id": "120721",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que moriría primero en una película de terror."
   },
   {
@@ -350,6 +357,7 @@
    "fakerHint": "",
    "id": "120723",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que probablemente tenga más correos electrónicos sin leer."
   },
   {
@@ -378,6 +386,7 @@
    "fakerHint": "",
    "id": "120728",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que es más probable que vaya a una Comic-Con."
   },
   {
@@ -392,6 +401,7 @@
    "fakerHint": "",
    "id": "120730",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que, si mágicamente cambiara cuerpos contigo, realmente te arruinaría tu vida."
   },
   {
@@ -399,6 +409,7 @@
    "fakerHint": "",
    "id": "120731",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que debería tener su propio reality show."
   },
   {
@@ -406,6 +417,7 @@
    "fakerHint": "",
    "id": "120733",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que tiene la mejor risa."
   },
   {
@@ -486,6 +498,7 @@
    "fakerHint": "",
    "id": "120776",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona con la que más querrías compartir un traje de caballo para dos personas."
   },
   {
@@ -507,6 +520,7 @@
    "fakerHint": "",
    "id": "120779",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que es más probable que grite si ve una rata."
   },
   {
@@ -563,6 +577,7 @@
    "fakerHint": "",
    "id": "120787",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que es más probable que tenga una discusión prolongada en el internet."
   },
   {
@@ -591,6 +606,7 @@
    "fakerHint": "",
    "id": "120795",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que te gustaría ver con un gran disfraz de oso de peluche."
   },
   {
@@ -657,6 +673,7 @@
    "fakerHint": "",
    "id": "120917",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a quien todavía creería en las criptomonedas por algún motivo."
   },
   {
@@ -762,6 +779,7 @@
    "fakerHint": "",
    "id": "120937",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a quien vería un graffiti en la calle y diría “Tiene sentido”."
   },
   {
@@ -830,6 +848,7 @@
    "fakerHint": "",
    "id": "120996",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a quien le molesta el error gramaticales en esta oración."
   },
   {
@@ -837,6 +856,7 @@
    "fakerHint": "",
    "id": "120998",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que sería más molesta si fuera invisible.",
    "x": false
   },
@@ -882,6 +902,7 @@
    "fakerHint": "",
    "id": "121008",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a quien tendría la mayor energía de Karen en una experiencia de restaurante."
   },
   {
@@ -942,6 +963,7 @@
    "fakerHint": "",
    "id": "121018",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a quien sabe más sobre evoluciones de Pokémon que sobre finanzas personales.",
    "x": false
   },
@@ -1078,6 +1100,7 @@
    "fakerHint": "",
    "id": "122056",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que es más probable que se resbale con una cáscara de banana."
   },
   {
@@ -1151,6 +1174,7 @@
    "fakerHint": "",
    "id": "122066",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que probablemente le pedía MÁS tarea a su profe."
   },
   {
@@ -1158,6 +1182,7 @@
    "fakerHint": "",
    "id": "122067",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que llora desconsoladamente con las películas animadas."
   },
   {
@@ -1172,6 +1197,7 @@
    "fakerHint": "",
    "id": "122069",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que tiene un trabajo que nadie entiende realmente."
   },
   {
@@ -1179,6 +1205,7 @@
    "fakerHint": "",
    "id": "122070",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que te das cuenta que iba primero en la fila en la primaria."
   },
   {
@@ -1193,6 +1220,7 @@
    "fakerHint": "",
    "id": "122072",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que te sorprendería menos descubrir que forma parte de la realeza en secreto."
   },
   {
@@ -1381,7 +1409,7 @@
    "fakerHint": "",
    "id": "122510",
    "isInRoomOnly": false,
-   "starterContent": false,
+   "starterContent": true,
    "task": "Apunta al jugador que probablemente tiene un millón de pestañas abiertas en su computadora."
   },
   {
@@ -1410,6 +1438,7 @@
    "fakerHint": "",
    "id": "122516",
    "isInRoomOnly": false,
+   "starterContent": true,
    "task": "Apunta a la persona que es más probable que arme un berrinche tras perder en un juego de mesa."
   }
  ]
